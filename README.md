@@ -3,9 +3,8 @@
 Paper list for industrial image anomaly detection
 
 
-# 1 unsupervised
+# 1 unsupervised survey
 + (yang2021generalized)Generalized out-of-distribution detection: A survey[2021]
-+ (bergmann2019mvtec)MVTec AD--A comprehensive real-world dataset for unsupervised anomaly detection[2019]
 + (czimmermann2020visual)Visual-based defect detection and classification approaches for industrial applications—a survey[2020]
 + (tao2022deep){Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey[2022]
 + (cui2022survey)A Survey on Unsupervised Industrial Anomaly Detection Algorithms[2022]
