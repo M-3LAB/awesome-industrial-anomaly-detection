@@ -3,18 +3,18 @@
 Paper list for industrial image anomaly detection
 
 
-# 1 unsupervised
+# 1 Introduction
 + (yang2021generalized)Generalized out-of-distribution detection: A survey [[2021]](https://arxiv.org/pdf/2110.11334.pdf)
-+ (bergmann2019mvtec)MVTec AD--A comprehensive real-world dataset for unsupervised anomaly detection [[2019]](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
++ (bergmann2019mvtec)MVTec AD: A comprehensive real-world dataset for unsupervised anomaly detection [[2019]](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
 + (czimmermann2020visual)Visual-based defect detection and classification approaches for industrial applications: a survey [[2020]](https://pdfs.semanticscholar.org/1dfc/080a5f26b5ce78f9ce3e9f106bf7e8124f74.pdf)
 + (tao2022deep)Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey [[2022]](http://arxiv.org/pdf/2207.10298)
 + (cui2022survey)A Survey on Unsupervised Industrial Anomaly Detection Algorithms [[2022]](https://arxiv.org/abs/2204.11161)
 
-# 2 Unsupervised anomaly detection
+# 2 Unsupervised AD
 
-## 2.1 Feature-embedding methods
+## 2.1 Feature-Embedding-based Methods
 
-### 2.1.1 Teacher-Student architecture
+### 2.1.1 Teacher-Student
 + (bergmann2019mvtec)MVTec AD: A comprehensive real-world dataset for unsupervised anomaly detection[[2019]](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
 + (bergmann2020uninformed)Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings [[2020]](http://arxiv.org/pdf/1911.02357)
 + (Wang2021StudentTeacherFP)Student-Teacher Feature Pyramid Matching for Anomaly Detection [[2021]](https://arxiv.org/pdf/2103.04257.pdf)
@@ -25,7 +25,7 @@ Paper list for industrial image anomaly detection
 + (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.07829.pdf)
 + (cao2022informative)Informative knowledge distillation for image anomaly segmentation [[2022]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123&pid=1-s2.0-S0950705122004038-main.pdf)
 
-### 2.1.2 One-class classification (OCC)
+### 2.1.2 One-Class Classification (OCC)
 + (tax2004support)Support vector data description [[2004]](https://link.springer.com/content/pdf/10.1023%2FB%3AMACH.0000008084.60811.49.pdf)
 + (yi2020patch)Patch svdd: Patch-level svdd for anomaly detection and segmentation [[2020]](https://arxiv.org/pdf/2006.16067.pdf)
 + (zhang2021anomaly)Anomaly detection using improved deep SVDD model with data structure preservation [[2021]](https://www.sciencedirect.com/science/article/am/pii/S0167865521001598)
@@ -43,7 +43,7 @@ Paper list for industrial image anomaly detection
 + (attar2014manufacture)Manufacture by selective laser melting and mechanical behavior of commercially pure titanium [[2014]](https://www.sciencedirect.com/science/article/pii/S0921509313012665/pdfft?md5=aeafa4c88f5321d09fe9006be53baf07&pid=1-s2.0-S0921509313012665-main.pdf)
 + (yang2022memseg)MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)
 
-### 2.1.3 Distribution-map-based 
+### 2.1.3 Distribution-Map
 + (tailanian2021multi)A Multi-Scale A Contrario method for Unsupervised Image Anomaly Detection [[2021]](http://arxiv.org/pdf/2110.02407)
 + (rippel2021modeling)Modeling the distribution of normal data in pre-trained deep features for anomaly detection [[2021]](http://arxiv.org/pdf/2005.14140)
 + (rippel2021transfer)Transfer Learning Gaussian Anomaly Detection by Fine-Tuning Representations [[2021]](https://arxiv.org/pdf/2108.04116.pdf)
@@ -62,7 +62,7 @@ Paper list for industrial image anomaly detection
 + (woo2018cbam)Cbam: Convolutional block attention module [[2018]](https://arxiv.org/pdf/1807.06521.pdf)
 + (kim2022altub)AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.14913.pdf)
 
-### 2.1.4 Memory bank
+### 2.1.4 Memory Bank
  + (eskin2002geometric) A geometric framework for unsupervised anomaly detection [[2002]](https://www.researchgate.net/publication/242620986_A_Geometric_Framework_for_Unsupervised_Anomaly_Detection_Detecting_Intrusions_in_Unlabeled_Data#read)
  + (cohen2020sub)Sub-image anomaly detection with deep pyramid correspondences [[2020]](https://arxiv.org/pdf/2005.02357.pdf)
  + (kim2021semi)Semi-orthogonal embedding for efficient unsupervised anomaly segmentation [[2021]](https://arxiv.org/pdf/2105.14737.pdf)
@@ -78,9 +78,9 @@ Paper list for industrial image anomaly detection
  + (roth2022towards)Towards total recall in industrial anomaly detection [[2022]](http://arxiv.org/pdf/2106.08265)
  
 
-## 2.2 Reconstruction-based methods
+## 2.2 Reconstruction-Based Methods
 
-### 2.2.1 Autoencoder(AE)
+### 2.2.1 Autoencoder (AE)
  + (bergmann2018improving)Improving unsupervised defect segmentation by applying structural similarity to autoencoders [[2018]](https://arxiv.org/pdf/1807.02011.pdf)
  + (chung2020unsupervised)Unsupervised anomaly detection using style distillation [[2020]](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09288772.pdf)
  + (liu2021unsupervised)Unsupervised two-stage anomaly detection [[2021]](https://arxiv.org/pdf/2103.11671.pdf)
@@ -110,7 +110,7 @@ Paper list for industrial image anomaly detection
  + (dehaene2020anomaly)Anomaly localization by modeling perceptual features [[2020]](https://arxiv.org/pdf/2008.05369.pdf)
  + (wang2020image)Image anomaly detection using normal data only by latent space resampling [[2020]](https://pdfs.semanticscholar.org/cb59/dab0a725c0b511f3140ea47ea0967f3643bf.pdf)
 
-### 2.2.2 Generative Adversarial Networks (GAN)
+### 2.2.2 Generative Adversarial Networks (GANs)
  + (yan2021learning)Learning semantic context from normal samples for unsupervised anomaly detection [[2021]](https://ojs.aaai.org/index.php/AAAI/article/download/16420/16227)
  + (song2021anoseg)Anoseg: Anomaly segmentation network using self-supervised learning [[2021]](https://arxiv.org/pdf/2110.03396.pdf)
  + (liang2022omni)Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)
@@ -126,11 +126,11 @@ Paper list for industrial image anomaly detection
  + (perlin1985image)An image synthesizer[[1985]](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/perlin85_imagesynthesizer.pdf)
  + (de2022masked)Masked Transformer for image Anomaly Localization [[2022]](http://arxiv.org/pdf/2210.15540)
 
-### 2.2.4 Diffusion model
+### 2.2.4 Diffusion Model
  + (ho2020denoising)Denoising diffusion probabilistic models [[2020]](https://arxiv.org/pdf/2006.11239.pdf)
  + (wyatt2022anoddpm)AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
  + (teng2022unsupervised)Unsupervised Visual Defect Detection with Score-Based Generative Model[[2022]](https://arxiv.org/pdf/2211.16092.pdf)
- # 2.3 Supervised anomaly detection
+ # 2.3 Supervised AD
  + (chu2020neural)Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
  + (liznerski2020explainable)Explainable Deep One-Class Classification [[2020]](https://arxiv.org/pdf/2007.01760.pdf)
  + (venkataramanan2020attention)Attention guided anomaly localization in images [[2020]](http://arxiv.org/pdf/1911.08616)
@@ -146,9 +146,9 @@ Paper list for industrial image anomaly detection
  + (hu2020lightweight)A lightweight spatial and temporal multi-feature fusion network for defect detection [[2020]](http://nrl.northumbria.ac.uk/id/eprint/48908/1/ALightweightSpatialandTemporalMulti-featureFusionNetworkforDefectDetection.pdf)
  + (ferguson2018detection)Detection and segmentation of manufacturing defects with convolutional neural networks and transfer learning [[2018]](https://europepmc.org/articles/pmc6512995?pdf=render)
 
-# 3 Other research direction
+# 3 Other Research Direction
 
-## 3.1 Few-shot anomaly detection
+## 3.1 Few-Shot AD
  + (wu2021learning)Learning unsupervised metaformer for anomaly detection [[2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
  + (huang2022registration)Registration based few-shot anomaly detection [[2022]](https://arxiv.org/pdf/2207.07361.pdf)
  + (rudolph2021same)Same same but differnet: Semi-supervised defect detection with normalizing flows [[2021]](http://arxiv.org/pdf/2008.12577)
@@ -158,7 +158,7 @@ Paper list for industrial image anomaly detection
  + (schwartz2022maeday)MAEDAY: MAE for few and zero shot AnomalY-Detection [[2022]](https://arxiv.org/pdf/2211.14307.pdf)
  + (he2022masked)Masked autoencoders are scalable vision learners [[2022]](http://arxiv.org/pdf/2111.06377)
 
-## 3.2 Noisy anomaly detection
+## 3.2 Noisy AD
  + (tan2021trustmae)Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[2021]](http://arxiv.org/pdf/2012.14629)
  + (yoon2021self)Self-Supervise, Refine, Repeat: Improving Unsupervised Anomaly Detection [[2021]](https://arxiv.org/pdf/2106.06115.pdf)
  + (cordier2022data)Data refinement for fully unsupervised visual inspection using pre-trained networks [[2022]](https://arxiv.org/pdf/2202.12759.pdf)
@@ -183,7 +183,7 @@ Paper list for industrial image anomaly detection
  + (binkowski2018demystifying)Demystifying MMD GANs [[2018]](https://arxiv.org/pdf/1801.01401.pdf)
  + (zhang2021defect)Defect-GAN: High-fidelity defect synthesis for automated defect inspectio [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
  
-## 3.4 3D anomaly detection
+## 3.4 3D AD
  + ({bergmann2022beyond)Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization[[2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  + (bergmann2022anomaly)Anomaly detection in 3d point clouds using deep geometric descriptors [[2022]](https://arxiv.org/pdf/2202.11660.pdf)
  + (horwitz2022back)Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [[2022]](https://arxiv.org/pdf/2203.05550.pdf)
@@ -192,12 +192,12 @@ Paper list for industrial image anomaly detection
  + (reiss2022anomaly)Anomaly Detection Requires Better Representations [[2022]](https://arxiv.org/pdf/2210.10773.pdf)
  + (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.07829.pdf)
  
-## 3.5 Continual anomaly detection
+## 3.5 Continual AD
  + (li2022towards)Towards Continual Adaptation in Industrial Anomaly Detection [[2022]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682702)
 
-## 3.6 Uniform anomaly detection
+## 3.6 Uniform AD
  + (you2022unified)A Unified Model for Multi-class Anomaly Detection [[2022]](https://arxiv.org/pdf/2206.03687.pdf)
-## 3.7 Logical anomaly detection
+## 3.7 Logical AD
  + (bergmann2022beyond)Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  
 # 4 Dataset
