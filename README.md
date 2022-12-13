@@ -15,7 +15,7 @@ Paper list for industrial image anomaly detection
 ## 2.1 Feature-embedding methods
 
 ### 2.1.1 Teacher-Student architecture
-+ (bergmann2019mvtec)MVTec AD--A comprehensive real-world dataset for unsupervised anomaly detection[[2019]](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
++ (bergmann2019mvtec)MVTec AD: A comprehensive real-world dataset for unsupervised anomaly detection[[2019]](https://www.mvtec.com/fileadmin/Redaktion/mvtec.com/company/research/mvtec_ad.pdf)
 + (bergmann2020uninformed)Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings [[2020]](http://arxiv.org/pdf/1911.02357)
 + (Wang2021StudentTeacherFP)Student-Teacher Feature Pyramid Matching for Anomaly Detection [[2021]](https://arxiv.org/pdf/2103.04257.pdf)
 + (salehi2021multiresolution)Multiresolution knowledge distillation for anomaly detection [[2020]](https://arxiv.org/pdf/2011.11108)
