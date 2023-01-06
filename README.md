@@ -76,7 +76,6 @@ Paper list for industrial image anomaly detection
  + (bae2022image)Image Anomaly Detection and Localization with Position and Neighborhood Information [[2022]](https://arxiv.org/pdf/2211.12634.pdf)
  + (tsai2022multi)Multi-scale patch-based representation learning for image anomaly detection and segmentation [[2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.pdf)
  + (zou2022spot)SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [[2022]](https://arxiv.org/pdf/2207.14315.pdf)
- + (roth2022towards)Towards total recall in industrial anomaly detection [[2022]](http://arxiv.org/pdf/2106.08265)
  
 
 ## 2.2 Reconstruction-Based Methods
