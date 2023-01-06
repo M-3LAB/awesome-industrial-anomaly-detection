@@ -156,7 +156,7 @@ Paper list for industrial image anomaly detection
  + (sheynin2021hierarchical)A hierarchical transformation-discriminating generative model for few shot anomaly detection [[2021]](http://arxiv.org/pdf/2104.14535)
  + (kamoona2021anomaly)Anomaly detection of defect using energy of point pattern features within random finite set framework [[2021]](https://arxiv.org/pdf/2108.12159.pdf)
  + (schwartz2022maeday)MAEDAY: MAE for few and zero shot AnomalY-Detection [[2022]](https://arxiv.org/pdf/2211.14307.pdf)
- + (he2022masked)Masked autoencoders are scalable vision learners [[2022]](http://arxiv.org/pdf/2111.06377)
+  <!-- + (he2022masked)Masked autoencoders are scalable vision learners [[2022]](http://arxiv.org/pdf/2111.06377) -->
 
 ## 3.2 Noisy AD
  + (tan2021trustmae)Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[2021]](http://arxiv.org/pdf/2012.14629)
