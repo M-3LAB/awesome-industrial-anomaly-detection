@@ -110,7 +110,6 @@ Paper list for industrial image anomaly detection
  + (matsubara2020deep)Deep generative model using unregularized score for anomaly detection with heterogeneous complexity [[2020]](http://arxiv.org/pdf/1807.05800)
  + (dehaene2020anomaly)Anomaly localization by modeling perceptual features [[2020]](https://arxiv.org/pdf/2008.05369.pdf)
  + (wang2020image)Image anomaly detection using normal data only by latent space resampling [[2020]](https://pdfs.semanticscholar.org/cb59/dab0a725c0b511f3140ea47ea0967f3643bf.pdf)
- + Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection [[2022]](https://arxiv.org/pdf/2210.14485.pdf)
 
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + (yan2021learning)Learning semantic context from normal samples for unsupervised anomaly detection [[2021]](https://ojs.aaai.org/index.php/AAAI/article/download/16420/16227)
