@@ -52,7 +52,6 @@ Paper list for industrial image anomaly detection
 + (wan2022unsupervised)Unsupervised image anomaly detection and segmentation based on pre-trained feature mapping [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9795121)
 + (wan2022position)Position Encoding Enhanced Feature Mapping for Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926547)
 + (zheng2022focus)Focus your distribution: Coarse-to-fine non-contrastive learning for anomaly detection and localization [[2022]](http://arxiv.org/pdf/2110.04538)
-+ (JimenezRezende2015VariationalIW)Variational Inference with Normalizing Flows [[2015]](https://arxiv.org/pdf/1505.05770.pdf)
 + (yu2021fastflow)Fastflow: Unsupervised anomaly detection and localization via 2d normalizing flows [[2021]](https://arxiv.org/pdf/2111.07677.pdf)
 + (rudolph2021same)Same same but differnet: Semi-supervised defect detection with normalizing flows [[2021]](http://arxiv.org/pdf/2008.12577)
 + (He2015DeepRL)Deep Residual Learning for Image Recognition [[2015]](http://arxiv.org/pdf/1512.03385)
@@ -60,7 +59,6 @@ Paper list for industrial image anomaly detection
 + (rudolph2022fully)Fully convolutional cross-scale-flows for image-based defect detection [[2022]](http://arxiv.org/pdf/2110.02855)
 + (gudovskiy2022cflow)Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [[2022]](http://arxiv.org/pdf/2107.12571)
 + (yan2022cainnflow)CAINNFlow: Convolutional block Attention modules and Invertible Neural Networks Flow for anomaly detection and localization tasks [[2022]](https://arxiv.org/pdf/2206.01992.pdf)
-+ (woo2018cbam)Cbam: Convolutional block attention module [[2018]](https://arxiv.org/pdf/1807.06521.pdf)
 + (kim2022altub)AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.14913.pdf)
 
 ### 2.1.4 Memory Bank
@@ -96,7 +94,6 @@ Paper list for industrial image anomaly detection
  + (nakanishi2020iterative)Iterative image inpainting with structural similarity mask for anomaly detection [[2020]](https://openreview.net/pdf?id=b4ach0lGuYO)
  + (huang2022self)Self-Supervised Masking for Unsupervised Anomaly Detection and Localization [[2022]](https://arxiv.org/pdf/2205.06568.pdf)
  + (zavrtanik2021reconstruction)Reconstruction by inpainting for visual anomaly detection [[2021]](https://www.sciencedirect.com/science/article/pii/S0031320320305094/pdfft?md5=9bbe942017de1acd3a97034bc2d4a8fb&pid=1-s2.0-S0031320320305094-main.pdf)
- + (ronneberger2015u)U-net: Convolutional networks for biomedical image segmentation [[2015]](https://arxiv.org/pdf/1505.04597.pdf)
  + (zavrtanik2021draem)Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[2021]](http://arxiv.org/pdf/2108.07610)
  + (zavrtanik2022dsr)DSR: A dual subspace re-projection network for surface anomaly detection [[2022]](https://arxiv.org/pdf/2208.01521.pdf)
  + (schluter2022natural)Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [[2022]](https://arxiv.org/pdf/2109.15222.pdf)
