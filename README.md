@@ -118,7 +118,6 @@ Paper list for industrial image anomaly detection
  + (mathian2022haloae)HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly Detection and Localization [[2022]](https://arxiv.org/pdf/2208.03486.pdf)
  + (pirnay2022inpainting)Inpainting transformer for anomaly detection [[2022]](https://arxiv.org/pdf/2104.13897.pdf)
  + (jiang2022masked)Masked Swin Transformer Unet for Industrial Anomaly Detection [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858596)
- + (perlin1985image)An image synthesizer[[1985]](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/readings/perlin85_imagesynthesizer.pdf)
  + (de2022masked)Masked Transformer for image Anomaly Localization [[2022]](http://arxiv.org/pdf/2210.15540)
 
 ### 2.2.4 Diffusion Model
