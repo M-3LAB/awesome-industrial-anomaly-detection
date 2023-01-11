@@ -10,6 +10,7 @@ Paper list for industrial image anomaly detection
 + (czimmermann2020visual)Visual-based defect detection and classification approaches for industrial applications: a survey [[2020]](https://pdfs.semanticscholar.org/1dfc/080a5f26b5ce78f9ce3e9f106bf7e8124f74.pdf)
 + (tao2022deep)Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey [[2022]](http://arxiv.org/pdf/2207.10298)
 + (cui2022survey)A Survey on Unsupervised Industrial Anomaly Detection Algorithms [[2022]](https://arxiv.org/abs/2204.11161)
++ A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure [[2015]] (https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
 
 # 2 Unsupervised AD
 
