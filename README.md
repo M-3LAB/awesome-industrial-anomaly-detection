@@ -54,8 +54,6 @@ Paper list for industrial image anomaly detection
 + (zheng2022focus)Focus your distribution: Coarse-to-fine non-contrastive learning for anomaly detection and localization [[2022]](http://arxiv.org/pdf/2110.04538)
 + (yu2021fastflow)Fastflow: Unsupervised anomaly detection and localization via 2d normalizing flows [[2021]](https://arxiv.org/pdf/2111.07677.pdf)
 + (rudolph2021same)Same same but differnet: Semi-supervised defect detection with normalizing flows [[2021]](http://arxiv.org/pdf/2008.12577)
-+ (He2015DeepRL)Deep Residual Learning for Image Recognition [[2015]](http://arxiv.org/pdf/1512.03385)
-+ (Liu2021SwinTH)Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[2021]](http://arxiv.org/pdf/2103.14030)
 + (rudolph2022fully)Fully convolutional cross-scale-flows for image-based defect detection [[2022]](http://arxiv.org/pdf/2110.02855)
 + (gudovskiy2022cflow)Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [[2022]](http://arxiv.org/pdf/2107.12571)
 + (yan2022cainnflow)CAINNFlow: Convolutional block Attention modules and Invertible Neural Networks Flow for anomaly detection and localization tasks [[2022]](https://arxiv.org/pdf/2206.01992.pdf)
