@@ -27,7 +27,6 @@ Paper list for industrial image anomaly detection
 + (cao2022informative)Informative knowledge distillation for image anomaly segmentation [[2022]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123&pid=1-s2.0-S0950705122004038-main.pdf)
 
 ### 2.1.2 One-Class Classification (OCC)
-+ (tax2004support)Support vector data description [[2004]](https://link.springer.com/content/pdf/10.1023%2FB%3AMACH.0000008084.60811.49.pdf)
 + (yi2020patch)Patch svdd: Patch-level svdd for anomaly detection and segmentation [[2020]](https://arxiv.org/pdf/2006.16067.pdf)
 + (zhang2021anomaly)Anomaly detection using improved deep SVDD model with data structure preservation [[2021]](https://www.sciencedirect.com/science/article/am/pii/S0167865521001598)
 + (hu2021semantic)A Semantic-Enhanced Method Based On Deep SVDD for Pixel-Wise Anomaly Detection [[2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428370)
