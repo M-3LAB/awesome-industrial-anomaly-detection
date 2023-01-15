@@ -82,7 +82,7 @@ Paper list for industrial image anomaly detection
  + (zhou2020encoding)Encoding structure-texture relation with p-net for anomaly detection in retinal images [[2020]](http://arxiv.org/pdf/2008.03632)
  + (collin2021improved)Improved anomaly detection by training an autoencoder with skip connections on images corrupted with stain-shaped noise [[2021]](http://arxiv.org/pdf/2008.12977)
  + (tao2022unsupervised)Unsupervised anomaly detection for surface defects with dual-siamese network [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681338)
- + (hou2021divide)Divide-and-assemble: Learning block-wise memory for unsupervised anomaly detection [2021]
+ + (hou2021divide)Divide-and-assemble: Learning block-wise memory for unsupervised anomaly detection [[2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hou_Divide-and-Assemble_Learning_Block-Wise_Memory_for_Unsupervised_Anomaly_Detection_ICCV_2021_paper.pdf)
  + (liu2022reconstruction)Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection [[2022]](http://arxiv.org/pdf/2210.14485)
  + (kim2022spatial)Spatial Contrastive Learning for Anomaly Detection and Localization [[2022]](https://ieeexplore.ieee.org/ielx7/6287639/9668973/09709224.pdf)
  + (li2020superpixel)Superpixel masking and inpainting for self-supervised anomaly detection [[2020]](https://www.bmvc2020-conference.com/assets/papers/0275.pdf)
