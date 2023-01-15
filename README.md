@@ -37,7 +37,6 @@ Paper list for industrial image anomaly detection
 + (sohn2020learning)Learning and Evaluating Representations for Deep One-Class Classification [[2020]](https://arxiv.org/pdf/2011.02578.pdf)
 + (yoa2021self)Self-supervised learning for anomaly detection with dynamic local augmentation [[2021]](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09597511.pdf)
 + (de2021contrastive)Contrastive Predictive Coding for Anomaly Detection [[2021]](https://arxiv.org/pdf/2107.07820.pdf)
-+ (oord2018representation) Representation learning with contrastive predictive coding [[2018]](https://arxiv.org/pdf/1807.03748.pdf)
 + (li2021cutpaste)Cutpaste: Self-supervised learning for anomaly detection and localization [[2021]](http://arxiv.org/pdf/2104.04015)
 + (iquebal2020consistent)Consistent estimation of the max-flow problem: Towards unsupervised image segmentation [[2020]](http://arxiv.org/pdf/1811.00220)
 + (attar2014manufacture)Manufacture by selective laser melting and mechanical behavior of commercially pure titanium [[2014]](https://www.sciencedirect.com/science/article/pii/S0921509313012665/pdfft?md5=aeafa4c88f5321d09fe9006be53baf07&pid=1-s2.0-S0921509313012665-main.pdf)
