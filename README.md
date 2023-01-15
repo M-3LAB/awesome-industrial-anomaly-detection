@@ -39,7 +39,6 @@ Paper list for industrial image anomaly detection
 + (de2021contrastive)Contrastive Predictive Coding for Anomaly Detection [[2021]](https://arxiv.org/pdf/2107.07820.pdf)
 + (li2021cutpaste)Cutpaste: Self-supervised learning for anomaly detection and localization [[2021]](http://arxiv.org/pdf/2104.04015)
 + (iquebal2020consistent)Consistent estimation of the max-flow problem: Towards unsupervised image segmentation [[2020]](http://arxiv.org/pdf/1811.00220)
-+ (attar2014manufacture)Manufacture by selective laser melting and mechanical behavior of commercially pure titanium [[2014]](https://www.sciencedirect.com/science/article/pii/S0921509313012665/pdfft?md5=aeafa4c88f5321d09fe9006be53baf07&pid=1-s2.0-S0921509313012665-main.pdf)
 + (yang2022memseg)MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)
 
 ### 2.1.3 Distribution-Map
