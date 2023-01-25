@@ -1,7 +1,7 @@
 # Awesome Industrial Anomaly Detection
 
 Paper list for industrial image anomaly detection
-! [paper tree] (https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
+![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
 
 # 1 Introduction
 + (yang2021generalized)Generalized out-of-distribution detection: A survey [[2021]](https://arxiv.org/pdf/2110.11334.pdf)
