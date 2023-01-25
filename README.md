@@ -1,8 +1,10 @@
 # Awesome Industrial Anomaly Detection
+# Paper Tree
+![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
+# Timeline
+![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/timeline.png)
 
 Paper list for industrial image anomaly detection
-![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
-
 # 1 Introduction
 + (yang2021generalized)Generalized out-of-distribution detection: A survey [[2021]](https://arxiv.org/pdf/2110.11334.pdf)
 + (bergmann2019mvtec)MVTec AD: A comprehensive real-world dataset for unsupervised anomaly detection [[2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf)
