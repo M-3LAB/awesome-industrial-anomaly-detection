@@ -1,4 +1,5 @@
 # Awesome Industrial Anomaly Detection
+We will keep focusing on this field and update relevant information.
 # Paper Tree
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
 # Timeline
