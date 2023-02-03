@@ -1,7 +1,7 @@
 # Awesome Industrial Anomaly Detection
 We will keep focusing on this field and update relevant information.
 
-[Deep Visual Anomaly Detection in Industrial Manufacturing: A Survey](https://arxiv.org/abs/2301.11514)
+[Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)
 
 # Paper Tree
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
