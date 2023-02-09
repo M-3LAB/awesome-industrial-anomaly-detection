@@ -3,6 +3,9 @@ We will keep focusing on this field and update relevant information.
 
 [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)
 
+# New papers published after the review was written.
+Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR2023]](https://arxiv.org/abs/2301.12082)
+
 # Paper Tree
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
 # Timeline
