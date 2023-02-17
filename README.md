@@ -1,18 +1,17 @@
 # Awesome Industrial Anomaly Detection
 We will keep focusing on this field and update relevant information.
 
-[Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)
+Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)
 
 # Paper Tree (Classification of representative methods)
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
 # Timeline
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/timeline.png)
 
-# New papers published after the review was written.
+# Paper list for industrial image anomaly detection
+# New papers published after the survey was written(Also included in subsequent categories)
 + Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://arxiv.org/abs/2301.12082)
 + Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)
-
-# Paper list for industrial image anomaly detection
 
 # Related Survey and Benchmark
 + A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure [[2015]](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
@@ -65,6 +64,7 @@ We will keep focusing on this field and update relevant information.
 + (gudovskiy2022cflow)Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [[WACV 2022]](http://arxiv.org/pdf/2107.12571)
 + (yan2022cainnflow)CAINNFlow: Convolutional block Attention modules and Invertible Neural Networks Flow for anomaly detection and localization tasks [[2022]](https://arxiv.org/pdf/2206.01992.pdf)
 + (kim2022altub)AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.14913.pdf)
++ Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)
 
 ### 2.1.4 Memory Bank
  <!-- + (eskin2002geometric) A geometric framework for unsupervised anomaly detection [[2002]](https://www.researchgate.net/publication/242620986_A_Geometric_Framework_for_Unsupervised_Anomaly_Detection_Detecting_Intrusions_in_Unlabeled_Data#read) -->
