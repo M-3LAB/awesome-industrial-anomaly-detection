@@ -27,17 +27,17 @@ Paper list for industrial image anomaly detection
 ## 2.1 Feature-Embedding-based Methods
 
 ### 2.1.1 Teacher-Student
-+ (bergmann2020uninformed)Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings [[2020]](http://arxiv.org/pdf/1911.02357)
++ (bergmann2020uninformed)Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings [[CVPR 2020]](http://arxiv.org/pdf/1911.02357)
 + (Wang2021StudentTeacherFP)Student-Teacher Feature Pyramid Matching for Anomaly Detection [[2021]](https://arxiv.org/pdf/2103.04257.pdf)
-+ (salehi2021multiresolution)Multiresolution knowledge distillation for anomaly detection [[2020]](https://arxiv.org/pdf/2011.11108)
++ (salehi2021multiresolution)Multiresolution knowledge distillation for anomaly detection [[CVPR 2021]](https://arxiv.org/pdf/2011.11108)
 + (yamada2021reconstruction)Reconstruction Student with Attention for Student-Teacher Pyramid Matching [[2021]](https://arxiv.org/pdf/2111.15376.pdf)
 + (yamada2022reconstructed)Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.07548.pdf)
-+ (deng2022anomaly)Anomaly Detection via Reverse Distillation from One-Class Embedding [[2022]](http://arxiv.org/pdf/2201.10703)
-+ (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.07829.pdf)
++ (deng2022anomaly)Anomaly Detection via Reverse Distillation from One-Class Embedding [[CVPR 2022]](http://arxiv.org/pdf/2201.10703)
++ (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)
 + (cao2022informative)Informative knowledge distillation for image anomaly segmentation [[2022]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123&pid=1-s2.0-S0950705122004038-main.pdf)
 
 ### 2.1.2 One-Class Classification (OCC)
-+ (yi2020patch)Patch svdd: Patch-level svdd for anomaly detection and segmentation [[2020]](https://arxiv.org/pdf/2006.16067.pdf)
++ (yi2020patch)Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
 + (zhang2021anomaly)Anomaly detection using improved deep SVDD model with data structure preservation [[2021]](https://www.sciencedirect.com/science/article/am/pii/S0167865521001598)
 + (hu2021semantic)A Semantic-Enhanced Method Based On Deep SVDD for Pixel-Wise Anomaly Detection [[2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428370)
 + (massoli2021mocca)MOCCA: Multilayer One-Class Classification for Anomaly Detection [[2021]](http://arxiv.org/pdf/2012.12111)
@@ -47,7 +47,7 @@ Paper list for industrial image anomaly detection
 + (sohn2020learning)Learning and Evaluating Representations for Deep One-Class Classification [[2020]](https://arxiv.org/pdf/2011.02578.pdf)
 + (yoa2021self)Self-supervised learning for anomaly detection with dynamic local augmentation [[2021]](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09597511.pdf)
 + (de2021contrastive)Contrastive Predictive Coding for Anomaly Detection [[2021]](https://arxiv.org/pdf/2107.07820.pdf)
-+ (li2021cutpaste)Cutpaste: Self-supervised learning for anomaly detection and localization [[2021]](http://arxiv.org/pdf/2104.04015)
++ (li2021cutpaste)Cutpaste: Self-supervised learning for anomaly detection and localization [[ICCV 2021]](http://arxiv.org/pdf/2104.04015)
 + (iquebal2020consistent)Consistent estimation of the max-flow problem: Towards unsupervised image segmentation [[2020]](http://arxiv.org/pdf/1811.00220)
 + (yang2022memseg)MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)
 
