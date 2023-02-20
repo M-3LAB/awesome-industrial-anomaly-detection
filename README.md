@@ -177,7 +177,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (wei2020defective)Defective samples simulation through neural style transfer for automatic surface defect segment [[2020]](http://arxiv.org/pdf/1910.03334)
  + (wei2020simulation)A simulation-based few samples learning method for surface defect segmentation [[2020]](https://www.sciencedirect.com/science/article/pii/S0925231220310791/pdfft?md5=f3f72bc8687c8f9968d4a2a1bd3ea17e&pid=1-s2.0-S0925231220310791-main.pdf)
  + (jain2020synthetic)Synthetic data augmentation for surface defect detection and classification using deep learning [[2020]](https://link.springer.com/article/10.1007/s10845-020-01710-x)
- + (wang2021defect)Defect Transfer GAN: Diverse Defect Synthesis for Data Augmentation [[2021]](https://openreview.net/pdf?id=2hMEdc35xZ6)
+ + (wang2021defect)Defect Transfer GAN: Diverse Defect Synthesis for Data Augmentation [[BMVC 2022]](https://openreview.net/pdf?id=2hMEdc35xZ6)
  + (heusel2017gans)Gans trained by a two time-scale update rule converge to a local nash equilibrium [[2017]](https://arxiv.org/pdf/1706.08500.pdf)
  + (binkowski2018demystifying)Demystifying MMD GANs [[2018]](https://arxiv.org/pdf/1801.01401.pdf)
  + (zhang2021defect)Defect-GAN: High-fidelity defect synthesis for automated defect inspectio [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
