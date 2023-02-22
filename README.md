@@ -3,15 +3,17 @@ We will keep focusing on this field and update relevant information.
 
 Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)
 
+
+# New related research after the survey was written(Also included in subsequent categories)
++ Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://arxiv.org/abs/2301.12082)
++ Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)
++ CVPR 1st workshop on Vision-based InduStrial InspectiON[[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
 # Paper Tree (Classification of representative methods)
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
 # Timeline
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/timeline.png)
 
 # Paper list for industrial image anomaly detection
-# New papers published after the survey was written(Also included in subsequent categories)
-+ Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://arxiv.org/abs/2301.12082)
-+ Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)
 
 # Related Survey and Benchmark
 + A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure [[2015]](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
@@ -216,4 +218,4 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (zou2022spot)SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2207.14315.pdf)
  + (huang2020surface)Surface defect saliency of magnetic tile [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8560423)
  + (DAGMGNSS2077)DAGM dataset [[2000]]()
- 
+ + CVPR 1st workshop on Vision-based InduStrial InspectiON[[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
