@@ -167,7 +167,6 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (cordier2022data)Data refinement for fully unsupervised visual inspection using pre-trained networks [[2022]](https://arxiv.org/pdf/2202.12759.pdf)
  + (qiu2022latent)Latent Outlier Exposure for Anomaly Detection with Contaminated Data [[ICML 2022]](https://arxiv.org/pdf/2202.08088.pdf)
  + (chen2022deep)Deep one-class classification via interpolated gaussian descriptor [[AAAI 2022]](https://arxiv.org/pdf/2101.10043.pdf)
- + (roth2022towards)Towards total recall in industrial anomaly detection [[2022]](http://arxiv.org/pdf/2106.08265)
  + (xisoftpatch)SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NIPS 2020]](http://arxiv.org/pdf/2009.09443)
 
 ## 3.3 Anomaly Synthetic
