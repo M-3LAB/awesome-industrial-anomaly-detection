@@ -5,6 +5,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 
 
 # New related research after the survey was written(Also included in subsequent categories)
++ Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)
 + Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://arxiv.org/abs/2301.12082)
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 + Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)
@@ -189,6 +190,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (horwitz2022back)Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [[2022]](https://arxiv.org/pdf/2203.05550.pdf)
  + (reiss2022anomaly)Anomaly Detection Requires Better Representations [[2022]](https://arxiv.org/pdf/2210.10773.pdf)
  + (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)
+ + Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)
  
 ## 3.5 Continual AD
  + (li2022towards)Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682702)
