@@ -5,7 +5,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 
 
 # New related research after the survey was written(Also included in subsequent categories)
-+ Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[Code is coming soon]](https://github.com/nomewang/M3DM)
++ Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[code is coming soon]](https://github.com/nomewang/M3DM)
 + Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://arxiv.org/abs/2301.12082)
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 + Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)[[code]](https://github.com/caoyunkang/CDO)
@@ -60,15 +60,16 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 + (rippel2021transfer)Transfer Learning Gaussian Anomaly Detection by Fine-Tuning Representations [[2021]](https://arxiv.org/pdf/2108.04116.pdf)
 + (zhang2022pedenet)PEDENet: Image anomaly localization via patch embedding and density estimation [[2022]](https://arxiv.org/pdf/2110.15525.pdf)
 + (wan2022unsupervised)Unsupervised image anomaly detection and segmentation based on pre-trained feature mapping [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9795121)
-+ (wan2022position)Position Encoding Enhanced Feature Mapping for Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926547)
++ (wan2022position)Position Encoding Enhanced Feature Mapping for Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926547)[[code]](https://github.com/smiler96/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation)
 + (zheng2022focus)Focus your distribution: Coarse-to-fine non-contrastive learning for anomaly detection and localization [[ICME 2022]](http://arxiv.org/pdf/2110.04538)
++ Anomaly Detection of Defect using Energy of Point Pattern Features within Random Finite Set Framework [[2021]](https://arxiv.org/abs/2108.12159)[[code]](https://github.com/AmmarKamoona/RFS-Energy-Anomaly-Detection-of-Defect)
 + (yu2021fastflow)Fastflow: Unsupervised anomaly detection and localization via 2d normalizing flows [[2021]](https://arxiv.org/pdf/2111.07677.pdf)
-+ (rudolph2021same)Same same but differnet: Semi-supervised defect detection with normalizing flows [[WACV 2021]](http://arxiv.org/pdf/2008.12577)
-+ (rudolph2022fully)Fully convolutional cross-scale-flows for image-based defect detection [[WACV 2022]](http://arxiv.org/pdf/2110.02855)
-+ (gudovskiy2022cflow)Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [[WACV 2022]](http://arxiv.org/pdf/2107.12571)
++ (rudolph2021same)Same same but differnet: Semi-supervised defect detection with normalizing flows [[WACV 2021]](http://arxiv.org/pdf/2008.12577)[[code]](https://github.com/marco-rudolph/differnet)
++ (rudolph2022fully)Fully convolutional cross-scale-flows for image-based defect detection [[WACV 2022]](http://arxiv.org/pdf/2110.02855)[[code]](https://github.com/marco-rudolph/cs-flow)
++ (gudovskiy2022cflow)Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [[WACV 2022]](http://arxiv.org/pdf/2107.12571)[[code]](https://github.com/gudovskiy/cflow-ad)
 + (yan2022cainnflow)CAINNFlow: Convolutional block Attention modules and Invertible Neural Networks Flow for anomaly detection and localization tasks [[2022]](https://arxiv.org/pdf/2206.01992.pdf)
 + (kim2022altub)AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.14913.pdf)
-+ Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)
++ Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)[[code]](https://github.com/caoyunkang/CDO)
 
 ### 2.1.4 Memory Bank
  <!-- + (eskin2002geometric) A geometric framework for unsupervised anomaly detection [[2002]](https://www.researchgate.net/publication/242620986_A_Geometric_Framework_for_Unsupervised_Anomaly_Detection_Detecting_Intrusions_in_Unlabeled_Data#read) -->
@@ -77,8 +78,8 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (li2021anomaly)Anomaly Detection Via Self-Organizing Map [[2021]](http://arxiv.org/pdf/2107.09903)
  + PaDiM: A Patch Distribution Modeling Framework for Anomaly Detection and Localization [[ICPR 2021]](https://link.springer.com/chapter/10.1007/978-3-030-68799-1_35)
  + (wan2021industrial)Industrial Image Anomaly Localization Based on Gaussian Clustering of Pretrained Feature [[2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479740)
- + (roth2022towards)Towards total recall in industrial anomaly detection[[CVPR 2022]](http://arxiv.org/pdf/2106.08265)
- + (Lee2022CFACF)CFA: Coupled-Hypersphere-Based Feature Adaptation for Target-Oriented Anomaly Localization[[2022]](https://arxiv.org/pdf/2206.04325.pdf)
+ + (roth2022towards)Towards total recall in industrial anomaly detection[[CVPR 2022]](http://arxiv.org/pdf/2106.08265)[[code]](https://github.com/amazon-science/patchcore-inspection)
+ + (Lee2022CFACF)CFA: Coupled-Hypersphere-Based Feature Adaptation for Target-Oriented Anomaly Localization[[2022]](https://arxiv.org/pdf/2206.04325.pdf)[[code]](https://github.com/sungwool/CFA_for_anomaly_localization)
  + (kim2022fapm)FAPM: Fast Adaptive Patch Memory for Real-time Industrial Anomaly Detection[[2022]](https://arxiv.org/pdf/2211.07381.pdf)
  + (jang2022n)N-pad: Neighboring Pixel-based Industrial Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.08768.pdf)
  + (bae2022image)Image Anomaly Detection and Localization with Position and Neighborhood Information [[2022]](https://arxiv.org/pdf/2211.12634.pdf)
@@ -98,18 +99,18 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (collin2021improved)Improved anomaly detection by training an autoencoder with skip connections on images corrupted with stain-shaped noise [[2021]](http://arxiv.org/pdf/2008.12977)
  + (tao2022unsupervised)Unsupervised anomaly detection for surface defects with dual-siamese network [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681338)
  + (hou2021divide)Divide-and-assemble: Learning block-wise memory for unsupervised anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hou_Divide-and-Assemble_Learning_Block-Wise_Memory_for_Unsupervised_Anomaly_Detection_ICCV_2021_paper.pdf)
- + (liu2022reconstruction)Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection [[2022]](http://arxiv.org/pdf/2210.14485)
+ + (liu2022reconstruction)Reconstruction from edge image combined with color and gradient difference for industrial surface anomaly detection [[2022]](http://arxiv.org/pdf/2210.14485)[[code]](https://github.com/liutongkun/edgrec)
  + (kim2022spatial)Spatial Contrastive Learning for Anomaly Detection and Localization [[2022]](https://ieeexplore.ieee.org/ielx7/6287639/9668973/09709224.pdf)
  + (li2020superpixel)Superpixel masking and inpainting for self-supervised anomaly detection [[BMVC 2020]](https://www.bmvc2020-conference.com/assets/papers/0275.pdf)
  + (nakanishi2020iterative)Iterative image inpainting with structural similarity mask for anomaly detection [[2020]](https://openreview.net/pdf?id=b4ach0lGuYO)
  + (huang2022self)Self-Supervised Masking for Unsupervised Anomaly Detection and Localization [[2022]](https://arxiv.org/pdf/2205.06568.pdf)
  + (zavrtanik2021reconstruction)Reconstruction by inpainting for visual anomaly detection [[PR 2021]](https://www.sciencedirect.com/science/article/pii/S0031320320305094/pdfft?md5=9bbe942017de1acd3a97034bc2d4a8fb&pid=1-s2.0-S0031320320305094-main.pdf)
- + (zavrtanik2021draem)Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[ICCV 2021]](http://arxiv.org/pdf/2108.07610)
- + (zavrtanik2022dsr)DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)
- + (schluter2022natural)Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [[ECCV 2022]](https://arxiv.org/pdf/2109.15222.pdf)
+ + (zavrtanik2021draem)Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
+ + (zavrtanik2022dsr)DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
+ + (schluter2022natural)Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [[ECCV 2022]](https://arxiv.org/pdf/2109.15222.pdf)[[code]](https://github.com/hmsch/natural-synthetic-anomalies)
  + (bauer2022self)Self-Supervised Training with Autoencoders for Visual Anomaly Detection [[2022]](https://arxiv.org/pdf/2206.11723.pdf)
- + (ristea2022self)Self-supervised predictive convolutional attentive block for anomaly detection [[CVPR 2022 oral]](http://arxiv.org/pdf/2111.09099)
- + (madan2022self)Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection [[TPAMI 2022]](https://arxiv.org/pdf/2209.12148.pdf)
+ + (ristea2022self)Self-supervised predictive convolutional attentive block for anomaly detection [[CVPR 2022 oral]](http://arxiv.org/pdf/2111.09099)[[code]](https://github.com/ristea/sspcab)
+ + (madan2022self)Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection [[TPAMI 2022]](https://arxiv.org/pdf/2209.12148.pdf)[[code]](https://github.com/ristea/ssmctb)
  + (dehaene2019iterative)Iterative energy-based projection on a normal data manifold for anomaly localization [[2019]](https://arxiv.org/pdf/2002.03734.pdf)
  + (liu2020towards)Towards visually explaining variational autoencoders [[2020]](http://arxiv.org/pdf/1911.07389)
  + (matsubara2020deep)Deep generative model using unregularized score for anomaly detection with heterogeneous complexity [[2020]](http://arxiv.org/pdf/1807.05800)
@@ -119,7 +120,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + (yan2021learning)Learning semantic context from normal samples for unsupervised anomaly detection [[AAAI 2021]](https://ojs.aaai.org/index.php/AAAI/article/download/16420/16227)
  + (song2021anoseg)Anoseg: Anomaly segmentation network using self-supervised learning [[2021]](https://arxiv.org/pdf/2110.03396.pdf)
- + (liang2022omni)Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)
+ + (liang2022omni)Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)[[code]](https://github.com/zhangzjn/ocr-gan)
 
 ### 2.2.3 Transformer
  + (mishra2021vt)VT-ADL: A vision transformer network for image anomaly detection and localization [[ISIE 2021]](http://arxiv.org/pdf/2104.10036)
@@ -154,7 +155,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 
 ## 3.1 Few-Shot AD
  + (wu2021learning)Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
- + (huang2022registration)Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)
+ + (huang2022registration)Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)[[code]](https://github.com/MediaBrain-SJTU/RegAD)
  + (rudolph2021same)Same same but differnet: Semi-supervised defect detection with normalizing flows [[(Distribution)WACV 2021]](http://arxiv.org/pdf/2008.12577)
  + (roth2022towards)Towards total recall in industrial anomaly detection [[(Memory bank)CVPR 2022]](http://arxiv.org/pdf/2106.08265)
  + (sheynin2021hierarchical)A hierarchical transformation-discriminating generative model for few shot anomaly detection [[ICCV 2021]](http://arxiv.org/pdf/2104.14535)
@@ -167,8 +168,8 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (yoon2021self)Self-Supervise, Refine, Repeat: Improving Unsupervised Anomaly Detection [[TMLR 2021]](https://arxiv.org/pdf/2106.06115.pdf)
  + (cordier2022data)Data refinement for fully unsupervised visual inspection using pre-trained networks [[2022]](https://arxiv.org/pdf/2202.12759.pdf)
  + (qiu2022latent)Latent Outlier Exposure for Anomaly Detection with Contaminated Data [[ICML 2022]](https://arxiv.org/pdf/2202.08088.pdf)
- + (chen2022deep)Deep one-class classification via interpolated gaussian descriptor [[AAAI 2022]](https://arxiv.org/pdf/2101.10043.pdf)
- + (xisoftpatch)SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NIPS 2020]](http://arxiv.org/pdf/2009.09443)
+ + (chen2022deep)Deep one-class classification via interpolated gaussian descriptor [[AAAI 2022 oral]](https://arxiv.org/pdf/2101.10043.pdf)[[code]](https://github.com/tianyu0207/IGD)
+ + (xisoftpatch)SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NIPS 2020]](http://arxiv.org/pdf/2009.09443)[[code is coming soon]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
 
 ## 3.3 Anomaly Synthetic
  + (li2021cutpaste)Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)2021]](http://arxiv.org/pdf/2104.04015)
@@ -187,7 +188,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  
 ## 3.4 3D AD
  + (bergmann2022anomaly)Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
- + (horwitz2022back)Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [[2022]](https://arxiv.org/pdf/2203.05550.pdf)
+ + (horwitz2022back)Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [[2022]](https://arxiv.org/pdf/2203.05550.pdf)[[code]](https://github.com/eliahuhorwitz/3D-ADS)
  + (reiss2022anomaly)Anomaly Detection Requires Better Representations [[2022]](https://arxiv.org/pdf/2210.10773.pdf)
  + (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)
  + Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)
