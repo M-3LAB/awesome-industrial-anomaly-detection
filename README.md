@@ -227,7 +227,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 
 If you find this paper and repository useful, please cite our paper.
 
-'''
+```
 @article{liu2023deep,
   title={Deep Industrial Image Anomaly Detection: A Survey},
   author={Liu, Jiaqi and Xie, Guoyang and Wang, Jingbao and Li, Shangnian and Wang, Chengjie and Zheng, Feng and Jin, Yaochu},
@@ -235,5 +235,4 @@ If you find this paper and repository useful, please cite our paper.
   pages={arXiv--2301},
   year={2023}
 }
-
-'''
+```
