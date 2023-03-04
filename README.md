@@ -35,8 +35,8 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 + (salehi2021multiresolution)Multiresolution knowledge distillation for anomaly detection [[CVPR 2021]](https://arxiv.org/pdf/2011.11108)
 + (yamada2021reconstruction)Reconstruction Student with Attention for Student-Teacher Pyramid Matching [[2021]](https://arxiv.org/pdf/2111.15376.pdf)
 + (yamada2022reconstructed)Reconstructed Student-Teacher and Discriminative Networks for Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.07548.pdf)
-+ (deng2022anomaly)Anomaly Detection via Reverse Distillation from One-Class Embedding [[CVPR 2022]](http://arxiv.org/pdf/2201.10703)
-+ (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)
++ (deng2022anomaly)Anomaly Detection via Reverse Distillation from One-Class Embedding [[CVPR 2022]](http://arxiv.org/pdf/2201.10703)[[code]](https://github.com/hq-deng/RD4AD)
++ (rudolph2022asymmetric)Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)[[code]](https://github.com/marco-rudolph/AST)
 + (cao2022informative)Informative knowledge distillation for image anomaly segmentation [[2022]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123&pid=1-s2.0-S0950705122004038-main.pdf)
 
 ### 2.1.2 One-Class Classification (OCC)
