@@ -5,10 +5,10 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 
 
 # New related research after the survey was written(Also included in subsequent categories)
-+ Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)
++ Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[Code is coming soon]](https://github.com/nomewang/M3DM)
 + Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://arxiv.org/abs/2301.12082)
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
-+ Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)
++ Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)[[code]](https://github.com/caoyunkang/CDO)
 + CVPR 1st workshop on Vision-based InduStrial InspectiON[[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
 # Paper Tree (Classification of representative methods)
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
