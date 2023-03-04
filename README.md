@@ -226,6 +226,7 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
 ## BibTex Citation
 
 If you find this paper and repository useful, please cite our paper.
+
 '''
 @article{liu2023deep,
   title={Deep Industrial Image Anomaly Detection: A Survey},
