@@ -223,7 +223,8 @@ Welcome to read our paper and make comments. [Deep Industrial Image Anomaly Dete
  + (DAGMGNSS2077)DAGM dataset [[2000]]()
  + CVPR 1st workshop on Vision-based InduStrial InspectiON[[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
 
-##BibTex Citation
+## BibTex Citation
+
 If you find this paper and repository useful, please cite our paper.
 '''
 @article{liu2023deep,
