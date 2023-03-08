@@ -1,10 +1,12 @@
 # Awesome Industrial Anomaly Detection
 
 We discuss public datasets and related studies in detail. Welcome to read our paper and make comments. 
+
 [Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)
 
 We will keep focusing on this field and update relevant information.
-(Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection. )
+
+(Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection.)
 
 # New related research after the survey was written(Also included in subsequent categories)
 + PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)
