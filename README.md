@@ -200,7 +200,7 @@ We will keep focusing on this field and update relevant information.
  + Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)
  
 ## 3.5 Continual AD
- + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682702)
+ + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
 
 ## 3.6 Uniform AD
  + A Unified Model for Multi-class Anomaly Detection [[NIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf)
