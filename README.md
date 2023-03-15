@@ -184,17 +184,15 @@ We will keep focusing on this field and update relevant information.
 
 ## 3.3 Anomaly Synthetic
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)2021]](http://arxiv.org/pdf/2104.04015)
+ + Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
  + MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)
  + Multistage GAN for fabric defect detection [[2019]](https://pubmed.ncbi.nlm.nih.gov/31870985/)
  + Gan-based defect synthesis for anomaly detection in fabrics [[2020]](https://www.lfb.rwth-aachen.de/bibtexupload/pdf/RIP20c.pdf)
- + Unpaired image-to-image translation using cycle-consistent adversarial networks [[2017]](https://namanuiuc.github.io/assets/projects/CGAN/report.pdf)
  + Defect image sample generation with GAN for improving defect recognition [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000806)
  + Defective samples simulation through neural style transfer for automatic surface defect segment [[2020]](http://arxiv.org/pdf/1910.03334)
  + A simulation-based few samples learning method for surface defect segmentation [[2020]](https://www.sciencedirect.com/science/article/pii/S0925231220310791/pdfft?md5=f3f72bc8687c8f9968d4a2a1bd3ea17e&pid=1-s2.0-S0925231220310791-main.pdf)
  + Synthetic data augmentation for surface defect detection and classification using deep learning [[2020]](https://link.springer.com/article/10.1007/s10845-020-01710-x)
  + Defect Transfer GAN: Diverse Defect Synthesis for Data Augmentation [[BMVC 2022]](https://openreview.net/pdf?id=2hMEdc35xZ6)
- + Gans trained by a two time-scale update rule converge to a local nash equilibrium [[2017]](https://arxiv.org/pdf/1706.08500.pdf)
- + Demystifying MMD GANs [[2018]](https://arxiv.org/pdf/1801.01401.pdf)
  + Defect-GAN: High-fidelity defect synthesis for automated defect inspectio [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
  
 ## 3.4 3D AD
