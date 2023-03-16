@@ -9,7 +9,7 @@ We will keep focusing on this field and update relevant information.
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection.)
 
 # New related research after the survey was written(Also included in subsequent categories)
-+ DiffusionAD: Denoising Diffusion for Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2303.08730)
++ DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
 + SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673)[[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
 + In-painting Radiography Images for Unsupervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2111.13495)
 + Diversity-Measurable Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2303.05047)
@@ -147,7 +147,7 @@ We will keep focusing on this field and update relevant information.
  + Denoising diffusion probabilistic models [[2020]](https://arxiv.org/pdf/2006.11239.pdf)
  + AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[CVPR Workshop 2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
  + Unsupervised Visual Defect Detection with Score-Based Generative Model[[2022]](https://arxiv.org/pdf/2211.16092.pdf)
- + DiffusionAD: Denoising Diffusion for Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2303.08730)
+ + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
  
  # 2.3 Supervised AD
  + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
