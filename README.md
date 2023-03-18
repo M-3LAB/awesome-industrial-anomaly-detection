@@ -87,7 +87,7 @@ We will keep focusing on this field and update relevant information.
  + Sub-image anomaly detection with deep pyramid correspondences [[2020]](https://arxiv.org/pdf/2005.02357.pdf)
  + Semi-orthogonal embedding for efficient unsupervised anomaly segmentation [[2021]](https://arxiv.org/pdf/2105.14737.pdf)
  + Anomaly Detection Via Self-Organizing Map [[2021]](http://arxiv.org/pdf/2107.09903)
- + PaDiM: A Patch Distribution Modeling Framework for Anomaly Detection and Localization [[ICPR 2021]](https://link.springer.com/chapter/10.1007/978-3-030-68799-1_35)
+ + PaDiM: A Patch Distribution Modeling Framework for Anomaly Detection and Localization [[ICPR 2021]](https://link.springer.com/chapter/10.1007/978-3-030-68799-1_35)[[unofficial code]](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)
  + Industrial Image Anomaly Localization Based on Gaussian Clustering of Pretrained Feature [[2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9479740)
  + Towards total recall in industrial anomaly detection[[CVPR 2022]](http://arxiv.org/pdf/2106.08265)[[code]](https://github.com/amazon-science/patchcore-inspection)
  + CFA: Coupled-Hypersphere-Based Feature Adaptation for Target-Oriented Anomaly Localization[[2022]](https://arxiv.org/pdf/2206.04325.pdf)[[code]](https://github.com/sungwool/CFA_for_anomaly_localization)
