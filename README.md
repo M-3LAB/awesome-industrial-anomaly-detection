@@ -60,9 +60,9 @@ We will keep focusing on this field and update relevant information.
 + Learning and Evaluating Representations for Deep One-Class Classification [[2020]](https://arxiv.org/pdf/2011.02578.pdf)
 + Self-supervised learning for anomaly detection with dynamic local augmentation [[2021]](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09597511.pdf)
 + Contrastive Predictive Coding for Anomaly Detection [[2021]](https://arxiv.org/pdf/2107.07820.pdf)
-+ Cutpaste: Self-supervised learning for anomaly detection and localization [[ICCV 2021]](http://arxiv.org/pdf/2104.04015)
++ Cutpaste: Self-supervised learning for anomaly detection and localization [[ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
 + Consistent estimation of the max-flow problem: Towards unsupervised image segmentation [[2020]](http://arxiv.org/pdf/1811.00220)
-+ MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)
++ MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)[[unofficial code]](https://github.com/TooTouch/MemSeg)
 
 ### 2.1.3 Distribution-Map
 + A Multi-Scale A Contrario method for Unsupervised Image Anomaly Detection [[2021]](http://arxiv.org/pdf/2110.02407)
@@ -73,7 +73,7 @@ We will keep focusing on this field and update relevant information.
 + Position Encoding Enhanced Feature Mapping for Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926547)[[code]](https://github.com/smiler96/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation)
 + Focus your distribution: Coarse-to-fine non-contrastive learning for anomaly detection and localization [[ICME 2022]](http://arxiv.org/pdf/2110.04538)
 + Anomaly Detection of Defect using Energy of Point Pattern Features within Random Finite Set Framework [[2021]](https://arxiv.org/abs/2108.12159)[[code]](https://github.com/AmmarKamoona/RFS-Energy-Anomaly-Detection-of-Defect)
-+ Fastflow: Unsupervised anomaly detection and localization via 2d normalizing flows [[2021]](https://arxiv.org/pdf/2111.07677.pdf)
++ Fastflow: Unsupervised anomaly detection and localization via 2d normalizing flows [[2021]](https://arxiv.org/pdf/2111.07677.pdf)[[unofficial code]](https://github.com/gathierry/FastFlow)
 + Same same but differnet: Semi-supervised defect detection with normalizing flows [[WACV 2021]](http://arxiv.org/pdf/2008.12577)[[code]](https://github.com/marco-rudolph/differnet)
 + Fully convolutional cross-scale-flows for image-based defect detection [[WACV 2022]](http://arxiv.org/pdf/2110.02855)[[code]](https://github.com/marco-rudolph/cs-flow)
 + Cflow-ad: Real-time unsupervised anomaly detection with localization via conditional normalizing flows [[WACV 2022]](http://arxiv.org/pdf/2107.12571)[[code]](https://github.com/gudovskiy/cflow-ad)
@@ -186,9 +186,9 @@ We will keep focusing on this field and update relevant information.
  + SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NIPS 2020]](http://arxiv.org/pdf/2009.09443)[[code is coming soon]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
 
 ## 3.3 Anomaly Synthetic
- + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)2021]](http://arxiv.org/pdf/2104.04015)
- + Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
- + MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)
+ + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
+ + Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[(Reconstruction AE)ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
+ + MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[(OCC)2022]](https://arxiv.org/pdf/2205.00908.pdf)[[unofficial code]](https://github.com/TooTouch/MemSeg)
  + Multistage GAN for fabric defect detection [[2019]](https://pubmed.ncbi.nlm.nih.gov/31870985/)
  + Gan-based defect synthesis for anomaly detection in fabrics [[2020]](https://www.lfb.rwth-aachen.de/bibtexupload/pdf/RIP20c.pdf)
  + Defect image sample generation with GAN for improving defect recognition [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000806)
