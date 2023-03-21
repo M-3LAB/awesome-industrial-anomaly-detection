@@ -29,11 +29,12 @@ We will keep focusing on this field and update relevant information.
 # Related Survey, Benchmark and Framework
 + A review on computer vision based defect detection and condition assessment of concrete and asphalt civil infrastructure [[2015]](https://www.sciencedirect.com/science/article/abs/pii/S1474034615000208)
 + (czimmermann2020visual)Visual-based defect detection and classification approaches for industrial applications: a survey [[2020]](https://pdfs.semanticscholar.org/1dfc/080a5f26b5ce78f9ce3e9f106bf7e8124f74.pdf)
-+ (tao2022deep)Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey [[2022]](http://arxiv.org/pdf/2207.10298)
++ (tao2022deep)Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey [[TIM 2022]](http://arxiv.org/pdf/2207.10298)
 + (cui2022survey)A Survey on Unsupervised Industrial Anomaly Detection Algorithms [[2022]](https://arxiv.org/abs/2204.11161)
 + Benchmarking Unsupervised Anomaly Detection and Localization [[2022]](https://arxiv.org/abs/2205.14852)
 + IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [[2023]](https://arxiv.org/abs/2301.13359)
-+ Anomalib: A Deep Learning Library for Anomaly Detection [[2022]](https://arxiv.org/abs/2202.08341)[[code]](https://github.com/openvinotoolkit/anomalib)
++ A Deep Learning-based Software for Manufacturing Defect Inspection[[TII 2017]](https://ieeexplore.ieee.org/document/9795891)[[code]](https://github.com/sundyCoder/DEye)
++ Anomalib: A Deep Learning Library for Anomaly Detection [[code]](https://github.com/openvinotoolkit/anomalib)
 
 # 2 Unsupervised AD
 
@@ -197,6 +198,7 @@ We will keep focusing on this field and update relevant information.
  + Synthetic data augmentation for surface defect detection and classification using deep learning [[2020]](https://link.springer.com/article/10.1007/s10845-020-01710-x)
  + Defect Transfer GAN: Diverse Defect Synthesis for Data Augmentation [[BMVC 2022]](https://openreview.net/pdf?id=2hMEdc35xZ6)
  + Defect-GAN: High-fidelity defect synthesis for automated defect inspectio [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
+ + EID-GAN: Generative Adversarial Nets for Extremely Imbalanced Data Augmentation[[TII 2022]](https://ieeexplore.ieee.org/document/9795891)
  
 ## 3.4 3D AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
