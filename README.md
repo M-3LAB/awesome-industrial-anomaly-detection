@@ -8,7 +8,7 @@ We will keep focusing on this field and update relevant information.
 
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection.)
 
-# New related research after the survey was written(Also included in subsequent categories)
+# Recent research
 + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
 + SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673)[[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
 + In-painting Radiography Images for Unsupervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2111.13495)
