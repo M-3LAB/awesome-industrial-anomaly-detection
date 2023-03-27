@@ -44,6 +44,7 @@ We will keep focusing on this field and update relevant information.
 ### 2.1.1 Teacher-Student
 + Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings [[CVPR 2020]](http://arxiv.org/pdf/1911.02357)
 + Multiresolution knowledge distillation for anomaly detection [[CVPR 2021]](https://arxiv.org/pdf/2011.11108)
++ Glancing at the Patch: Anomaly Localization With Global and Local Feature Comparison [[CVPR 2021]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Glancing_at_the_Patch_Anomaly_Localization_With_Global_and_Local_CVPR_2021_paper.html)
 + Reconstruction Student with Attention for Student-Teacher Pyramid Matching [[2021]](https://arxiv.org/pdf/2111.15376.pdf)
 + Student-Teacher Feature Pyramid Matching for Anomaly Detection [[2021]](https://arxiv.org/pdf/2103.04257.pdf)[[code]](https://github.com/smiler96/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation)
 + PFM and PEFM for Image Anomaly Detection and Segmentation [[CASE 2022]](https://ieeexplore.ieee.org/abstract/document/9926547/)[[TII 2022]](https://ieeexplore.ieee.org/document/9795121)[[code]](https://github.com/smiler96/PFM-and-PEFM-for-Image-Anomaly-Detection-and-Segmentation)
