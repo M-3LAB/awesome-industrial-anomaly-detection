@@ -163,6 +163,7 @@ We will keep focusing on this field and update relevant information.
  + Explainable deep few-shot anomaly detection with deviation networks [[2021]](https://arxiv.org/pdf/2108.00462.pdf)
  + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [2022]
  + Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [[CVPR 2022]](http://arxiv.org/pdf/2203.14506)
+ + Anomaly Clustering: Grouping Images into Coherent Clusters of Anomaly Types[[WACV 2023]](https://openaccess.thecvf.com/content/WACV2023/html/Sohn_Anomaly_Clustering_Grouping_Images_Into_Coherent_Clusters_of_Anomaly_Types_WACV_2023_paper.html)
  + Domain adaptation for automatic OLED panel defect detection using adaptive support vector data description [[IJCV 2017]](https://link.springer.com/article/10.1007/s11263-016-0953-y)
  + An effective framework of automated visual surface defect detection for metal parts [[2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9475966)
  + Interleaved Deep Artifacts-Aware Attention Mechanism for Concrete Structural Defect Classification [[TIP 2021]](https://eprints.keele.ac.uk/10031/1/TIP24Jul2021.pdf)
@@ -170,6 +171,7 @@ We will keep focusing on this field and update relevant information.
  + Fabric defect detection using tactile information [[ICRA 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561092)
  + A lightweight spatial and temporal multi-feature fusion network for defect detection [[TIP 2020]](http://nrl.northumbria.ac.uk/id/eprint/48908/1/ALightweightSpatialandTemporalMulti-featureFusionNetworkforDefectDetection.pdf)
  + Detection and segmentation of manufacturing defects with convolutional neural networks and transfer learning [[2018]](https://europepmc.org/articles/pmc6512995?pdf=render)
+ 
 
 # 3 Other Research Direction
 
