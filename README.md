@@ -6,7 +6,7 @@ We discuss public datasets and related studies in detail. Welcome to read our pa
 
 We will keep focusing on this field and update relevant information.
 
-(Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection.)
+(Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
 
 # Recent research
 + Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[2023]](https://arxiv.org/abs/2303.13194)[[code]](https://github.com/caoyunkang/CPMF)
