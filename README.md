@@ -9,6 +9,7 @@ We will keep focusing on this field and update relevant information.
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
 
 # Recent research
++ WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://github.com/DonaldRR/SimpleNet)[[code]](https://github.com/DonaldRR/SimpleNet)
 + Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[2023]](https://arxiv.org/abs/2303.13194)[[code]](https://github.com/caoyunkang/CPMF)
 + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
@@ -176,6 +177,7 @@ We will keep focusing on this field and update relevant information.
 # 3 Other Research Direction
 
 ## 3.1 Few-Shot AD
+ + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
  + Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)[[code]](https://github.com/MediaBrain-SJTU/RegAD)
  + Same same but differnet: Semi-supervised defect detection with normalizing flows [[(Distribution)WACV 2021]](http://arxiv.org/pdf/2008.12577)
