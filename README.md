@@ -223,7 +223,7 @@ We will keep focusing on this field and update relevant information.
  + A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects [[2013]](https://www.sciencedirect.com/science/article/pii/S0169433213016437/pdfft?md5=478bf7f07bbf551a5d991048f9bc16e4&pid=1-s2.0-S0169433213016437-main.pdf)
  + Deep learning based steel pipe weld defect detection [[2021]](https://www.tandfonline.com/doi/pdf/10.1080/08839514.2021.1975391?needAccess=true)
  + (SDD)Severstal: Steel Defect Detection [[2019]]()
- + (carrera2016defect)Defect detection in SEM images of nanofibrous materials [[2016]](https://re.public.polimi.it/bitstream/11311/1024586/1/anomaly_detection_sem.pdf)
+ + Defect detection in SEM images of nanofibrous materials [[2016]](https://re.public.polimi.it/bitstream/11311/1024586/1/anomaly_detection_sem.pdf)
  + (GDXray)GDXray: The database of X-ray images for nondestructive testing [[2015]](http://dmery.sitios.ing.uc.cl/Prints/ISI-Journals/2015-JNDE-GDXray.pdf)
  + Online PCB defect detector on a new PCB defect dataset [[2019]](https://arxiv.org/pdf/1902.06197.pdf)
  + Fabric inspection based on the Elo rating method [[2016]](http://hub.hku.hk/bitstream/10722/229176/1/content.pdf)
@@ -239,7 +239,7 @@ We will keep focusing on this field and update relevant information.
  + (VisA)SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2207.14315.pdf)
  + (MTD)Surface defect saliency of magnetic tile [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8560423)
  + (DAGM)DAGM dataset [[2007]](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection)
- + CVPR 1st workshop on Vision-based InduStrial InspectiON[[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
+ + CVPR 1st workshop on Vision-based InduStrial InspectiON [[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
  + SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673)[[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
 
 ## BibTex Citation
