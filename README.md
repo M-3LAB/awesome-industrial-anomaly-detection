@@ -74,6 +74,7 @@ We will keep focusing on this field and update relevant information.
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://github.com/DonaldRR/SimpleNet)[[code]](https://github.com/DonaldRR/SimpleNet)
 
 ### 2.1.3 Distribution-Map
++ Anomaly Detection in Nanofibrous Materials by CNN-Based Self-Similarity [[Sensors 2018]](https://www.mdpi.com/1424-8220/18/1/209)
 + A Multi-Scale A Contrario method for Unsupervised Image Anomaly Detection [[2021]](http://arxiv.org/pdf/2110.02407)
 + Modeling the distribution of normal data in pre-trained deep features for anomaly detection [[2021]](http://arxiv.org/pdf/2005.14140)
 + Transfer Learning Gaussian Anomaly Detection by Fine-Tuning Representations [[2021]](https://arxiv.org/pdf/2108.04116.pdf)
@@ -111,6 +112,8 @@ We will keep focusing on this field and update relevant information.
 
 ### 2.2.1 Autoencoder (AE)
  + Improving unsupervised defect segmentation by applying structural similarity to autoencoders [[2018]](https://arxiv.org/pdf/1807.02011.pdf)
+ + Automatic Fabric Defect Detection with a Multi-Scale Convolutional Denoising Autoencoder Network Model [[Sensors 2018]](https://www.mdpi.com/1424-8220/18/4/1064)
+ + An Unsupervised-Learning-Based Approach for Automated Defect Inspection on Textured Surfaces [[TIM 2018]](https://ieeexplore.ieee.org/abstract/document/8281622)
  + Unsupervised anomaly detection using style distillation [[2020]](https://ieeexplore.ieee.org/ielx7/6287639/6514899/09288772.pdf)
  + Unsupervised two-stage anomaly detection [[2021]](https://arxiv.org/pdf/2103.11671.pdf)
  + Dfr: Deep feature reconstruction for unsupervised anomaly segmentation [[Neurocomputing 2020]](https://arxiv.org/pdf/2012.07122.pdf)
@@ -139,9 +142,10 @@ We will keep focusing on this field and update relevant information.
  + In-painting Radiography Images for Unsupervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2111.13495)
  
 ### 2.2.2 Generative Adversarial Networks (GANs)
+ + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)[[code]](https://github.com/zhangzjn/ocr-gan)
  + Learning semantic context from normal samples for unsupervised anomaly detection [[AAAI 2021]](https://ojs.aaai.org/index.php/AAAI/article/download/16420/16227)
  + Anoseg: Anomaly segmentation network using self-supervised learning [[2021]](https://arxiv.org/pdf/2110.03396.pdf)
- + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)[[code]](https://github.com/zhangzjn/ocr-gan)
+ + A Surface Defect Detection Method Based on Positive Samples [[PRICAI 2018]](https://link.springer.com/chapter/10.1007/978-3-319-97310-4_54)
 
 ### 2.2.3 Transformer
  + VT-ADL: A vision transformer network for image anomaly detection and localization [[ISIE 2021]](http://arxiv.org/pdf/2104.10036)
@@ -159,22 +163,34 @@ We will keep focusing on this field and update relevant information.
  + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
  
  # 2.3 Supervised AD
+ ## Less Abnormal Samples
  + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
  + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
  + Attention guided anomaly localization in images [[ECCV 2020]](http://arxiv.org/pdf/1911.08616)
  + Mixed supervision for surface-defect detection: From weakly to fully supervised learning [[2021]](https://arxiv.org/pdf/2104.06064.pdf)
  + Explainable deep few-shot anomaly detection with deviation networks [[2021]](https://arxiv.org/pdf/2108.00462.pdf)
- + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [2022]
  + Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [[CVPR 2022]](http://arxiv.org/pdf/2203.14506)
  + Anomaly Clustering: Grouping Images into Coherent Clusters of Anomaly Types[[WACV 2023]](https://openaccess.thecvf.com/content/WACV2023/html/Sohn_Anomaly_Clustering_Grouping_Images_Into_Coherent_Clusters_of_Anomaly_Types_WACV_2023_paper.html)
- + Domain adaptation for automatic OLED panel defect detection using adaptive support vector data description [[IJCV 2017]](https://link.springer.com/article/10.1007/s11263-016-0953-y)
+
+ 
+ ## More Abnormal Samples
+ + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [2022]
  + An effective framework of automated visual surface defect detection for metal parts [[2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9475966)
  + Interleaved Deep Artifacts-Aware Attention Mechanism for Concrete Structural Defect Classification [[TIP 2021]](https://eprints.keele.ac.uk/10031/1/TIP24Jul2021.pdf)
  + Reference-based defect detection network [[TIP 2021]](http://arxiv.org/pdf/2108.04456)
  + Fabric defect detection using tactile information [[ICRA 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561092)
  + A lightweight spatial and temporal multi-feature fusion network for defect detection [[TIP 2020]](http://nrl.northumbria.ac.uk/id/eprint/48908/1/ALightweightSpatialandTemporalMulti-featureFusionNetworkforDefectDetection.pdf)
+ + A High-Efficiency Fully Convolutional Networks for Pixel-Wise Surface Defect Detection [[IEEE access 2019]](https://ieeexplore.ieee.org/abstract/document/8624360)
+ + Autonomous Structural Visual Inspection Using Region-Based Deep Learning for Detecting Multiple Damage Types [[CACIE 2018]](https://dl.acm.org/doi/abs/10.1111/mice.12334)
  + Detection and segmentation of manufacturing defects with convolutional neural networks and transfer learning [[2018]](https://europepmc.org/articles/pmc6512995?pdf=render)
- 
+ + Automatic Metallic Surface Defect Detection and Recognition with Convolutional Neural Networks [[Applied Sciences 2018]](https://www.mdpi.com/2076-3417/8/9/1575)
+ + Real-time Detection of Steel Strip Surface Defects Based on Improved YOLO Detection Network [[IFAC-PapersOnLine 2018]](https://www.sciencedirect.com/science/article/pii/S2405896318321001)
+ + Domain adaptation for automatic OLED panel defect detection using adaptive support vector data description [[IJCV 2017]](https://link.springer.com/article/10.1007/s11263-016-0953-y)
+ + Automatic Defect Detection of Fasteners on the Catenary Support Device Using Deep Convolutional Neural Network [[TIM 2017]](https://ieeexplore.ieee.org/abstract/document/8126877)
+ + Deep Active Learning for Civil Infrastructure Defect Detection and Classification [Computing in civil engineering 2017](https://ascelibrary.org/doi/abs/10.1061/9780784480823.036)
+ + A fast and robust convolutional neural network-based defect detection model in product quality control [[IJAMT 2017]](https://link.springer.com/article/10.1007/s00170-017-0882-0)
+ + Defects Detection Based on Deep Learning and Transfer Learning [[Metallurgical & Mining Industry 2015]](https://web.s.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=20760507&AN=115932631&h=Xxf%2binGAfPaFG1E3Net%2fQQIu5U%2fD2pFkichv9fJ63Bx%2bjW2wr5y1UZWYaHbOQCE%2bZc%2bYJQz117Xd06J3IxAbSg%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d20760507%26AN%3d115932631)
+ + Design of deep convolutional neural network architectures for automated feature extraction in industrial inspection [[CIRP annals 2016]](https://www.sciencedirect.com/science/article/abs/pii/S0007850616300725)
 
 # 3 Other Research Direction
 
@@ -201,6 +217,7 @@ We will keep focusing on this field and update relevant information.
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
  + Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[(Reconstruction AE)ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
  + MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[(OCC)2022]](https://arxiv.org/pdf/2205.00908.pdf)[[unofficial code]](https://github.com/TooTouch/MemSeg)
+ + A High-Efficiency Fully Convolutional Networks for Pixel-Wise Surface Defect Detection [[IEEE access 2019]](https://ieeexplore.ieee.org/abstract/document/8624360)
  + Multistage GAN for fabric defect detection [[2019]](https://pubmed.ncbi.nlm.nih.gov/31870985/)
  + Gan-based defect synthesis for anomaly detection in fabrics [[2020]](https://www.lfb.rwth-aachen.de/bibtexupload/pdf/RIP20c.pdf)
  + Defect image sample generation with GAN for improving defect recognition [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000806)
