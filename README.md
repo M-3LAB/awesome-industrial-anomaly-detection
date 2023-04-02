@@ -227,11 +227,11 @@ We will keep focusing on this field and update relevant information.
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
- + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245)[[code]](https://github.com/NivC/SINBAD)
+ + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
  
 # 4 Dataset
- + A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects [[2013]](https://www.sciencedirect.com/science/article/pii/S0169433213016437/pdfft?md5=478bf7f07bbf551a5d991048f9bc16e4&pid=1-s2.0-S0169433213016437-main.pdf)
- + Deep learning based steel pipe weld defect detection [[2021]](https://www.tandfonline.com/doi/pdf/10.1080/08839514.2021.1975391?needAccess=true)
+ + A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects [[2013]](https://www.sciencedirect.com/science/article/pii/S0169433213016437/pdfft?md5=478bf7f07bbf551a5d991048f9bc16e4&pid=1-s2.0-S0169433213016437-main.pdf) [[data]](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)
+ + Deep learning based steel pipe weld defect detection [[2021]](https://www.tandfonline.com/doi/pdf/10.1080/08839514.2021.1975391?needAccess=true) [[data]](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)
  + (SDD)Severstal: Steel Defect Detection [[data 2019]](https://www.kaggle.com/code/ekhtiar/resunet-a-baseline-on-tensorflow/notebook)
  + Defect detection in SEM images of nanofibrous materials [[2016]](https://re.public.polimi.it/bitstream/11311/1024586/1/anomaly_detection_sem.pdf)
  + (GDXray)GDXray: The database of X-ray images for nondestructive testing [[2015]](http://dmery.sitios.ing.uc.cl/Prints/ISI-Journals/2015-JNDE-GDXray.pdf)
@@ -247,7 +247,7 @@ We will keep focusing on this field and update relevant information.
  + (MPDD)Deep learning-based defect detection of metal parts: evaluating current methods in complex conditions [[ICUMT 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9631567) [[data]](https://vutbr-my.sharepoint.com/personal/xjezek16_vutbr_cz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxjezek16%5Fvutbr%5Fcz%2FDocuments%2FMPDD&ga=1)
  + (BTAD)VT-ADL: A vision transformer network for image anomaly detection and localization [[2021]](http://arxiv.org/pdf/2104.10036) [[data]](http://avires.dimi.uniud.it/papers/btad/btad.zip)
  + (VisA)SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2207.14315.pdf) [[data]](https://github.com/amazon-science/spot-diff)
- + (MTD)Surface defect saliency of magnetic tile [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8560423)
+ + (MTD)Surface defect saliency of magnetic tile [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8560423) [[data]](https://github.com/abin24/Magnetic-tile-defect-datasets.)
  + (DAGM)DAGM dataset [[data 2007]](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection)
  + CVPR 1st workshop on Vision-based InduStrial InspectiON [[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
  + SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673)[[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
