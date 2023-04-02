@@ -163,7 +163,7 @@ We will keep focusing on this field and update relevant information.
  + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
  
  # 2.3 Supervised AD
- ## Less Abnormal Samples
+ ## More Normal samples and Less Abnormal Samples
  + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
  + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
  + Attention guided anomaly localization in images [[ECCV 2020]](http://arxiv.org/pdf/1911.08616)
@@ -180,7 +180,9 @@ We will keep focusing on this field and update relevant information.
  + Reference-based defect detection network [[TIP 2021]](http://arxiv.org/pdf/2108.04456)
  + Fabric defect detection using tactile information [[ICRA 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561092)
  + A lightweight spatial and temporal multi-feature fusion network for defect detection [[TIP 2020]](http://nrl.northumbria.ac.uk/id/eprint/48908/1/ALightweightSpatialandTemporalMulti-featureFusionNetworkforDefectDetection.pdf)
+ + SDD-CNN: Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection [[Robotics and Computer-Integrated Manufacturing 2020]](https://www.sciencedirect.com/science/article/abs/pii/S0736584518304770)
  + A High-Efficiency Fully Convolutional Networks for Pixel-Wise Surface Defect Detection [[IEEE access 2019]](https://ieeexplore.ieee.org/abstract/document/8624360)
+ + SDD-CNN: Small Data-Driven Convolution Neural Networks for Subtle Roller Defect Inspection [[Applied Sciences 2019]](https://www.mdpi.com/2076-3417/9/7/1364)
  + Autonomous Structural Visual Inspection Using Region-Based Deep Learning for Detecting Multiple Damage Types [[CACIE 2018]](https://dl.acm.org/doi/abs/10.1111/mice.12334)
  + Detection and segmentation of manufacturing defects with convolutional neural networks and transfer learning [[2018]](https://europepmc.org/articles/pmc6512995?pdf=render)
  + Automatic Metallic Surface Defect Detection and Recognition with Convolutional Neural Networks [[Applied Sciences 2018]](https://www.mdpi.com/2076-3417/8/9/1575)
