@@ -214,7 +214,7 @@ We will keep focusing on this field and update relevant information.
  + Data refinement for fully unsupervised visual inspection using pre-trained networks [[2022]](https://arxiv.org/pdf/2202.12759.pdf)
  + Latent Outlier Exposure for Anomaly Detection with Contaminated Data [[ICML 2022]](https://arxiv.org/pdf/2202.08088.pdf)
  + Deep one-class classification via interpolated gaussian descriptor [[AAAI 2022 oral]](https://arxiv.org/pdf/2101.10043.pdf)[[code]](https://github.com/tianyu0207/IGD)
- + SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NIPS 2020]](http://arxiv.org/pdf/2009.09443)[[code is coming soon]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
+ + SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NIPS 2022]](http://arxiv.org/pdf/2009.09443)[[code is coming soon]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
 
 ## 3.3 Anomaly Synthetic
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
