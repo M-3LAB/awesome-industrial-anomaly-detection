@@ -10,6 +10,7 @@ We will keep focusing on this field and update relevant information.
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
 
 # Recent research
++ Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[code]](https://github.com/zhangzilongc/MMR)
 + What makes a good data augmentation for few-shot unsupervised image anomaly detection? [CVPRW 2023]
 + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
 + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
@@ -272,6 +273,7 @@ We will keep focusing on this field and update relevant information.
  + (DAGM)DAGM dataset [[data 2007]](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection)
  + CVPR 1st workshop on Vision-based InduStrial InspectiON [[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
  + SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673)[[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
+ + Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[data]](https://github.com/zhangzilongc/MMR)
 
 ## BibTex Citation
 
