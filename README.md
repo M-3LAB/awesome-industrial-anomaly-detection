@@ -10,6 +10,7 @@ We will keep focusing on this field and update relevant information.
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
 
 # Recent research
++ What makes a good data augmentation for few-shot unsupervised image anomaly detection? [CVPRW 2023]
 + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
 + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2303.15140)[[code]](https://github.com/DonaldRR/SimpleNet)
