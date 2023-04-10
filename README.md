@@ -10,6 +10,7 @@ We will keep focusing on this field and update relevant information.
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
 
 # Recent research
++ GroundedSAM-zero-shot-anomaly-detection [[2023 tools code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 + Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[code]](https://github.com/zhangzilongc/MMR)
 + What makes a good data augmentation for few-shot unsupervised image anomaly detection? [[CVPRW 2023]](http://arxiv.org/abs/2304.03294)
 + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
@@ -43,6 +44,7 @@ We will keep focusing on this field and update relevant information.
 + IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [[2023]](https://arxiv.org/abs/2301.13359)
 + A Deep Learning-based Software for Manufacturing Defect Inspection[[TII 2017]](https://ieeexplore.ieee.org/document/9795891)[[code]](https://github.com/sundyCoder/DEye)
 + Anomalib: A Deep Learning Library for Anomaly Detection [[code]](https://github.com/openvinotoolkit/anomalib)
++ GroundedSAM-zero-shot-anomaly-detection [[2023 code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 
 # 2 Unsupervised AD
 
