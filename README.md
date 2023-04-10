@@ -11,7 +11,7 @@ We will keep focusing on this field and update relevant information.
 
 # Recent research
 + Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[code]](https://github.com/zhangzilongc/MMR)
-+ What makes a good data augmentation for few-shot unsupervised image anomaly detection? [CVPRW 2023](http://arxiv.org/abs/2304.03294)
++ What makes a good data augmentation for few-shot unsupervised image anomaly detection? [[CVPRW 2023]](http://arxiv.org/abs/2304.03294)
 + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
 + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2303.15140)[[code]](https://github.com/DonaldRR/SimpleNet)
