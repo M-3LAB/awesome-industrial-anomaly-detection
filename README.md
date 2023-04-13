@@ -10,6 +10,7 @@ We will keep focusing on this field and update relevant information.
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
 
 # Recent research
++ SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023]](https://arxiv.org/abs/2304.06022)
 + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)
 + GroundedSAM-zero-shot-anomaly-detection [[2023 tools code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 + Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[code]](https://github.com/zhangzilongc/MMR)
@@ -213,6 +214,7 @@ We will keep focusing on this field and update relevant information.
 ### Zero-Shot AD
  + MAEDAY: MAE for few and zero shot AnomalY-Detection [[2022]](https://arxiv.org/pdf/2211.14307.pdf)
  + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
+ + SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023]](https://arxiv.org/abs/2304.06022)
   <!-- + (he2022masked)Masked autoencoders are scalable vision learners [[2022]](http://arxiv.org/pdf/2111.06377) -->
  
 
