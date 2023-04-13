@@ -10,9 +10,10 @@ We will keep focusing on this field and update relevant information.
 (Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
 
 # Recent research
-+ SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023]](https://arxiv.org/abs/2304.06022)
++ Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[2023 SAM tech report]](https://arxiv.org/abs/2304.05750)
++ SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023 SAM tech report]](https://arxiv.org/abs/2304.06022)
 + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)
-+ GroundedSAM-zero-shot-anomaly-detection [[2023 tools code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
++ GroundedSAM-zero-shot-anomaly-detection [[2023 SAM tools]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 + Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[code]](https://github.com/zhangzilongc/MMR)
 + What makes a good data augmentation for few-shot unsupervised image anomaly detection? [[CVPRW 2023]](http://arxiv.org/abs/2304.03294)
 + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
@@ -214,7 +215,8 @@ We will keep focusing on this field and update relevant information.
 ### Zero-Shot AD
  + MAEDAY: MAE for few and zero shot AnomalY-Detection [[2022]](https://arxiv.org/pdf/2211.14307.pdf)
  + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
- + SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023]](https://arxiv.org/abs/2304.06022)
+ + Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[2023 SAM tech report]](https://arxiv.org/abs/2304.05750)
+ + SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023 SAM tech report]](https://arxiv.org/abs/2304.06022)
   <!-- + (he2022masked)Masked autoencoders are scalable vision learners [[2022]](http://arxiv.org/pdf/2111.06377) -->
  
 
