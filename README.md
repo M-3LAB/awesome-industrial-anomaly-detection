@@ -17,7 +17,6 @@ We will keep focusing on this field and update relevant information.
 + Diversity-Measurable Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2303.05047)
 + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2303.15140)[[code]](https://github.com/DonaldRR/SimpleNet)
-+ Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[2023]](https://arxiv.org/abs/2303.13194)[[code]](https://github.com/caoyunkang/CPMF)
 + PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)
 + Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[code]](https://github.com/nomewang/M3DM)
 + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)
@@ -33,6 +32,7 @@ We will keep focusing on this field and update relevant information.
 
 ## Others
 + What makes a good data augmentation for few-shot unsupervised image anomaly detection? [[CVPRW 2023]](http://arxiv.org/abs/2304.03294)
++ Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[2023]](https://arxiv.org/abs/2303.13194)[[code]](https://github.com/caoyunkang/CPMF)
 + Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[code]](https://github.com/zhangzilongc/MMR)
 + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
 + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245)[[code]](https://github.com/NivC/SINBAD)
