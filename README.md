@@ -272,6 +272,7 @@ We will keep focusing on this field and update relevant information.
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
  
 # 4 Dataset
+![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
  + A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects [[2013]](https://www.sciencedirect.com/science/article/pii/S0169433213016437/pdfft?md5=478bf7f07bbf551a5d991048f9bc16e4&pid=1-s2.0-S0169433213016437-main.pdf) [[data]](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)
  + Deep learning based steel pipe weld defect detection [[2021]](https://www.tandfonline.com/doi/pdf/10.1080/08839514.2021.1975391?needAccess=true) [[data]](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)
  + (SDD)Severstal: Steel Defect Detection [[data 2019]](https://www.kaggle.com/code/ekhtiar/resunet-a-baseline-on-tensorflow/notebook)
