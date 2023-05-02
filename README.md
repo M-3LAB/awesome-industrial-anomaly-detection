@@ -30,6 +30,7 @@ We will keep focusing on this field and update relevant information.
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ SLSG: Industrial Image Anomaly Detection by Learning Better Feature Embeddings and One-Class Classification [[2023]](https://arxiv.org/abs/2305.00398)
 + What makes a good data augmentation for few-shot unsupervised image anomaly detection? [[CVPRW 2023]](http://arxiv.org/abs/2304.03294)
 + Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[2023]](https://arxiv.org/abs/2303.13194)[[code]](https://github.com/caoyunkang/CPMF)
 + Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[code]](https://github.com/zhangzilongc/MMR)
@@ -268,6 +269,7 @@ We will keep focusing on this field and update relevant information.
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
+ + SLSG: Industrial Image Anomaly Detection by Learning Better Feature Embeddings and One-Class Classification [[2023]](https://arxiv.org/abs/2305.00398)
  
 # 4 Dataset
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
