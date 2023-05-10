@@ -19,6 +19,7 @@ We will keep focusing on this field and update relevant information.
 + PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)
 + Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[code]](https://github.com/nomewang/M3DM)
 + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)
++ SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2111.13495)
 
 ## SAM segment anything
 + Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[2023 SAM tech report]](https://arxiv.org/abs/2304.05750)
