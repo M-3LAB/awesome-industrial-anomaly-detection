@@ -60,7 +60,7 @@ We will keep focusing on this field and update relevant information.
 + IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [[2023]](https://arxiv.org/abs/2301.13359)
 + A Deep Learning-based Software for Manufacturing Defect Inspection [[TII 2017]](https://ieeexplore.ieee.org/document/9795891)[[code]](https://github.com/sundyCoder/DEye)
 + Anomalib: A Deep Learning Library for Anomaly Detection [[code]](https://github.com/openvinotoolkit/anomalib)
-+ GroundedSAM-zero-shot-anomaly-detection [[2023 code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
++ Ph.D. thesis of Paul Bergmann(The first author of MVTec AD series) [[2022]](https://mediatum.ub.tum.de/1662158)
 
 # 2 Unsupervised AD
 
