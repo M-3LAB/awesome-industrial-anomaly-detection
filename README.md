@@ -24,7 +24,7 @@ We will keep focusing on this field and update relevant information.
 ## SAM segment anything
 + Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[2023 SAM tech report]](https://arxiv.org/abs/2304.05750)
 + SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023 SAM tech report]](https://arxiv.org/abs/2304.06022)
-+ GroundedSAM-zero-shot-anomaly-detection [[2023 SAM tools]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
++ Segment Any Anomaly without Training via Hybrid Prompt Regularization [[2023]](https://arxiv.org/abs/2305.10724) [[code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 + Application of Segment Anything Model for Civil Infrastructure Defect Assessment [[2023 SAM tech report]](https://arxiv.org/abs/2304.12600)
 
 ## ICLR 2023
@@ -41,7 +41,8 @@ We will keep focusing on this field and update relevant information.
 + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
 + SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673) [[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
 + Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849) [[code]](https://github.com/caoyunkang/CDO)
-+ CVPR 1st workshop on Vision-based InduStrial InspectiON [[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/) [[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
++ CVPR 1st workshop on Vision-based InduStrial InspectiON [[CVPR 2023 Workshop]](https://vision-based-industrial-inspection.github.io/cvpr-2023/) [[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
++ VAND: Visual Anomaly and Novelty Detection [[CVPR 2023 Workshop]](https://sites.google.com/view/vand-cvpr23/home)
 
 # Paper Tree (Classification of representative methods)
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
