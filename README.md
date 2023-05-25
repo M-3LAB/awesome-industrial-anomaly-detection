@@ -308,7 +308,7 @@ We will keep focusing on this field and update relevant information.
 
 ## BibTex Citation
 
-If you find this paper and repository useful, please cite our paper.
+If you find this paper and repository useful, please cite our paper☺️.
 
 ```
 @article{liu2023deep,
