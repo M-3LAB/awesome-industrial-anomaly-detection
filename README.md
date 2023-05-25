@@ -279,6 +279,7 @@ We will keep focusing on this field and update relevant information.
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
  + SLSG: Industrial Image Anomaly Detection by Learning Better Feature Embeddings and One-Class Classification [[2023]](https://arxiv.org/abs/2305.00398)
+ + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
  
 # 4 Dataset
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
