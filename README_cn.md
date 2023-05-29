@@ -10,6 +10,14 @@
 我们将会持续关注这一领域并更新相关信息。
 
 (关键词: 异常检测, 异常分割, 工业图像, 缺陷检测)
+# 当下最先进方法(附代码)
++ Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2207.01463)[[code]](https://github.com/xcyao00/BGAD)
++ SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2303.15140)[[code]](https://github.com/DonaldRR/SimpleNet)
++ Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[code]](https://github.com/nomewang/M3DM)
++ Revisiting Reverse Distillation for Anomaly Detection [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/tientrandinh/Revisiting-Reverse-Distillation)
++ Towards total recall in industrial anomaly detection[[CVPR 2022]](http://arxiv.org/pdf/2106.08265)[[code]](https://github.com/amazon-science/patchcore-inspection)
++ DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
++ A Unified Model for Multi-class Anomaly Detection [[NIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
 
 # 近期研究
 ## CVPR 2023
@@ -36,6 +44,8 @@
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## 近期其他研究
++ ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2305.16713)
++ Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
 + Zero-Shot Batch-Level Anomaly Detection [[2023]](https://arxiv.org/abs/2302.07849)
 + Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[WACV 2023]](https://ieeexplore.ieee.org/document/10030870)
 + Anomaly Detection with Conditioned Denoising Diffusion Models [[2023]](https://arxiv.org/abs/2305.15956)
@@ -122,6 +132,7 @@
 + PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)
 
 ### 2.1.4 基于内存库检测
+ + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2305.16713)
  <!-- + (eskin2002geometric) A geometric framework for unsupervised anomaly detection [[2002]](https://www.researchgate.net/publication/242620986_A_Geometric_Framework_for_Unsupervised_Anomaly_Detection_Detecting_Intrusions_in_Unlabeled_Data#read) -->
  + Sub-image anomaly detection with deep pyramid correspondences [[2020]](https://arxiv.org/pdf/2005.02357.pdf)
  + Semi-orthogonal embedding for efficient unsupervised anomaly segmentation [[2021]](https://arxiv.org/pdf/2105.14737.pdf)
@@ -272,6 +283,7 @@
  + Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[2023]](https://arxiv.org/abs/2303.13194)[[code]](https://github.com/caoyunkang/CPMF)
  
 ## 3.5 持续异常检测
+ + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
 
 ## 3.6 统一模型异常检测
