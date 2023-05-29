@@ -36,6 +36,7 @@ We will keep focusing on this field and update relevant information.
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2305.16713)
 + Zero-Shot Batch-Level Anomaly Detection [[2023]](https://arxiv.org/abs/2302.07849)
 + Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[WACV 2023]](https://ieeexplore.ieee.org/document/10030870)
 + Anomaly Detection with Conditioned Denoising Diffusion Models [[2023]](https://arxiv.org/abs/2305.15956)
