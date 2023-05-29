@@ -4,7 +4,7 @@
 
 我们详细分析了相关研究和公开数据集。欢迎阅读我们的论文并提出意见。
 
-[Deep Industrial Image Anomaly Detection: A Survey](https://arxiv.org/abs/2301.11514)
+[Deep Industrial Image Anomaly Detection: A Survey(即将收录于Manchine Intelligence Research)](https://arxiv.org/abs/2301.11514)
 
 
 我们将会持续关注这一领域并更新相关信息。
