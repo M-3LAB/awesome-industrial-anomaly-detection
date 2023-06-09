@@ -4,7 +4,7 @@ We discuss public datasets and related studies in detail. Welcome to read our pa
 
 [[中文版]](./README_cn.md)我们详细分析了相关研究和公开数据集。欢迎阅读我们的论文并提出意见。
 
-[Deep Industrial Image Anomaly Detection: A Survey (Accepted by Machine Intelligence Research)](https://arxiv.org/abs/2301.11514)
+[Deep Industrial Image Anomaly Detection: A Survey (Accepted by Machine Intelligence Research[CiteScore 8.4 Q1])](https://arxiv.org/abs/2301.11514)
 
 
 We will keep focusing on this field and update relevant information.
