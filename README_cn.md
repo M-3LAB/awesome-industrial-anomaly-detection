@@ -21,6 +21,8 @@
 
 # 近期研究
 ## CVPR 2023
++ Workshop on Vision-Based Industrial Inspection [[CVPR Workshop paper list 2023]](https://openaccess.thecvf.com/CVPR2023_workshops/VISION)
++ Visual Anomaly and Novelty Detection [[CVPR Workshop paper list 2023]](https://openaccess.thecvf.com/CVPR2023_workshops/VAND)
 + Revisiting Reverse Distillation for Anomaly Detection [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/tientrandinh/Revisiting-Reverse-Distillation)
 + OmniAL A unifiled CNN framework for unsupervised anomaly localization [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_OmniAL_A_Unified_CNN_Framework_for_Unsupervised_Anomaly_Localization_CVPR_2023_paper.pdf)
 + Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2207.01463)[[code]](https://github.com/xcyao00/BGAD)
@@ -44,6 +46,7 @@
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## 近期其他研究
++ Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
 + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2305.16713)
 + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
 + Zero-Shot Batch-Level Anomaly Detection [[2023]](https://arxiv.org/abs/2302.07849)
@@ -202,7 +205,7 @@
  + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
  
  # 2.3 有监督异常检测
- ## 训练集包含大量正常样本和少量异常样本
+ ## 训练集包含大量正常样本和(少量异常样本 或 弱标签异常样本)
  + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
  + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
  + Attention guided anomaly localization in images [[ECCV 2020]](http://arxiv.org/pdf/1911.08616)
@@ -211,6 +214,7 @@
  + Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [[CVPR 2022]](http://arxiv.org/pdf/2203.14506)
  + Anomaly Clustering: Grouping Images into Coherent Clusters of Anomaly Types[[WACV 2023]](https://openaccess.thecvf.com/content/WACV2023/html/Sohn_Anomaly_Clustering_Grouping_Images_Into_Coherent_Clusters_of_Anomaly_Types_WACV_2023_paper.html)
  + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)
+ + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
 
  
  ## 训练集包含大量异常样本
