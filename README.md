@@ -15,9 +15,9 @@ We will keep focusing on this field and update relevant information.
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2303.15140)[[code]](https://github.com/DonaldRR/SimpleNet)
 + Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[code]](https://github.com/nomewang/M3DM)
 + Revisiting Reverse Distillation for Anomaly Detection [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/tientrandinh/Revisiting-Reverse-Distillation)
-+ Towards total recall in industrial anomaly detection[[CVPR 2022]](http://arxiv.org/pdf/2106.08265)[[code]](https://github.com/amazon-science/patchcore-inspection)
++ Towards total recall in industrial anomaly detection [[CVPR 2022]](http://arxiv.org/pdf/2106.08265)[[code]](https://github.com/amazon-science/patchcore-inspection)
 + DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
-+ A Unified Model for Multi-class Anomaly Detection [[NIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
++ A Unified Model for Multi-class Anomaly Detection [[NIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf)[[code]](https://github.com/zhiyuanyou/UniAD)
 
 # Recent research
 ## CVPR 2023
@@ -46,6 +46,7 @@ We will keep focusing on this field and update relevant information.
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON [[2023]](https://arxiv.org/abs/2306.07890)[[data]](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets)
 + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
 + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2305.16713)
 + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -322,9 +323,10 @@ We will keep focusing on this field and update relevant information.
  + (MTD)Surface defect saliency of magnetic tile [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8560423) [[data]](https://github.com/abin24/Magnetic-tile-defect-datasets.)
  + (DAGM)DAGM dataset [[data 2007]](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection)
  + (MIAD)Miad:A maintenance inspection dataset for unsupervised anomaly detection [[2022]](https://arxiv.org/abs/2211.13968) [[data]](https://miad-2022.github.io/)
- + CVPR 1st workshop on Vision-based InduStrial InspectiON [[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/)[[data]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
+ + CVPR 1st workshop on Vision-based InduStrial InspectiON [[homepage]](https://vision-based-industrial-inspection.github.io/cvpr-2023/) [[data]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
  + (SSGD)SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673)[[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
  + (AeBAD)Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[data]](https://github.com/zhangzilongc/MMR)
+ + VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON [[2023]](https://arxiv.org/abs/2306.07890) [[data]](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets)
 
 ## BibTex Citation
 
