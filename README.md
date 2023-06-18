@@ -46,6 +46,7 @@ We will keep focusing on this field and update relevant information.
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ A Survey of Methods for Automated Quality Control Based on Images [[IJCV 2023]](https://link.springer.com/article/10.1007/s11263-023-01822-w)[[github page]](https://github.com/jandiers/mvtec-results)
 + VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON [[2023]](https://arxiv.org/abs/2306.07890)[[data]](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets)
 + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
 + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2305.16713)
@@ -77,6 +78,7 @@ We will keep focusing on this field and update relevant information.
 + Visual-based defect detection and classification approaches for industrial applications: a survey [[2020]](https://pdfs.semanticscholar.org/1dfc/080a5f26b5ce78f9ce3e9f106bf7e8124f74.pdf)
 + Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey [[TIM 2022]](http://arxiv.org/pdf/2207.10298)
 + A Survey on Unsupervised Industrial Anomaly Detection Algorithms [[2022]](https://arxiv.org/abs/2204.11161)
++ A Survey of Methods for Automated Quality Control Based on Images [[IJCV 2023]](https://link.springer.com/article/10.1007/s11263-023-01822-w)[[github page]](https://github.com/jandiers/mvtec-results)
 + Benchmarking Unsupervised Anomaly Detection and Localization [[2022]](https://arxiv.org/abs/2205.14852)
 + IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [[2023]](https://arxiv.org/abs/2301.13359)
 + A Deep Learning-based Software for Manufacturing Defect Inspection [[TII 2017]](https://ieeexplore.ieee.org/document/9795891)[[code]](https://github.com/sundyCoder/DEye)
