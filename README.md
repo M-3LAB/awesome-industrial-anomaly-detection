@@ -21,7 +21,7 @@ We will keep focusing on this field and update relevant information.
 
 # Recent research
 ## CVPR 2023
-+ CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
++ CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
 + Workshop on Vision-Based Industrial Inspection [[CVPR Workshop paper list 2023]](https://openaccess.thecvf.com/CVPR2023_workshops/VISION)
 + Visual Anomaly and Novelty Detection [[CVPR Workshop paper list 2023]](https://openaccess.thecvf.com/CVPR2023_workshops/VAND)
 + Revisiting Reverse Distillation for Anomaly Detection [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/tientrandinh/Revisiting-Reverse-Distillation)
