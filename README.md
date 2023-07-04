@@ -4,12 +4,14 @@ We discuss public datasets and related studies in detail. Welcome to read our pa
 
 [[中文版]](./README_cn.md)我们详细分析了相关研究和公开数据集。欢迎阅读我们的论文并提出意见。
 
-[Deep Industrial Image Anomaly Detection: A Survey (Accepted by Machine Intelligence Research[CiteScore 8.4 Q1])](https://arxiv.org/abs/2301.11514)
+[Deep Industrial Image Anomaly Detection: A Survey (Accepted by Machine Intelligence Research [CiteScore 8.4 Q1])](https://arxiv.org/abs/2301.11514)
 
+We will keep focusing on this field and updating relevant information.
 
-We will keep focusing on this field and update relevant information.
+Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection
 
-(Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection)
+[[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD)
+
 # SOTA methods with code
 + Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2207.01463)[[code]](https://github.com/xcyao00/BGAD)
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2303.15140)[[code]](https://github.com/DonaldRR/SimpleNet)
