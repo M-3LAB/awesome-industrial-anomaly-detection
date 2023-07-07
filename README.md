@@ -49,7 +49,10 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
++ Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization [[2023]](https://arxiv.org/abs/2307.02836)
 + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
++ PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[homepage]](https://github.com/EricLee0224/PAD)
 + End-to-End Augmentation Hyperparameter Tuning for Self-Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2306.12033)
 + A Survey of Methods for Automated Quality Control Based on Images [[IJCV 2023]](https://link.springer.com/article/10.1007/s11263-023-01822-w)[[github page]](https://github.com/jandiers/mvtec-results)
 + VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON [[2023]](https://arxiv.org/abs/2306.07890)[[data]](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets)
@@ -96,6 +99,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## 2.1 Feature-Embedding-based Methods
 
 ### 2.1.1 Teacher-Student
++ Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
 + Revisiting Reverse Distillation for Anomaly Detection [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf) [[code]](https://github.com/tientrandinh/Revisiting-Reverse-Distillation)
 + Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings [[CVPR 2020]](http://arxiv.org/pdf/1911.02357)
 + Multiresolution knowledge distillation for anomaly detection [[CVPR 2021]](https://arxiv.org/pdf/2011.11108)
@@ -191,6 +195,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Deep generative model using unregularized score for anomaly detection with heterogeneous complexity [[2020]](http://arxiv.org/pdf/1807.05800)
  + Anomaly localization by modeling perceptual features [[2020]](https://arxiv.org/pdf/2008.05369.pdf)
  + Image anomaly detection using normal data only by latent space resampling [[2020]](https://pdfs.semanticscholar.org/cb59/dab0a725c0b511f3140ea47ea0967f3643bf.pdf)
+ + Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization [[2023]](https://arxiv.org/abs/2307.02836)
  
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)[[code]](https://github.com/zhangzjn/ocr-gan)
@@ -309,6 +314,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
  + SLSG: Industrial Image Anomaly Detection by Learning Better Feature Embeddings and One-Class Classification [[2023]](https://arxiv.org/abs/2305.00398)
  + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
+ + Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
  
 # 4 Dataset
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
@@ -336,6 +342,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + (SSGD)SSGD: A smartphone screen glass dataset for defect detection [[2023]](https://arxiv.org/abs/2303.06673)[[dataset is coming soon]](https://github.com/Yangr116/SSGDataset)
  + (AeBAD)Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[data]](https://github.com/zhangzilongc/MMR)
  + VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON [[2023]](https://arxiv.org/abs/2306.07890) [[data]](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets)
+ + PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[homepage]](https://github.com/EricLee0224/PAD)
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
 
 ## BibTex Citation
