@@ -268,7 +268,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + MAEDAY: MAE for few and zero shot AnomalY-Detection [[2022]](https://arxiv.org/pdf/2211.14307.pdf)
  + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
  + Segment Any Anomaly without Training via Hybrid Prompt Regularization [[2023]](https://arxiv.org/abs/2305.10724) [[code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
- 
+ + Anomaly Detection in an Open World by a Neuro-symbolic Program on Zero-shot Symbols [[IROS 2022 Workshop]](https://openreview.net/pdf?id=Bg3ZO3nXJuA)
 
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
