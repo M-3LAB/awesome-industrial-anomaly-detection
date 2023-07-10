@@ -73,6 +73,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849) [[code]](https://github.com/caoyunkang/CDO)
 + CVPR 1st workshop on Vision-based InduStrial InspectiON [[CVPR 2023 Workshop]](https://vision-based-industrial-inspection.github.io/cvpr-2023/) [[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
 + VAND: Visual Anomaly and Novelty Detection [[CVPR 2023 Workshop]](https://sites.google.com/view/vand-cvpr23/home)
++ Anomaly Detection in an Open World by a Neuro-symbolic Program on Zero-shot Symbols [[IROS 2022 Workshop]](https://openreview.net/pdf?id=Bg3ZO3nXJuA)
 
 # Paper Tree (Classification of representative methods)
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
