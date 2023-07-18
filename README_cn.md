@@ -47,6 +47,8 @@
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## 近期其他研究
++ PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation [[2023]](https://github.com/jianzhang96/GoodsAD)[[data]](https://github.com/jianzhang96/GoodsAD)
++ Unoffical implement of PaDiM and PatchCore [[code]](https://github.com/OpenAOI/anodet) [[extra data]](https://drive.google.com/drive/folders/1_OF6-_MNTskgPd5Sqqtm1-p4WqDu0Jhl?usp=sharing)
 + Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
 + Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization [[2023]](https://arxiv.org/abs/2307.02836)
 + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
@@ -341,6 +343,7 @@
  + (AeBAD)Industrial Anomaly Detection with Domain Shift: A Real-world Dataset and Masked Multi-scale Reconstruction [[2023]](https://arxiv.org/abs/2304.02216) [[data]](https://github.com/zhangzilongc/MMR)
  + VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON [[2023]](https://arxiv.org/abs/2306.07890) [[data]](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets)
  + PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[homepage]](https://github.com/EricLee0224/PAD)
+ + PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation [[2023]](https://github.com/jianzhang96/GoodsAD)[[data]](https://github.com/jianzhang96/GoodsAD)
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
 
 ## BibTex 引用格式
