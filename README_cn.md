@@ -47,6 +47,7 @@
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## 近期其他研究
++ Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
 + PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation [[2023]](https://github.com/jianzhang96/GoodsAD)[[data]](https://github.com/jianzhang96/GoodsAD)
 + Unoffical implement of PaDiM and PatchCore [[code]](https://github.com/OpenAOI/anodet) [[extra data]](https://drive.google.com/drive/folders/1_OF6-_MNTskgPd5Sqqtm1-p4WqDu0Jhl?usp=sharing)
 + Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
@@ -261,6 +262,7 @@
  + Towards total recall in industrial anomaly detection [[(Memory bank)CVPR 2022]](http://arxiv.org/pdf/2106.08265)
  + A hierarchical transformation-discriminating generative model for few shot anomaly detection [[ICCV 2021]](http://arxiv.org/pdf/2104.14535)
  + Anomaly detection of defect using energy of point pattern features within random finite set framework [[2021]](https://arxiv.org/pdf/2108.12159.pdf)
+ + Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
 ### 零样本异常检测
  + Zero-Shot Batch-Level Anomaly Detection [[2023]](https://arxiv.org/abs/2302.07849)
  + Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[WACV 2023]](https://ieeexplore.ieee.org/document/10030870)
