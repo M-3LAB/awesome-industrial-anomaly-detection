@@ -23,10 +23,10 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 # Recent research
 ## ICCV 2023
-Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection [[ICCV 2023]]()
+Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection [[ICCV 2023 comming soon]]()
 
 ## ACM MM 2023
-EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]]()
+EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023 comming soon]]()
 
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
