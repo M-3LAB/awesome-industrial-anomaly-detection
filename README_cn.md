@@ -20,11 +20,13 @@
 + A Unified Model for Multi-class Anomaly Detection [[NIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
 
 # 近期研究
+
+## ACM MM 2023
+EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925)
+
 ## ICCV 2023
 Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection [[ICCV 2023]]()
 
-## ACM MM 2023
-EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]]()
 
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
