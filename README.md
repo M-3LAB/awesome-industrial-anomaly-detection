@@ -56,6 +56,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ Patch-wise Auto-Encoder for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2308.00429)
 + SelFormaly: Towards Task-Agnostic Unified Anomaly Detection[[2023]](https://arxiv.org/abs/2307.12540)
 + Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
 + PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation [[2023]](https://github.com/jianzhang96/GoodsAD)[[data]](https://github.com/jianzhang96/GoodsAD)
@@ -209,6 +210,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Anomaly localization by modeling perceptual features [[2020]](https://arxiv.org/pdf/2008.05369.pdf)
  + Image anomaly detection using normal data only by latent space resampling [[2020]](https://pdfs.semanticscholar.org/cb59/dab0a725c0b511f3140ea47ea0967f3643bf.pdf)
  + Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization [[2023]](https://arxiv.org/abs/2307.02836)
+ + Patch-wise Auto-Encoder for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2308.00429)
  
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)[[code]](https://github.com/zhangzjn/ocr-gan)
