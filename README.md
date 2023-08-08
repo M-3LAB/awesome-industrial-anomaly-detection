@@ -27,6 +27,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925)
 
 ## ICCV 2023
++ Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection [[ICCV 2023]](https://arxiv.org/abs/2308.02983)[[code]](https://github.com/xcyao00/FOD)
 + Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection [[ICCV 2023 comming soon]]()
 
 ## CVPR 2023
