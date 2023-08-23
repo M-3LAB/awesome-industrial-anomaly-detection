@@ -56,6 +56,7 @@
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## 近期其他研究
++ Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
 + Patch-wise Auto-Encoder for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2308.00429)
 + SelFormaly: Towards Task-Agnostic Unified Anomaly Detection[[2023]](https://arxiv.org/abs/2307.12540)
 + Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
@@ -277,6 +278,7 @@
  + Anomaly detection of defect using energy of point pattern features within random finite set framework [[2021]](https://arxiv.org/pdf/2108.12159.pdf)
  + Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
 ### 零样本异常检测
+ + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
  + Zero-Shot Batch-Level Anomaly Detection [[2023]](https://arxiv.org/abs/2302.07849)
  + Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[WACV 2023]](https://ieeexplore.ieee.org/document/10030870)
  + MAEDAY: MAE for few and zero shot AnomalY-Detection [[2022]](https://arxiv.org/pdf/2211.14307.pdf)
