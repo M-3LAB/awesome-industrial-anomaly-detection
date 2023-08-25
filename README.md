@@ -57,6 +57,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
 + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
 + Patch-wise Auto-Encoder for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2308.00429)
 + SelFormaly: Towards Task-Agnostic Unified Anomaly Detection[[2023]](https://arxiv.org/abs/2307.12540)
@@ -179,6 +180,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2207.14315.pdf)
  + Diversity-Measurable Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2303.05047)
  + SelFormaly: Towards Task-Agnostic Unified Anomaly Detection[[2023]](https://arxiv.org/abs/2307.12540)
+ + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -335,6 +337,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SLSG: Industrial Image Anomaly Detection by Learning Better Feature Embeddings and One-Class Classification [[2023]](https://arxiv.org/abs/2305.00398)
  + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
  + Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
+ + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
  
 # 4 Dataset
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
