@@ -57,6 +57,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ A Comprehensive Augmentation Framework for Anomaly Detection [[2023]](https://arxiv.org/abs/2308.15068)
++ AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
 + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
 + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
 + Patch-wise Auto-Encoder for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2308.00429)
@@ -281,6 +283,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + A hierarchical transformation-discriminating generative model for few shot anomaly detection [[ICCV 2021]](http://arxiv.org/pdf/2104.14535)
  + Anomaly detection of defect using energy of point pattern features within random finite set framework [[2021]](https://arxiv.org/pdf/2108.12159.pdf)
  + Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
+ + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
  + Zero-Shot Batch-Level Anomaly Detection [[2023]](https://arxiv.org/abs/2302.07849)
