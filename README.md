@@ -20,6 +20,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Towards total recall in industrial anomaly detection [[CVPR 2022]](http://arxiv.org/pdf/2106.08265)[[code]](https://github.com/amazon-science/patchcore-inspection)
 + DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
 + A Unified Model for Multi-class Anomaly Detection [[NIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf)[[code]](https://github.com/zhiyuanyou/UniAD)
++ AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
 
 # Recent research
 
