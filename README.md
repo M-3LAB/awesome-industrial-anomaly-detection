@@ -21,6 +21,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
 + A Unified Model for Multi-class Anomaly Detection [[NIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf)[[code]](https://github.com/zhiyuanyou/UniAD)
 + AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
++ PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)[[code]](https://github.com/gasharper/PyramidFlow)
 
 # Recent research
 
