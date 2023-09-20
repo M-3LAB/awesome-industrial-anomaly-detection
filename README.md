@@ -58,7 +58,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ## Others
 + FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2309.07068)[[code comming soon]](https://github.com/liutongkun/FAIR)
-+ AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)
++ AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
 + A Comprehensive Augmentation Framework for Anomaly Detection [[2023]](https://arxiv.org/abs/2308.15068)
 + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
 + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
@@ -295,7 +295,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
  + Segment Any Anomaly without Training via Hybrid Prompt Regularization [[2023]](https://arxiv.org/abs/2305.10724) [[code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
  + Anomaly Detection in an Open World by a Neuro-symbolic Program on Zero-shot Symbols [[IROS 2022 Workshop]](https://openreview.net/pdf?id=Bg3ZO3nXJuA)
- + AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)
+ + AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
 
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
