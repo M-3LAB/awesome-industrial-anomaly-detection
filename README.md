@@ -25,6 +25,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 # Recent research
 
+## NeurIPS 2023
++ Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
+
 ## ACM MM 2023
 + EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925)
 
@@ -72,7 +75,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Unoffical implement of PaDiM and PatchCore [[code]](https://github.com/OpenAOI/anodet) [[extra data]](https://drive.google.com/drive/folders/1_OF6-_MNTskgPd5Sqqtm1-p4WqDu0Jhl?usp=sharing)
 + Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
 + Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization [[2023]](https://arxiv.org/abs/2307.02836)
-+ Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
+
 + PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[homepage]](https://github.com/EricLee0224/PAD)
 + End-to-End Augmentation Hyperparameter Tuning for Self-Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2306.12033)
 + A Survey of Methods for Automated Quality Control Based on Images [[IJCV 2023]](https://link.springer.com/article/10.1007/s11263-023-01822-w)[[github page]](https://github.com/jandiers/mvtec-results)
@@ -376,7 +379,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + VISION Datasets: A Benchmark for Vision-based InduStrial InspectiON [[2023]](https://arxiv.org/abs/2306.07890) [[data]](https://huggingface.co/datasets/VISION-Workshop/VISION-Datasets)
  + PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[homepage]](https://github.com/EricLee0224/PAD)
  + PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation [[2023]](https://github.com/jianzhang96/GoodsAD)[[data]](https://github.com/jianzhang96/GoodsAD)
- + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
+ + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
 
 ## BibTex Citation
 
