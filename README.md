@@ -46,6 +46,10 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
 + Removing Anomalies as Noises for Industrial Defect Localization [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Removing_Anomalies_as_Noises_for_Industrial_Defect_Localization_ICCV_2023_paper.pdf)
 
+## GPT related
++ AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
++ The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 page section 9.2]](https://arxiv.org/abs/2309.17421)
+
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
 + Workshop on Vision-Based Industrial Inspection [[CVPR Workshop paper list 2023]](https://openaccess.thecvf.com/CVPR2023_workshops/VISION)
@@ -73,6 +77,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 page section 9.2]](https://arxiv.org/abs/2309.17421)
 + Global Context Aggregation Network for Lightweight Saliency Detection of Surface Defects [[2023]](https://arxiv.org/abs/2309.12641)
 + Decision Fusion Network with Perception Fine-tuning for Defect Classification [[2023]](https://arxiv.org/abs/2309.12630)
 + FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2309.07068)[[code comming soon]](https://github.com/liutongkun/FAIR)
