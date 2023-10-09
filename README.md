@@ -124,6 +124,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Anomaly Detection via Reverse Distillation from One-Class Embedding [[CVPR 2022]](http://arxiv.org/pdf/2201.10703)[[code]](https://github.com/hq-deng/RD4AD)
 + Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)[[code]](https://github.com/marco-rudolph/AST)
 + Informative knowledge distillation for image anomaly segmentation [[2022]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123&pid=1-s2.0-S0950705122004038-main.pdf)[[code]](https://github.com/caoyunkang/IKD)
++ Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Remembering_Normality_Memory-guided_Knowledge_Distillation_for_Unsupervised_Anomaly_Detection_ICCV_2023_paper.pdf)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
@@ -141,6 +142,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[2022]](https://arxiv.org/pdf/2205.00908.pdf)[[unofficial code]](https://github.com/TooTouch/MemSeg)
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://github.com/DonaldRR/SimpleNet)[[code]](https://github.com/DonaldRR/SimpleNet)
 + End-to-End Augmentation Hyperparameter Tuning for Self-Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2306.12033)
++ Anomaly Detection under Distribution Shift [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Anomaly_Detection_Under_Distribution_Shift_ICCV_2023_paper.pdf)[[code]](https://github.com/mala-lab/ADShift)
 
 ### 2.1.3 Distribution-Map
 + Anomaly Detection in Nanofibrous Materials by CNN-Based Self-Similarity [[Sensors 2018]](https://www.mdpi.com/1424-8220/18/1/209)
@@ -173,12 +175,13 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + CFA: Coupled-Hypersphere-Based Feature Adaptation for Target-Oriented Anomaly Localization[[2022]](https://arxiv.org/pdf/2206.04325.pdf)[[code]](https://github.com/sungwool/CFA_for_anomaly_localization)
  + FAPM: Fast Adaptive Patch Memory for Real-time Industrial Anomaly Detection[[2022]](https://arxiv.org/pdf/2211.07381.pdf)
  + N-pad: Neighboring Pixel-based Industrial Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.08768.pdf)
- + Image Anomaly Detection and Localization with Position and Neighborhood Information [[2022]](https://arxiv.org/pdf/2211.12634.pdf)
  + Multi-scale patch-based representation learning for image anomaly detection and segmentation [[2022]](https://openaccess.thecvf.com/content/WACV2022/papers/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.pdf)
  + SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2207.14315.pdf)
  + Diversity-Measurable Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2303.05047)
  + SelFormaly: Towards Task-Agnostic Unified Anomaly Detection[[2023]](https://arxiv.org/abs/2307.12540)
  + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
+ + PNI : Industrial Anomaly Detection using Position and Neighborhood Information [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.pdf)[[code]](https://github.com/wogur110/PNI_Anomaly_Detection)
+ + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -214,6 +217,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Noise-to-Norm Reconstruction for Industrial Anomaly Detection and Localization [[2023]](https://arxiv.org/abs/2307.02836)
  + Patch-wise Auto-Encoder for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2308.00429)
  + FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2309.07068)[[code comming soon]](https://github.com/liutongkun/FAIR)
+ + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/)
+ + FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)[[code comming soon]](https://github.com/FzJun26th/FastRecon)
  
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)[[code]](https://github.com/zhangzjn/ocr-gan)
@@ -229,12 +234,18 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Inpainting transformer for anomaly detection [[ICIAP 2022]](https://arxiv.org/pdf/2104.13897.pdf)
  + Masked Swin Transformer Unet for Industrial Anomaly Detection [[2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858596)
  + Masked Transformer for image Anomaly Localization [[TII 2022]](http://arxiv.org/pdf/2210.15540)
+ + Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yao_Focus_the_Discrepancy_Intra-_and_Inter-Correlation_Learning_for_Image_Anomaly_ICCV_2023_paper.pdf)[[code]](https://github.com/xcyao00/FOD)
 
 ### 2.2.4 Diffusion Model
- + Anomaly Detection with Conditioned Denoising Diffusion Models [[2023]](https://arxiv.org/abs/2305.15956)
  + AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[CVPR Workshop 2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
  + Unsupervised Visual Defect Detection with Score-Based Generative Model[[2022]](https://arxiv.org/pdf/2211.16092.pdf)
  + DiffusionAD: Denoising Diffusion for Anomaly Detection [[2023]](https://arxiv.org/abs/2303.08730)
+ + Anomaly Detection with Conditioned Denoising Diffusion Models [[2023]](https://arxiv.org/abs/2305.15956)
+ + Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
+ + Removing Anomalies as Noises for Industrial Defect Localization [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Removing_Anomalies_as_Noises_for_Industrial_Defect_Localization_ICCV_2023_paper.pdf)
+
+### 2.2.5 Others
+ + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
  
  # 2.3 Supervised AD
  ## More Normal samples With (Less Abnormal Samples or Weak Labels)
@@ -283,6 +294,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Anomaly detection of defect using energy of point pattern features within random finite set framework [[2021]](https://arxiv.org/pdf/2108.12159.pdf)
  + Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
  + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
+ + FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)[[code comming soon]](https://github.com/FzJun26th/FastRecon)
+
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
  + Zero-Shot Batch-Level Anomaly Detection [[2023]](https://arxiv.org/abs/2302.07849)
@@ -300,6 +313,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Latent Outlier Exposure for Anomaly Detection with Contaminated Data [[ICML 2022]](https://arxiv.org/pdf/2202.08088.pdf)
  + Deep one-class classification via interpolated gaussian descriptor [[AAAI 2022 oral]](https://arxiv.org/pdf/2101.10043.pdf)[[code]](https://github.com/tianyu0207/IGD)
  + SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NeurIPS 2022]](https://openreview.net/pdf?id=pIYYJflkhZ))[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
+ + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
 
 ## 3.3 Anomaly Synthetic
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
@@ -341,6 +355,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
  + Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
  + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
+ + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/)
  
 # 4 Dataset
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
