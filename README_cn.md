@@ -354,6 +354,7 @@
  + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[2023]](https://arxiv.org/abs/2303.14535)
  + Contextual Affinity Distillation for Image Anomaly Detection [[2023]](https://arxiv.org/abs/2307.03101)
  + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
+ + Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection [[TCSVT 2023]](https://arxiv.org/abs/2303.05768)[[code]](https://github.com/hmyao22/GLCF)
  + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/)
  
 # 4 公开数据集
