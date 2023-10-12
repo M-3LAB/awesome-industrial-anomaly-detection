@@ -28,7 +28,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ## NeurIPS 2023
 + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[paper]](https://arxiv.org/abs/2309.13226)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
-+ PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS 2023]](https://github.com/EricLee0224/PAD)
++ PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2310.07716)[[homepage]](https://github.com/EricLee0224/PAD)
 
 ## ACM MM 2023
 + EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925)
@@ -76,6 +76,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## Others
++ A Discrepancy Aware Framework for Robust Anomaly Detection [[2023]](https://arxiv.org/abs/2310.07585)[[code]](https://github.com/caiyuxuan1120/DAF)
 + The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 Section 9.2]](https://arxiv.org/abs/2309.17421)
 + Global Context Aggregation Network for Lightweight Saliency Detection of Surface Defects [[2023]](https://arxiv.org/abs/2309.12641)
 + Decision Fusion Network with Perception Fine-tuning for Defect Classification [[2023]](https://arxiv.org/abs/2309.12630)
@@ -125,6 +126,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)[[code]](https://github.com/marco-rudolph/AST)
 + Informative knowledge distillation for image anomaly segmentation [[2022]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123&pid=1-s2.0-S0950705122004038-main.pdf)[[code]](https://github.com/caoyunkang/IKD)
 + Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Remembering_Normality_Memory-guided_Knowledge_Distillation_for_Unsupervised_Anomaly_Detection_ICCV_2023_paper.pdf)
++ A Discrepancy Aware Framework for Robust Anomaly Detection [[2023]](https://arxiv.org/abs/2310.07585)[[code]](https://github.com/caiyuxuan1120/DAF)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
