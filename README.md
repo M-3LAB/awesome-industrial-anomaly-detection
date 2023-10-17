@@ -331,7 +331,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + A simulation-based few samples learning method for surface defect segmentation [[2020]](https://www.sciencedirect.com/science/article/pii/S0925231220310791/pdfft?md5=f3f72bc8687c8f9968d4a2a1bd3ea17e&pid=1-s2.0-S0925231220310791-main.pdf)
  + Synthetic data augmentation for surface defect detection and classification using deep learning [[2020]](https://link.springer.com/article/10.1007/s10845-020-01710-x)
  + Defect Transfer GAN: Diverse Defect Synthesis for Data Augmentation [[BMVC 2022]](https://openreview.net/pdf?id=2hMEdc35xZ6)
- + Defect-GAN: High-fidelity defect synthesis for automated defect inspectio [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
+ + Defect-GAN: High-fidelity defect synthesis for automated defect inspection [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
  + EID-GAN: Generative Adversarial Nets for Extremely Imbalanced Data Augmentation[[TII 2022]](https://ieeexplore.ieee.org/document/9795891)
  
 ## 3.4 3D AD
