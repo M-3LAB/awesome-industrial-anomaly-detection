@@ -29,8 +29,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## NeurIPS 2023
 + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[paper]](https://arxiv.org/abs/2309.13226)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
 + PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2310.07716)[[homepage]](https://github.com/EricLee0224/PAD)
-+ Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2023]]()
-+ ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction [[NeurIPS 2023]]()
++ Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2023]](https://neurips.cc/virtual/2023/poster/71073)
++ ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction [[NeurIPS 2023]][[paper]](https://arxiv.org/abs/2306.02602)
 
 ## ACM MM 2023
 + EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925)
