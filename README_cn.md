@@ -76,6 +76,7 @@
 + RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection [[ICLR 2023]](https://openreview.net/pdf?id=1UbNwQC89a)
 
 ## 近期其他研究
++ Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data [[2023]](https://arxiv.org/abs/2310.10461)
 + A Discrepancy Aware Framework for Robust Anomaly Detection [[2023]](https://arxiv.org/abs/2310.07585)[[code]](https://github.com/caiyuxuan1120/DAF)
 + The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 section 9.2]](https://arxiv.org/abs/2309.17421)
 + Global Context Aggregation Network for Lightweight Saliency Detection of Surface Defects [[2023]](https://arxiv.org/abs/2309.12641)
