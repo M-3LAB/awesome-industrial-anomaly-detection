@@ -414,3 +414,6 @@ If you find this paper and repository useful, please cite our paper☺️.
   year={2023}
 }
 ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=M-3LAB/awesome-industrial-anomaly-detection&type=Date)](https://star-history.com/#M-3LAB/awesome-industrial-anomaly-detection&Date)
