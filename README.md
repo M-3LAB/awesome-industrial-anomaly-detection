@@ -64,7 +64,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + SimpleNet: A Simple Network for Image Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2303.15140)[[code]](https://github.com/DonaldRR/SimpleNet)
 + PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)[[code]](https://github.com/gasharper/PyramidFlow)
 + Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[code]](https://github.com/nomewang/M3DM)
-+ Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)
++ Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)[[code]](https://github.com/xcyao00/PRNet)
 + SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2111.13495)
 
 ## SAM segment anything
@@ -263,10 +263,10 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
  + Attention guided anomaly localization in images [[ECCV 2020]](http://arxiv.org/pdf/1911.08616)
  + Mixed supervision for surface-defect detection: From weakly to fully supervised learning [[2021]](https://arxiv.org/pdf/2104.06064.pdf)
- + Explainable deep few-shot anomaly detection with deviation networks [[2021]](https://arxiv.org/pdf/2108.00462.pdf)
- + Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [[CVPR 2022]](http://arxiv.org/pdf/2203.14506)
+ + Explainable deep few-shot anomaly detection with deviation networks [[2021]](https://arxiv.org/pdf/2108.00462.pdf)[[code]](https://github.com/Choubo/deviation-network-image)
+ + Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection [[CVPR 2022]](http://arxiv.org/pdf/2203.14506)[[code]](https://github.com/Choubo/DRA)
  + Anomaly Clustering: Grouping Images into Coherent Clusters of Anomaly Types[[WACV 2023]](https://openaccess.thecvf.com/content/WACV2023/html/Sohn_Anomaly_Clustering_Grouping_Images_Into_Coherent_Clusters_of_Anomaly_Types_WACV_2023_paper.html)
- + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)
+ + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)[[code]](https://github.com/xcyao00/PRNet)
  + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
  + Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
  
