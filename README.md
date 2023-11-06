@@ -48,6 +48,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Removing Anomalies as Noises for Industrial Defect Localization [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Removing_Anomalies_as_Noises_for_Industrial_Defect_Localization_ICCV_2023_paper.pdf)
 
 ## GPT related
++ Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2310.19070)[[code]](https://github.com/tzjtatata/Myriad)
 + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
 + The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 Section 9.2]](https://arxiv.org/abs/2309.17421)
 
