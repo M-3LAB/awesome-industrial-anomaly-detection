@@ -51,6 +51,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2310.19070)[[code]](https://github.com/tzjtatata/Myriad)
 + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
 + The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 Section 9.2]](https://arxiv.org/abs/2309.17421)
++ Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [[2023]](https://arxiv.org/abs/2311.02782)
++ Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2311.02612)[[code]](https://github.com/zhangzjn/GPT-4V-AD)
 
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
@@ -173,6 +175,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection [[2022]](https://arxiv.org/pdf/2210.14913.pdf)
 + Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)[[code]](https://github.com/caoyunkang/CDO)
 + PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)[[code]](https://github.com/gasharper/PyramidFlow)
++ Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study [[WACV 2023]](https://arxiv.org/abs/2311.02747)
 
 ### 2.1.4 Memory Bank
  + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2305.16713)
@@ -400,6 +403,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS 2023]](https://github.com/EricLee0224/PAD)
  + PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation [[2023]](https://github.com/jianzhang96/GoodsAD)[[data]](https://github.com/jianzhang96/GoodsAD)
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023 homepage]](https://github.com/M-3LAB/Real3D-AD)[[paper]](https://arxiv.org/abs/2309.13226)[[data]](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing)
+ + InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images [[IJRS 2023]](https://arxiv.org/abs/2311.01619)[[data]](https://github.com/andreluizbvs/InsPLAD)
 
 ## BibTex Citation
 
