@@ -407,6 +407,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=zGthDp4yYe)[[data]](https://github.com/M-3LAB/Real3D-AD)
  + InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images [[IJRS 2023]](https://arxiv.org/abs/2311.01619)[[data]](https://github.com/andreluizbvs/InsPLAD)
  + Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [[2023]](https://arxiv.org/abs/2311.04095)[[data]](https://github.com/Andy-cs008/PD-REAL)
+ + CrashCar101: Procedural Generation for Damage Assessment [[WACV 2024]](https://crashcar.compute.dtu.dk/static/2435.pdf)[[data]](https://crashcar.compute.dtu.dk/)
 
 ## BibTex Citation
 
