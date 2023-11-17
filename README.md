@@ -1,6 +1,6 @@
 # Awesome Industrial Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail. Welcome to read our paper and make comments. [[中文版]](./README_cn.md)
+We discuss public datasets and related studies in detail. Welcome to read our paper and make comments.
 
 [Deep Industrial Image Anomaly Detection: A Survey (Accepted by Machine Intelligence Research [CiteScore 8.4 Q1])](https://arxiv.org/abs/2301.11514)
 
