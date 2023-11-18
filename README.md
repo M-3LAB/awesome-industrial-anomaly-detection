@@ -390,6 +390,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Hierarchical Gaussian Mixture Normalizing Flows Modeling for Multi-Class Anomaly Detection [[2023]](https://openreview.net/pdf?id=hWF4KWeNgb)
  + Removing Anomalies as Noises for Industrial Defect Localization [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Removing_Anomalies_as_Noises_for_Industrial_Defect_Localization_ICCV_2023_paper.pdf)
  + UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2307.12540)[[code]](https://github.com/YoojLee/Uniformaly)
+ + MSTAD: A masked subspace-like transformer for multi-class anomaly detection [[2023]](https://www.sciencedirect.com/science/article/pii/S095070512300936X)
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
