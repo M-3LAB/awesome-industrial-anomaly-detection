@@ -96,6 +96,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[2023 SAM tech report]](https://arxiv.org/abs/2304.06022)
 + Segment Any Anomaly without Training via Hybrid Prompt Regularization [[2023]](https://arxiv.org/abs/2305.10724) [[code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 + Application of Segment Anything Model for Civil Infrastructure Defect Assessment [[2023 SAM tech report]](https://arxiv.org/abs/2304.12600)
++ Segment Anything in Defect Detection [[2023]](https://arxiv.org/abs/2311.10245)
 
 ## ICLR 2023
 + Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://openreview.net/pdf?id=xzmqxHdZAwO)
