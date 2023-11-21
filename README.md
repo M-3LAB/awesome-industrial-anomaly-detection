@@ -106,7 +106,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Self-supervised Context Learning for Visual Inspection of Industrial Defects [[2023]](https://arxiv.org/abs/2311.06504)[[code]](https://github.com/wangpeng000/VisualInspection)
 + CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2311.00453)
 + Self-Tuning Self-Supervised Anomaly Detection [[2023]](https://openreview.net/forum?id=saj54kqrBj)
-+ Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[2023]](https://openreview.net/forum?id=RLhS1TrjK3)
++ Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[2023]](https://openreview.net/forum?id=RLhS1TrjK3)[[data]](https://defect-spectrum-authors.github.io/defect-spectrum/)
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[2023]](https://openreview.net/forum?id=buC4E91xZE)
 + Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
 + Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data [[2023]](https://arxiv.org/abs/2310.10461)
@@ -436,6 +436,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images [[IJRS 2023]](https://arxiv.org/abs/2311.01619)[[data]](https://github.com/andreluizbvs/InsPLAD)
  + Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [[2023]](https://arxiv.org/abs/2311.04095)[[data]](https://github.com/Andy-cs008/PD-REAL)
  + CrashCar101: Procedural Generation for Damage Assessment [[WACV 2024]](https://crashcar.compute.dtu.dk/static/2435.pdf)[[data]](https://crashcar.compute.dtu.dk/)
+ + Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[2023]](https://openreview.net/forum?id=RLhS1TrjK3)[[data]](https://defect-spectrum-authors.github.io/defect-spectrum/)
 
 ## BibTex Citation
 
