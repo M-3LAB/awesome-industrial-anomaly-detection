@@ -334,6 +334,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Optimizing PatchCore for Few/many-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2307.10792)[[code]](https://github.com/scortexio/patchcore-few-shot/)
  + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
  + FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)[[code comming soon]](https://github.com/FzJun26th/FastRecon)
+ + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[2023]](https://arxiv.org/abs/2312.04521)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
@@ -382,6 +383,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [[2023]](https://arxiv.org/abs/2311.04095)[[data]](https://github.com/Andy-cs008/PD-REAL)
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[data]](https://github.com/M-3LAB/Real3D-AD)
  + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[2023]](https://arxiv.org/abs/2311.14897)[[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
+ + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[2023]](https://arxiv.org/abs/2312.04521)
  
 ## 3.5 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
