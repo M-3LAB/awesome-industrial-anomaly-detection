@@ -285,6 +285,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
  + Removing Anomalies as Noises for Industrial Defect Localization [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Removing_Anomalies_as_Noises_for_Industrial_Defect_Localization_ICCV_2023_paper.pdf)
  + TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection [[2023]](https://arxiv.org/abs/2311.09999)
+ + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
