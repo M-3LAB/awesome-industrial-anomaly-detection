@@ -45,6 +45,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 # Recent research
 ## AAAI 2024
 + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
++ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]]()
 
 ## NeurIPS 2023
 + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=zGthDp4yYe)[[code]](https://github.com/M-3LAB/Real3D-AD)
@@ -392,6 +393,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## 3.5 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
+ + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]]()
 
 ## 3.6 Uniform AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
