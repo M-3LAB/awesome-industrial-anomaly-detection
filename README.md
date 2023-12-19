@@ -268,6 +268,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Learning semantic context from normal samples for unsupervised anomaly detection [[AAAI 2021]](https://ojs.aaai.org/index.php/AAAI/article/download/16420/16227)
  + Anoseg: Anomaly segmentation network using self-supervised learning [[2021]](https://arxiv.org/pdf/2110.03396.pdf)
  + A Surface Defect Detection Method Based on Positive Samples [[PRICAI 2018]](https://link.springer.com/chapter/10.1007/978-3-319-97310-4_54)
+ + Defect-aware Feature Manipulation GAN [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
 
 ### 2.2.3 Transformer
  + VT-ADL: A vision transformer network for image anomaly detection and localization [[ISIE 2021]](http://arxiv.org/pdf/2104.10036)
@@ -304,6 +305,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)[[code]](https://github.com/xcyao00/PRNet)
  + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
  + Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
+ + Defect-aware Feature Manipulation GAN [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
  
  ## More Abnormal Samples
  + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [2022]
