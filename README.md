@@ -45,7 +45,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 # Recent research
 ## AAAI 2024
 + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
-+ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]]()
++ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]](https://github.com/shirowalker/UCAD)
 
 ## NeurIPS 2023
 + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=zGthDp4yYe)[[code]](https://github.com/M-3LAB/Real3D-AD)
@@ -262,13 +262,14 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2309.07068)[[code comming soon]](https://github.com/liutongkun/FAIR)
  + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
  + FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)[[code comming soon]](https://github.com/FzJun26th/FastRecon)
+ + Produce Once, Utilize Twice for Anomaly Detection [[2023]](https://arxiv.org/abs/2312.12913)
  
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[2022]](https://arxiv.org/pdf/2203.00259.pdf)[[code]](https://github.com/zhangzjn/ocr-gan)
  + Learning semantic context from normal samples for unsupervised anomaly detection [[AAAI 2021]](https://ojs.aaai.org/index.php/AAAI/article/download/16420/16227)
  + Anoseg: Anomaly segmentation network using self-supervised learning [[2021]](https://arxiv.org/pdf/2110.03396.pdf)
  + A Surface Defect Detection Method Based on Positive Samples [[PRICAI 2018]](https://link.springer.com/chapter/10.1007/978-3-319-97310-4_54)
- + Defect-aware Feature Manipulation GAN [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
+ + Few-shot defect image generation via defect-aware feature manipulation [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
 
 ### 2.2.3 Transformer
  + VT-ADL: A vision transformer network for image anomaly detection and localization [[ISIE 2021]](http://arxiv.org/pdf/2104.10036)
@@ -305,7 +306,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)[[code]](https://github.com/xcyao00/PRNet)
  + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
  + Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
- + Defect-aware Feature Manipulation GAN [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
+ + Few-shot defect image generation via defect-aware feature manipulation [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
  
  ## More Abnormal Samples
  + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [2022]
@@ -343,6 +344,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[2023]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
  + FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)[[code comming soon]](https://github.com/FzJun26th/FastRecon)
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[2023]](https://arxiv.org/abs/2312.04521)
+ + Produce Once, Utilize Twice for Anomaly Detection [[2023]](https://arxiv.org/abs/2312.12913)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
@@ -396,7 +398,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## 3.5 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
- + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]]()
+ + An Incremental Unified Framework for Small Defect Inspection [[2023]](https://arxiv.org/abs/2312.08917)[[code]](https://github.com/jqtangust/IUF)
+ + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]](https://github.com/shirowalker/UCAD)
 
 ## 3.6 Uniform AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
