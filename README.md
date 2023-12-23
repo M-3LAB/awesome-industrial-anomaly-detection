@@ -44,6 +44,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 # Recent research
 ## AAAI 2024
++ Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.13783)
 + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
 + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]](https://github.com/shirowalker/UCAD)
 
@@ -330,6 +331,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Design of deep convolutional neural network architectures for automated feature extraction in industrial inspection [[CIRP annals 2016]](https://www.sciencedirect.com/science/article/abs/pii/S0007850616300725)
  + Decision Fusion Network with Perception Fine-tuning for Defect Classification [[2023]](https://arxiv.org/abs/2309.12630)
  + Global Context Aggregation Network for Lightweight Saliency Detection of Surface Defects [[2023]](https://arxiv.org/abs/2309.12641)
+ + Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation [[2023]](https://arxiv.org/abs/2312.14053)[[code]](https://github.com/RashaAlshawi/Dual-Attention-U-Net-with-Feature-Infusion-Pushing-the-Boundaries-of-Multiclass-Defect-Segmentation)
 
 # 3 Other Research Direction
 
@@ -422,6 +424,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code coming soon]](https://github.com/ShuaiLYU/REB)
  + Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection [[TCSVT 2023]](https://arxiv.org/abs/2303.05768)[[code]](https://github.com/hmyao22/GLCF)
  + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
+ + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.13783)
  
 # 4 Dataset
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
