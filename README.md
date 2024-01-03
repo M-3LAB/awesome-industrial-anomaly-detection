@@ -47,7 +47,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.13783)
 + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
 + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.15911)
-+ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]](https://github.com/shirowalker/UCAD)
++ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://arxiv.org/abs/2401.01010)[[code]](https://github.com/shirowalker/UCAD)
 
 
 ## WACV 2024
@@ -417,7 +417,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
  + An Incremental Unified Framework for Small Defect Inspection [[2023]](https://arxiv.org/abs/2312.08917)[[code]](https://github.com/jqtangust/IUF)
- + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]]()[[code]](https://github.com/shirowalker/UCAD)
+ + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://arxiv.org/abs/2401.01010)[[code]](https://github.com/shirowalker/UCAD)
 
 ## 3.6 Uniform AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
