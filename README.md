@@ -119,6 +119,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Segment Any Anomaly without Training via Hybrid Prompt Regularization [[2023]](https://arxiv.org/abs/2305.10724) [[code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 + Application of Segment Anything Model for Civil Infrastructure Defect Assessment [[2023 SAM tech report]](https://arxiv.org/abs/2304.12600)
 + Segment Anything in Defect Detection [[2023]](https://arxiv.org/abs/2311.10245)
++ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://arxiv.org/abs/2401.01010)[[code]](https://github.com/shirowalker/UCAD)
 
 ## ICLR 2023
 + Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://openreview.net/pdf?id=xzmqxHdZAwO)
@@ -186,6 +187,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Informative knowledge distillation for image anomaly segmentation [[2022]](https://www.sciencedirect.com/science/article/pii/S0950705122004038/pdfft?md5=758c327dd4d1d052b61a19882f957123&pid=1-s2.0-S0950705122004038-main.pdf)[[code]](https://github.com/caoyunkang/IKD)
 + Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Gu_Remembering_Normality_Memory-guided_Knowledge_Distillation_for_Unsupervised_Anomaly_Detection_ICCV_2023_paper.pdf)
 + A Discrepancy Aware Framework for Robust Anomaly Detection [[2023]](https://arxiv.org/abs/2310.07585)[[code]](https://github.com/caiyuxuan1120/DAF)
++ Enhanced multi-scale features mutual mapping fusion based on reverse knowledge distillation for industrial anomaly detection and localization [[TBD 2024]](https://ieeexplore.ieee.org/abstract/document/10382612)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
