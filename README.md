@@ -2,7 +2,7 @@
 
 We discuss public datasets and related studies in detail. Welcome to read our paper and make comments.
 
-[Deep Industrial Image Anomaly Detection: A Survey (Machine Intelligence Research)](https://link.springer.com/article/10.1007/s11633-023-1459-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240115&utm_content=10.1007/s11633-023-1459-z)
+[Deep Industrial Image Anomaly Detection: A Survey (Machine Intelligence Research)](https://link.springer.com/article/10.1007/s11633-023-1459-z)
 
 We will keep focusing on this field and updating relevant information.
 
