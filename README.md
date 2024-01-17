@@ -49,6 +49,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ## ICLR 2024
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)
++ MuSc: Zero-Shot Anomaly Classification and Segmentation by Mutual Scoring of the Unlabeled Images[[ICLR 2024]](https://openreview.net/forum?id=AHgc5SMdtd)
+
 
 ## AAAI 2024
 + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://arxiv.org/abs/2401.01010)[[code]](https://github.com/shirowalker/UCAD)
