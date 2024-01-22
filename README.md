@@ -496,7 +496,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + CrashCar101: Procedural Generation for Damage Assessment [[WACV 2024]](https://crashcar.compute.dtu.dk/static/2435.pdf)[[data]](https://crashcar.compute.dtu.dk/)
  + Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[2023]](https://openreview.net/forum?id=RLhS1TrjK3)[[data]](https://defect-spectrum-authors.github.io/defect-spectrum/)
  + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[2023]](https://arxiv.org/abs/2311.14897)[[data]](https://github.com/Chopper-233/Anomaly-ShapeNet)
- + (DTD-Synthetic) Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[2023]](https://ieeexplore.ieee.org/document/10030870)[[data]](https://drive.google.com/drive/folders/ 10OyPzvI3H6llCZBxKxFlKWt1Pw1tkMK1)
+ + (DTD-Synthetic) Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[2023]](https://ieeexplore.ieee.org/document/10030870)[[data]](https://drive.google.com/drive/folders/10OyPzvI3H6llCZBxKxFlKWt1Pw1tkMK1)
 
 ## BibTex Citation
 
