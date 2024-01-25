@@ -80,6 +80,10 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=clJTNssgn6)[[code]](https://github.com/RuiyingLu/HVQ-Trans)
 + ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction [[NeurIPS 2023]](https://openreview.net/pdf?id=KYxD9YCQBH)[[code]](https://github.com/guojiajeremy/ReContrast)
 
+## ICML 2023
++ Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML 2023]](https://openreview.net/forum?id=IkSGn9fcPz)
++ Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning [[ICML 2023]](https://openreview.net/forum?id=V6PNBRWRil)
+
 ## ACM MM 2023
 + EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925)[[code]](https://github.com/TaoTao9/EasyNet)
 
@@ -239,6 +243,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [[TII 2023]](https://ieeexplore.ieee.org/document/10034849)[[code]](https://github.com/caoyunkang/CDO)
 + PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow [[CVPR 2023]](https://arxiv.org/abs/2303.02595)[[code]](https://github.com/gasharper/PyramidFlow)
 + Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Vieira_e_Silva_Attention_Modules_Improve_Image-Level_Anomaly_Detection_for_Industrial_Inspection_A_WACV_2024_paper.pdf)
++ Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning [[ICML 2023]](https://openreview.net/forum?id=V6PNBRWRil)
 
 ### 2.1.4 Memory Bank
  + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Hyun_ReConPatch_Contrastive_Patch_Representation_Learning_for_Industrial_Anomaly_Detection_WACV_2024_paper.pdf)
@@ -436,6 +441,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [[2023]](https://arxiv.org/abs/2311.04095)[[data]](https://github.com/Andy-cs008/PD-REAL)
  + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[2023]](https://arxiv.org/abs/2311.14897)[[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[2023]](https://arxiv.org/abs/2312.04521)
+ + Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML 2023]](https://openreview.net/forum?id=IkSGn9fcPz)
  + EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925)[[code]](https://github.com/TaoTao9/EasyNet)
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[data]](https://github.com/M-3LAB/Real3D-AD)
  + Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2401.03145)
