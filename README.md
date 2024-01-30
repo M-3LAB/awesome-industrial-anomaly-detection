@@ -183,6 +183,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Anomalib: A Deep Learning Library for Anomaly Detection [[code]](https://github.com/openvinotoolkit/anomalib)
 + Ph.D. thesis of Paul Bergmann(The first author of MVTec AD series) [[2022]](https://mediatum.ub.tum.de/1662158)
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
++ A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[2024]](https://arxiv.org/pdf/2401.16402.pdf)
 
 # 2 Unsupervised AD
 
