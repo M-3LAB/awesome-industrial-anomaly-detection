@@ -524,12 +524,15 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 If you find this paper and repository useful, please cite our paper☺️.
 
 ```
-@article{liu2023deep,
-  title={Deep Industrial Image Anomaly Detection: A Survey},
-  author={Liu, Jiaqi and Xie, Guoyang and Wang, Jingbao and Li, Shangnian and Wang, Chengjie and Zheng, Feng and Jin, Yaochu},
-  journal={arXiv e-prints},
-  pages={arXiv--2301},
-  year={2023}
+@article{liu2024deep,
+  title={Deep industrial image anomaly detection: A survey},
+  author={Liu, Jiaqi and Xie, Guoyang and Wang, Jinbao and Li, Shangnian and Wang, Chengjie and Zheng, Feng and Jin, Yaochu},
+  journal={Machine Intelligence Research},
+  volume={21},
+  number={1},
+  pages={104--135},
+  year={2024},
+  publisher={Springer}
 }
 
 @article{jiang2022survey,
