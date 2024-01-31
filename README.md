@@ -156,6 +156,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection [[2023]](http://arxiv.org/pdf/2311.18332v1)
 + How Low Can You Go? Surfacing Prototypical In-Distribution Samples for Unsupervised Anomaly Detection [Dataset Distillation][[2023]](http://arxiv.org/pdf/2312.03804v1)
 + Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection [[2023]](https://arxiv.org/abs/2312.07495)
++ AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance [[2024]](https://arxiv.org/abs/2401.01984)
 
 
 ## Medical (related)
@@ -184,6 +185,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Ph.D. thesis of Paul Bergmann(The first author of MVTec AD series) [[2022]](https://mediatum.ub.tum.de/1662158)
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
 + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[2024]](https://arxiv.org/pdf/2401.16402.pdf)
++ AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance [[2024]](https://arxiv.org/abs/2401.01984)
 
 # 2 Unsupervised AD
 
