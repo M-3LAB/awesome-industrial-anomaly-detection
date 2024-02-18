@@ -157,7 +157,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + How Low Can You Go? Surfacing Prototypical In-Distribution Samples for Unsupervised Anomaly Detection [Dataset Distillation][[2023]](http://arxiv.org/pdf/2312.03804v1)
 + Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection [[2023]](https://arxiv.org/abs/2312.07495)
 + AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance [[2024]](https://arxiv.org/abs/2401.01984)
-
++ Model Selection of Zero-shot Anomaly Detectors in the Absence of Labeled Validation Data [[2024]](https://arxiv.org/abs/2310.10461)
 
 ## Medical (related)
 + Towards Universal Unsupervised Anomaly Detection in Medical Imaging [[2024]](http://arxiv.org/pdf/2401.10637v1)
@@ -410,6 +410,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + MuSc: Zero-Shot Anomaly Classification and Segmentation by Mutual Scoring of the Unlabeled Images[[ICLR 2024]](https://openreview.net/forum?id=AHgc5SMdtd)[[code]](https://github.com/xrli-U/MuSc)
  + ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [[2023]](https://arxiv.org/pdf/2401.12665)
  + APRIL-GAN: A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD [[2023]](https://arxiv.org/abs/2305.17382)
+ + Model Selection of Zero-shot Anomaly Detectors in the Absence of Labeled Validation Data [[2024]](https://arxiv.org/abs/2310.10461)
 
 
 ## 3.2 Noisy AD
