@@ -486,6 +486,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
  + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.13783)
  + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.15911)
+ + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
  
 # 4 Dataset
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
