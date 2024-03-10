@@ -464,6 +464,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[data]](https://github.com/M-3LAB/Real3D-AD)
  + Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2401.03145)
  + Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Zavrtanik_Cheating_Depth_Enhancing_3D_Surface_Anomaly_Detection_via_Depth_Simulation_WACV_2024_paper.pdf)[[code]](https://github.com/VitjanZ/3DSR)
+ + Incremental Template Neighborhood Matching for 3D anomaly detection [[Neurocomputing 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002546)
  
 ## 3.5 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
