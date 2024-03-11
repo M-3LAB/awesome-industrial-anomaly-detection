@@ -47,6 +47,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 # Recent research
 
+## CVPR 2024
++ Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]]()
+
 ## ICLR 2024
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
 + MuSc: Zero-Shot Anomaly Classification and Segmentation by Mutual Scoring of the Unlabeled Images[[ICLR 2024]](https://openreview.net/forum?id=AHgc5SMdtd)[[code]](https://github.com/xrli-U/MuSc)
@@ -535,6 +538,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[2023]](https://openreview.net/forum?id=RLhS1TrjK3)[[data]](https://defect-spectrum-authors.github.io/defect-spectrum/)
  + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[2023]](https://arxiv.org/abs/2311.14897)[[data]](https://github.com/Chopper-233/Anomaly-ShapeNet)
  + (DTD-Synthetic) Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[WACV 2023]](https://ieeexplore.ieee.org/document/10030870)[[data]](https://drive.google.com/drive/folders/10OyPzvI3H6llCZBxKxFlKWt1Pw1tkMK1)
+ + Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]]()
 
 ## BibTex Citation
 
