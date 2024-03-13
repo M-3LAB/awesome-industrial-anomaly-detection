@@ -167,6 +167,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Model Selection of Zero-shot Anomaly Detectors in the Absence of Labeled Validation Data [[2024]](https://arxiv.org/abs/2310.10461)
 + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
 + COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection [[TIP2024]](http://arxiv.org/abs/2402.18998)
++ PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
 
 ## Medical (related)
 + Towards Universal Unsupervised Anomaly Detection in Medical Imaging [[2024]](http://arxiv.org/pdf/2401.10637v1)
@@ -281,6 +282,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + PNI : Industrial Anomaly Detection using Position and Neighborhood Information [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.pdf)[[code]](https://github.com/wogur110/PNI_Anomaly_Detection)
  + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
  + Grid-Based Continuous Normal Representation for Anomaly Detection [[2024]](https://arxiv.org/abs/2402.18293)[[code]](https://github.com/tae-mo/GRAD)
+ + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -474,6 +476,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2401.03145)
  + Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Zavrtanik_Cheating_Depth_Enhancing_3D_Surface_Anomaly_Detection_via_Depth_Simulation_WACV_2024_paper.pdf)[[code]](https://github.com/VitjanZ/3DSR)
  + Incremental Template Neighborhood Matching for 3D anomaly detection [[Neurocomputing 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002546)
+ + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
  
 ## 3.5 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
