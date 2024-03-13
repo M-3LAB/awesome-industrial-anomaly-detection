@@ -49,6 +49,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ## CVPR 2024
 + Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]]()
++ Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation [[CVPR 2024]](https://arxiv.org/abs/2403.06247)
 
 ## ICLR 2024
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
@@ -405,6 +406,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[2023]](https://arxiv.org/abs/2312.04521)
  + Produce Once, Utilize Twice for Anomaly Detection [[2023]](https://arxiv.org/abs/2312.12913)
  + COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection [[TIP2024]](http://arxiv.org/abs/2402.18998)
+ + Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation [[CVPR 2024]](https://arxiv.org/abs/2403.06247)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
