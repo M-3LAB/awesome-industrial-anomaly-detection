@@ -25,6 +25,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | ![Star](https://img.shields.io/github/stars/vitjanz/draem.svg?style=social&label=Star) <br> [**Draem-a discriminatively trained reconstruction embedding for surface anomaly detection**](https://openaccess.thecvf.com/content/ICCV2021/html/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.html) <br> | ICCV | 2021 | [Github](https://github.com/vitjanz/draem) | Reconstruction-based |
 | ![Star](https://img.shields.io/github/stars/VitjanZ/DSR_anomaly_detection.svg?style=social&label=Star) <br> [**DSR: A dual subspace re-projection network for surface anomaly detection**](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_31) <br> | ECCV | 2022 | [Github](https://github.com/VitjanZ/DSR_anomaly_detection) | Reconstruction-based |
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ocr-gan.svg?style=social&label=Star) <br> [**Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/10192551/) <br> | TIP | 2023 | [Github](https://github.com/zhangzjn/ocr-gan) | Reconstruction-based |
+| ![Star](https://img.shields.io/github/stars/cnulab/RealNet.svg?style=social&label=Star) <br> [**RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection**](https://arxiv.org/abs/2403.05897) <br> | CVPR | 2024 | [Github](https://github.com/cnulab/RealNet) | Reconstruction-based |
 | ![Star](https://img.shields.io/github/stars/MediaBrain-SJTU/RegAD.svg?style=social&label=Star) <br> [**Registration based few-shot anomaly detection**](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_18) <br> | ECCV | 2022 | [Github](https://github.com/MediaBrain-SJTU/RegAD) | Few Shot |
 | ![Star](https://img.shields.io/github/stars/CASIA-IVA-Lab/AnomalyGPT.svg?style=social&label=Star) <br> [**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**](https://arxiv.org/abs/2308.15366) <br> | AAAI | 2024 | [Github](https://github.com/CASIA-IVA-Lab/AnomalyGPT) | Few Shot |
 | ![Star](https://img.shields.io/github/stars/Choubo/DRA.svg?style=social&label=Star) <br> [**Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2022/html/Ding_Catching_Both_Gray_and_Black_Swans_Open-Set_Supervised_Anomaly_Detection_CVPR_2022_paper.html) <br> | CVPR | 2022 | [Github](https://github.com/Choubo/DRA) | Few abnormal samples |
@@ -50,6 +51,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## CVPR 2024
 + Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]]()
 + Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation [[CVPR 2024]](https://arxiv.org/abs/2403.06247)
++ RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
 
 ## ICLR 2024
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
@@ -317,6 +319,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
  + FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_FastRecon_Few-shot_Industrial_Anomaly_Detection_via_Fast_Feature_Reconstruction_ICCV_2023_paper.pdf)[[code comming soon]](https://github.com/FzJun26th/FastRecon)
  + Produce Once, Utilize Twice for Anomaly Detection [[2023]](https://arxiv.org/abs/2312.12913)
+ + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
  
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[TIP 2023]](https://ieeexplore.ieee.org/abstract/document/10192551/)[[code]](https://github.com/zhangzjn/ocr-gan)
@@ -453,6 +456,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + EID-GAN: Generative Adversarial Nets for Extremely Imbalanced Data Augmentation[[TII 2022]](https://ieeexplore.ieee.org/document/9795891)
  + Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection [[2023]](http://arxiv.org/pdf/2311.18332v1)
  + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://arxiv.org/abs/2312.05767)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
+ + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
  
 ## 3.4 3D AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
