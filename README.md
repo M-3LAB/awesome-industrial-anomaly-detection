@@ -52,6 +52,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]]()
 + Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation [[CVPR 2024]](https://arxiv.org/abs/2403.06247)
 + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
++ Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts [[CVPR 2024]](https://arxiv.org/abs/2403.06495)[[code]](https://github.com/mala-lab/InCTRL)
 
 ## ICLR 2024
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
@@ -283,6 +284,16 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
  + Grid-Based Continuous Normal Representation for Anomaly Detection [[2024]](https://arxiv.org/abs/2402.18293)[[code]](https://github.com/tae-mo/GRAD)
  + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
+ 
+ ### 2.1.5 Vison Language AD
+ + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
+ + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
+ + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
+ + ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [[2023]](https://arxiv.org/pdf/2401.12665)
+ + CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2311.00453)
+ + AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
+ + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
+ + Anomaly Detection by Adapting a pre-trained Vision Language Model [[2024]](https://arxiv.org/abs/2403.09493)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -355,16 +366,6 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
- 
-# 2.3 Vison Language AD
-+ Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
-+ AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
-+ WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
-+ ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [[2023]](https://arxiv.org/pdf/2401.12665)
-+ CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2311.00453)
-+ AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
-+ AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
-+ Anomaly Detection by Adapting a pre-trained Vision Language Model [[2024]](https://arxiv.org/abs/2403.09493)
 
 # 2.4 Supervised AD
 ## More Normal samples With (Less Abnormal Samples or Weak Labels)
@@ -441,6 +442,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [[2023]](https://arxiv.org/pdf/2401.12665)
  + APRIL-GAN: A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD [[2023]](https://arxiv.org/abs/2305.17382)
  + Model Selection of Zero-shot Anomaly Detectors in the Absence of Labeled Validation Data [[2024]](https://arxiv.org/abs/2310.10461)
+ + Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts [[CVPR 2024]](https://arxiv.org/abs/2403.06495)[[code]](https://github.com/mala-lab/InCTRL)
 
 
 ## 3.2 Noisy AD
