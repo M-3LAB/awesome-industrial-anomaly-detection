@@ -430,6 +430,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection [[TIP2024]](http://arxiv.org/abs/2402.18998)
  + Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation [[CVPR 2024]](https://arxiv.org/abs/2403.06247)
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[CVPR 2024]](https://arxiv.org/abs/2312.04521)
+ + Dual-path Frequency Discriminators for Few-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2403.04151)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
@@ -478,6 +479,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection [[2023]](http://arxiv.org/pdf/2311.18332v1)
  + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://arxiv.org/abs/2312.05767)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
  + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
+ + Dual-path Frequency Discriminators for Few-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2403.04151)
  
 ## 3.4 3D AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
