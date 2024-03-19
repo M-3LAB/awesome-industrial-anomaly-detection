@@ -480,6 +480,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://arxiv.org/abs/2312.05767)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
  + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
  + Dual-path Frequency Discriminators for Few-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2403.04151)
+ + A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation [[2024]](https://arxiv.org/abs/2402.19330)[[code]](https://github.com/GrandpaXun242/AdaBLDM)
  
 ## 3.4 3D AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
