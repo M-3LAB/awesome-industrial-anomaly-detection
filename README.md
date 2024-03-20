@@ -301,6 +301,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
  + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
  + Anomaly Detection by Adapting a pre-trained Vision Language Model [[2024]](https://arxiv.org/abs/2403.09493)
+ + Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning [[2024]](https://arxiv.org/abs/2403.11083)[[code]](https://github.com/Xiaohao-Xu/Customizable-VLM)
 
 ## 2.2 Reconstruction-Based Methods
 
