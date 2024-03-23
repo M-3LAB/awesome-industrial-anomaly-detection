@@ -544,7 +544,37 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
  
 # 4 Dataset
-![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png)
+<!-- ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png) -->
+
+| Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
+|------------------------|-------|--------|----------|--------|-------------------|-----------------------|--------------|
+| AITEX                  | 1     | 140    | 105      | 245    | Segmentation mask | RGB real         | 2019         |
+| Anomaly-ShapeNet       | 40    | -      | -        | 1600   | Point-level mask  | Point-cloud synthetic | CVPR,2024    |
+| BTAD                   | 3     | -      | -        | 2830   | Segmentation mask | RGB real         | 2021         |
+| DAGM                   | 10    | -      | -        | 11500  | Segmentation mask | RGB synthetic     | 2007         |
+| DEEPPCB                | 1     | -      | -        | 1500   | Bounding box      | RGB synthetic     | 2019         |
+| DTD-Synthetic          | 12    | -      | -        | -      | Segmentation mask | RGB synthetic     | WACV,2024    |
+| Eyecandies             | 10    | 13250  | 2250     | 15500  | Segmentation mask | RGBD synthetic image  | ACCV,2022    |
+| Fabirc dataset         | 1     | 25     | 25       | 50     | Segmentation mask | RGB synthetic     | PR,2016      |
+| GDXray                 | 1     | 0      | 19407    | 19407  | Bounding box      | RGB real         | 2016         |
+| KolekrotSDD            | 1     | 347    | 52       | 399    | Segmentation mask | RGB real         | JIM,2019     |
+| KolekrotSDD2           | 1     | 2979   | 356      | 3335   | Segmentation mask | RGB real         | CiI,2021     |
+| MIAD                   | 7     | 87500  | 17500    | 105000 | Segmentation mask | RGB synthetic     | 2023         |
+| MPDD                   | 6     | 1064   | 282      | 1346   | Segmentation mask | RGB real         | ICUMT,2021   |
+| MVTec AD               | 15    | 4096   | 1258     | 5354   | Segmentation mask | RGB real         | CVPR,2019    |
+| MVTec 3D-AD            | 10    | 2904   | 948      | 3852   | Segmentation mask | RGB real          | VISAPP,2021  |
+| MVTec LOCO-AD          | 5     | 2347   | 993      | 3340   | Segmentation mask | RGBD real       | IJCV,2022    |
+| NanoTwice              | 1     | 5      | 40       | 45     | Segmentation mask | RGB real         | TII,2016     |
+| NEU surface defect     | 1     | 0      | 1800     | 1800   | Bounding box      | RGB real         | 2013         |
+| PAD                    | 20    | 5231   | 4902     | 10133  | Segmentation mask | RBG synthetic    | NeurIPS,2023 |
+| Real-IAD               | 30    | 51329  | 99721    | 151050 | Segmentation mask | RGB real         | CVPR,2024    |
+| Real3D-AD              | 12    | 652    | 602      | 1254   | Point-level mask  | Point-cloud real       | NeurIPS,2023 |
+| RSDD                   | 2     | -      | -        | 195    | Segmentation mask | RGB real         | 2017         |
+| Steel defect detection | 1     | -      | -        | 18076  | Image             | RGB real         | 2019         |
+| Steel tube dataset     | 1     | 0      | 3408     | 3408   | Bounding box      | RGB real         | 2021         |
+| VisA                   | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real         | ECCV,2022    |
+
+
  + (NEU surface defect dataset)A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects [[2013]](https://www.sciencedirect.com/science/article/pii/S0169433213016437/pdfft?md5=478bf7f07bbf551a5d991048f9bc16e4&pid=1-s2.0-S0169433213016437-main.pdf) [[data]](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)
  + (Steel tube dataset)Deep learning based steel pipe weld defect detection [[2021]](https://www.tandfonline.com/doi/pdf/10.1080/08839514.2021.1975391?needAccess=true) [[data]](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)
  + (Steel defect dataset)Severstal: Steel Defect Detection [[data 2019]](https://www.kaggle.com/code/ekhtiar/resunet-a-baseline-on-tensorflow/notebook)
