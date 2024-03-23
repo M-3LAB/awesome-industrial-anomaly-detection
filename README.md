@@ -529,6 +529,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Anomaly Detection by Adapting a pre-trained Vision Language Model [[2024]](https://arxiv.org/abs/2403.09493)
  + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
  + Toward Multi-class Anomaly Detection: Exploring Class-aware Unified Model against Inter-class Interference [[2024]](https://arxiv.org/abs/2403.14213)
+ + Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection [[2024]](https://arxiv.org/abs/2403.13349)
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
