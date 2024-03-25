@@ -4,6 +4,8 @@ We discuss public datasets and related studies in detail. Welcome to read our pa
 
 [Deep Industrial Image Anomaly Detection: A Survey (Machine Intelligence Research)](https://link.springer.com/article/10.1007/s11633-023-1459-z)
 
+[IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [TCYB 2024]](https://arxiv.org/abs/2301.13359)[[code]](https://github.com/M-3LAB/open-iad)[[中文]](https://blog.csdn.net/m0_63828250/article/details/136891730)
+
 We will keep focusing on this field and updating relevant information.
 
 Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection
