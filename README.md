@@ -87,7 +87,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 
 ## NeurIPS 2023
-+ Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=zGthDp4yYe)[[code]](https://github.com/M-3LAB/Real3D-AD)
++ Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=zGthDp4yYe)[[code]](https://github.com/M-3LAB/Real3D-AD)[[中文]](https://blog.csdn.net/m0_63828250/article/details/136667168)
 + PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=kxFKgqwFNk)[[code]](https://github.com/EricLee0224/PAD)
 + Zero-Shot Anomaly Detection via Batch Normalization [[NeurIPS 2023]](https://openreview.net/pdf?id=d1wjMBYbP1)[[code]](https://github.com/aodongli/zero-shot-ad-via-batch-norm)
 + SANFlow: Semantic-Aware Normalizing Flow for Anomaly Detection and Localization [[NeurIPS 2023]](https://openreview.net/pdf?id=BqZ70BEtuW)
@@ -200,7 +200,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + A Survey on Unsupervised Industrial Anomaly Detection Algorithms [[2022]](https://arxiv.org/abs/2204.11161)
 + A Survey of Methods for Automated Quality Control Based on Images [[IJCV 2023]](https://link.springer.com/article/10.1007/s11263-023-01822-w)[[github page]](https://github.com/jandiers/mvtec-results)
 + Benchmarking Unsupervised Anomaly Detection and Localization [[2022]](https://arxiv.org/abs/2205.14852)
-+ IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [[TCYB 2024]](https://arxiv.org/abs/2301.13359)[[code]](https://github.com/M-3LAB/open-iad)
++ IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [[TCYB 2024]](https://arxiv.org/abs/2301.13359)[[code]](https://github.com/M-3LAB/open-iad)[[中文]]([https://blog.csdn.net/m0_63828250/article/details/136667168](https://blog.csdn.net/m0_63828250/article/details/136891730))
 + A Deep Learning-based Software for Manufacturing Defect Inspection [[TII 2017]](https://ieeexplore.ieee.org/document/9795891)[[code]](https://github.com/sundyCoder/DEye)
 + Anomalib: A Deep Learning Library for Anomaly Detection [[code]](https://github.com/openvinotoolkit/anomalib)
 + Ph.D. thesis of Paul Bergmann(The first author of MVTec AD series) [[2022]](https://mediatum.ub.tum.de/1662158)
