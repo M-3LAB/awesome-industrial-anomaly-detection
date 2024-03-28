@@ -35,7 +35,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | ![Star](https://img.shields.io/github/stars/tianyu0207/IGD.svg?style=social&label=Star) <br> [**Deep one-class classification via interpolated gaussian descriptor**](https://ojs.aaai.org/index.php/AAAI/article/view/19915) <br> | AAAI | 2022 | [Github](https://github.com/tianyu0207/IGD) | Noisy AD |
 | ![Star](https://img.shields.io/github/stars/TencentYoutuResearch/AnomalyDetection-SoftPatch.svg?style=social&label=Star) <br> [**SoftPatch: Unsupervised Anomaly Detection with Noisy Data**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/637a456d89289769ac1ab29617ef7213-Abstract-Conference.html) <br> | NeurIPS | 2022 | [Github](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch) | Noisy AD |
 | ![Star](https://img.shields.io/github/stars/DeclanMcIntosh/InReaCh.svg?style=social&label=Star) <br> [**Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification**](https://openaccess.thecvf.com/content/ICCV2023/html/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.html) <br> | ICCV | 2023 | [Github](https://github.com/DeclanMcIntosh/InReaCh) | Noisy AD |
-| ![Star](https://img.shields.io/github/stars/shirowalker/UCAD.svg?style=social&label=Star) <br> [**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**](https://arxiv.org/abs/2401.01010) <br> | AAAI | 2024 | [Github](https://github.com/shirowalker/UCAD) | Continual AD |
+| ![Star](https://img.shields.io/github/stars/shirowalker/UCAD.svg?style=social&label=Star) <br> [**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**](https://ojs.aaai.org/index.php/AAAI/article/view/28153) <br> | AAAI | 2024 | [Github](https://github.com/shirowalker/UCAD) | Continual AD |
 | ![Star](https://img.shields.io/github/stars/zhiyuanyou/UniAD.svg?style=social&label=Star) <br> [**A Unified Model for Multi-class Anomaly Detection**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1d774c112926348c3e25ea47d87c835b-Abstract-Conference.html) <br> | NeurIPS | 2022 | [Github](https://github.com/zhiyuanyou/UniAD) | Multi-class unified |
 | ![Star](https://img.shields.io/github/stars/RuiyingLu/HVQ-Trans.svg?style=social&label=Star) <br> [**Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection**](https://openreview.net/pdf?id=clJTNssgn6) <br> | NeurIPS | 2023 | [Github](https://github.com/RuiyingLu/HVQ-Trans) | Multi-class unified |
 | ![Star](https://img.shields.io/github/stars/nomewang/M3DM.svg?style=social&label=Star) <br> [**Multimodal Industrial Anomaly Detection via Hybrid Fusion**](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Multimodal_Industrial_Anomaly_Detection_via_Hybrid_Fusion_CVPR_2023_paper.html) <br> | CVPR | 2023 | [Github](https://github.com/nomewang/M3DM) | RGBD |
@@ -69,12 +69,14 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 
 ## AAAI 2024
-+ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://arxiv.org/abs/2401.01010)[[code]](https://github.com/shirowalker/UCAD)
-+ Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.13783)
-+ DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
-+ Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.15911)
-+ AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://arxiv.org/abs/2312.05767)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
-+ AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
++ Rethinking Reverse Distillation for Multi-Modal Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28687)
++ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28153)[[code]](https://github.com/shirowalker/UCAD)
++ Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28703)
++ DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28690)[[code]](https://lewandofskee.github.io/projects/diad)
++ Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/27910)
++ AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
++ AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/27963)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
++ A Comprehensive Augmentation Framework for Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28720)
 
 
 ## WACV 2024
@@ -147,7 +149,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Segment Any Anomaly without Training via Hybrid Prompt Regularization [[2023]](https://arxiv.org/abs/2305.10724) [[code]](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)
 + Application of Segment Anything Model for Civil Infrastructure Defect Assessment [[2023 SAM tech report]](https://arxiv.org/abs/2304.12600)
 + Segment Anything in Defect Detection [[2023]](https://arxiv.org/abs/2311.10245)
-+ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://arxiv.org/abs/2401.01010)[[code]](https://github.com/shirowalker/UCAD)
++ Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28153)[[code]](https://github.com/shirowalker/UCAD)
 + ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [[2023]](https://arxiv.org/pdf/2401.12665)
 + A SAM-guided Two-stream Lightweight Model for Anomaly Detection [[2024]](https://arxiv.org/abs/2402.19145)
 
@@ -168,7 +170,6 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Decision Fusion Network with Perception Fine-tuning for Defect Classification [[2023]](https://arxiv.org/abs/2309.12630)
 + FAIR: Frequency-aware Image Restoration for Industrial Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2309.07068)[[code]](https://github.com/liutongkun/FAIR)
 + AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization [[2023]](https://arxiv.org/abs/2308.15939)[[code]](https://github.com/hq-deng/AnoVL)
-+ A Comprehensive Augmentation Framework for Anomaly Detection [[2023]](https://arxiv.org/abs/2308.15068)
 + End-to-End Augmentation Hyperparameter Tuning for Self-Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2306.12033)
 + CVPR 1st workshop on Vision-based InduStrial InspectiON [[CVPR 2023 Workshop]](https://vision-based-industrial-inspection.github.io/cvpr-2023/) [[data link]](https://drive.google.com/drive/folders/1TVp_UXJuXudqhC2L3ZKyIDcmQ_2O3JVi)
 + Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection [[2023]](http://arxiv.org/pdf/2311.18332v1)
@@ -375,7 +376,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Removing Anomalies as Noises for Industrial Defect Localization [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Removing_Anomalies_as_Noises_for_Industrial_Defect_Localization_ICCV_2023_paper.pdf)
  + TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection [[2023]](https://arxiv.org/abs/2311.09999)
  + LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection [[2023]](https://arxiv.org/abs/2307.08059)
- + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
+ + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28690)[[code]](https://lewandofskee.github.io/projects/diad)
  + D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection [[2024]](https://arxiv.org/abs/2401.04463)
 
 ### 2.2.5 Others
@@ -394,7 +395,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
 + Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
 + Few-shot defect image generation via defect-aware feature manipulation [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
-+ AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://arxiv.org/abs/2312.05767)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
++ AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
 + BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization [[TSMC 2024]](https://ieeexplore.ieee.org/abstract/document/10402554)
 + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
 
@@ -485,10 +486,11 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Defect-GAN: High-fidelity defect synthesis for automated defect inspection [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
  + EID-GAN: Generative Adversarial Nets for Extremely Imbalanced Data Augmentation[[TII 2022]](https://ieeexplore.ieee.org/document/9795891)
  + Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection [[2023]](http://arxiv.org/pdf/2311.18332v1)
- + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://arxiv.org/abs/2312.05767)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
+ + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
  + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
  + Dual-path Frequency Discriminators for Few-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2403.04151)
  + A Novel Approach to Industrial Defect Generation through Blended Latent Diffusion Model with Online Adaptation [[2024]](https://arxiv.org/abs/2402.19330)[[code]](https://github.com/GrandpaXun242/AdaBLDM)
+ + A Comprehensive Augmentation Framework for Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28720)
  
 ## 3.4 3D AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -505,14 +507,15 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2401.03145)
  + Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Zavrtanik_Cheating_Depth_Enhancing_3D_Surface_Anomaly_Detection_via_Depth_Simulation_WACV_2024_paper.pdf)[[code]](https://github.com/VitjanZ/3DSR)
  + Incremental Template Neighborhood Matching for 3D anomaly detection [[Neurocomputing 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002546)
- + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
+ + Rethinking Reverse Distillation for Multi-Modal Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28687)
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[CVPR 2024]](https://arxiv.org/abs/2312.04521)
+ + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
  
 ## 3.5 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
  + An Incremental Unified Framework for Small Defect Inspection [[2023]](https://arxiv.org/abs/2312.08917)[[code]](https://github.com/jqtangust/IUF)
- + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://arxiv.org/abs/2401.01010)[[code]](https://github.com/shirowalker/UCAD)
+ + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28153)[[code]](https://github.com/shirowalker/UCAD)
 
 ## 3.6 Uniform/Multi-Class AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
@@ -523,7 +526,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection [[2023]](https://arxiv.org/abs/2307.12540)[[code]](https://github.com/YoojLee/Uniformaly)
  + MSTAD: A masked subspace-like transformer for multi-class anomaly detection [[2023]](https://www.sciencedirect.com/science/article/pii/S095070512300936X)
  + LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection [[2023]](https://arxiv.org/abs/2307.08059)
- + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.06607)[[code]](https://lewandofskee.github.io/projects/diad)
+ + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28690)[[code]](https://lewandofskee.github.io/projects/diad)
  + Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection [[2023]](https://arxiv.org/abs/2312.07495)
  + Structural Teacher-Student Normality Learning for Multi-Class Anomaly Detection and Localization [[2024]](https://arxiv.org/abs/2402.17091)
  + Unsupervised anomaly detection and localization with one model for all category [[KBS 2024]](https://www.sciencedirect.com/science/article/pii/S0950705124001680)
@@ -541,8 +544,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code]](https://github.com/ShuaiLYU/REB)
  + Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection [[TCSVT 2023]](https://arxiv.org/abs/2303.05768)[[code]](https://github.com/hmyao22/GLCF)
  + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
- + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.13783)
- + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://arxiv.org/abs/2312.15911)
+ + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28703)
+ + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/27910)
  + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
  
 # 4 Dataset
