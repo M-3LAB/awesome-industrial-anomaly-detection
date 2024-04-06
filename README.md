@@ -45,7 +45,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | ![Star](https://img.shields.io/github/stars/hq-deng/AnoVL.svg?style=social&label=Star) <br> [**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**](https://arxiv.org/abs/2308.15939) <br> | arxiv | 2023 | [Github](https://github.com/hq-deng/AnoVL) | Zero Shot |
 | ![Star](https://img.shields.io/github/stars/caoyunkang/GroundedSAM-zero-shot-anomaly-detection.svg?style=social&label=Star) <br> [**Segment Any Anomaly without Training via Hybrid Prompt Regularization**](https://arxiv.org/abs/2305.10724) <br> | arxiv | 2023 | [Github](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection) | Zero Shot |
 | ![Star](https://img.shields.io/github/stars/YoojLee/Uniformaly.svg?style=social&label=Star) <br> [**UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection**](https://arxiv.org/abs/2307.12540) <br> | arxiv | 2023 | [Github](https://github.com/YoojLee/Uniformaly) | Multi-class unified |
-<!-- | ![Star](https://img.shields.io/github/stars/mala-lab/AHL.svg?style=social&label=Star) <br> [**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**](https://arxiv.org/abs/2310.12790) <br> | arxiv | 2023 | [Github](https://github.com/mala-lab/AHL) | Few abnormal samples | -->
+<!-- | ![Star](https://img.shields.io/github/stars/mala-lab/AHL.svg?style=social&label=Star) <br> [**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**](https://arxiv.org/abs/2310.12790) <br> | CVPR | 2024 | [Github](https://github.com/mala-lab/AHL) | Few abnormal samples | -->
 
 
 # Recent research
@@ -70,7 +70,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Supervised Anomaly Detection for Complex Industrial Images [[CVPR 2024 comming]]()
 <!-- + PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [[CVPR 2024]]()
 + Prompt-enhanced Multiple Instance Learning for Weakly Supervised Anomaly Detection [[CVPR 2024]]()
-+ Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[CVPR 2024]]()
++ Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
 + Looking 3D: Anomaly Detection with 2D-3D Alignment [[CVPR 2024]]() -->
 
 ## ICLR 2024
@@ -172,7 +172,6 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection [[2023]](https://arxiv.org/abs/2311.00453)
 + Self-Tuning Self-Supervised Anomaly Detection [[2023]](https://openreview.net/forum?id=saj54kqrBj)
 + Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[2023]](https://openreview.net/forum?id=RLhS1TrjK3)[[data]](https://defect-spectrum-authors.github.io/defect-spectrum/)
-+ Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
 + Model Selection of Anomaly Detectors in the Absence of Labeled Validation Data [[2023]](https://arxiv.org/abs/2310.10461)
 + A Discrepancy Aware Framework for Robust Anomaly Detection [[2023]](https://arxiv.org/abs/2310.07585)[[code]](https://github.com/caiyuxuan1120/DAF)
 + The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 Section 9.2]](https://arxiv.org/abs/2309.17421)
@@ -410,7 +409,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Anomaly Clustering: Grouping Images into Coherent Clusters of Anomaly Types[[WACV 2023]](https://openaccess.thecvf.com/content/WACV2023/html/Sohn_Anomaly_Clustering_Grouping_Images_Into_Coherent_Clusters_of_Anomaly_Types_WACV_2023_paper.html)
 + Prototypical Residual Networks for Anomaly Detection and Localization [[CVPR 2023]](https://arxiv.org/abs/2212.02031)[[code]](https://github.com/xcyao00/PRNet)
 + Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer [[2023]](https://arxiv.org/abs/2306.03492)
-+ Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[2023]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
++ Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
 + Few-shot defect image generation via defect-aware feature manipulation [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
 + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
 + BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization [[TSMC 2024]](https://ieeexplore.ieee.org/abstract/document/10402554)
