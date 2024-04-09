@@ -569,7 +569,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
 
 ## Other settings
-### TTA binary segmentation
+### TTT binary segmentation
 Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.org/abs/2404.03743)
 
 # 4 Dataset
