@@ -567,7 +567,11 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28703)
  + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/27910)
  + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
- 
+
+## Other settings
+### TTA binary segmentation
+Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.org/abs/2404.03743)
+
 # 4 Dataset
 <!-- ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png) -->
 
@@ -592,7 +596,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | NanoTwice              | 1     | 5      | 40       | 45     | Segmentation mask | RGB real         | TII,2016     |
 | NEU surface defect     | 1     | 0      | 1800     | 1800   | Bounding box      | RGB real         | 2013         |
 | PAD                    | 20    | 5231   | 4902     | 10133  | Segmentation mask | RBG synthetic    | NeurIPS,2023 |
-| Real-IAD               | 30    | 51329  | 99721    | 151050 | Segmentation mask | RGB real         | CVPR,2024    |
+| Real-IAD               | 30    | 99721  | 51329    | 151050 | Segmentation mask | RGB real         | CVPR,2024    |
 | Real3D-AD              | 12    | 652    | 602      | 1254   | Point-level mask  | Point-cloud real       | NeurIPS,2023 |
 | RSDD                   | 2     | -      | -        | 195    | Segmentation mask | RGB real         | 2017         |
 | Steel defect detection | 1     | -      | -        | 18076  | Image             | RGB real         | 2019         |
