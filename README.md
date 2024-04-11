@@ -218,6 +218,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Anomalib: A Deep Learning Library for Anomaly Detection [[code]](https://github.com/openvinotoolkit/anomalib)
 + Ph.D. thesis of Paul Bergmann(The first author of MVTec AD series) [[2022]](https://mediatum.ub.tum.de/1662158)
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
++ Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection [[2023]](https://arxiv.org/abs/2312.07495)[[code]](https://github.com/zhangzjn/ADer)
 + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[2024]](https://arxiv.org/pdf/2401.16402.pdf)
 + AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance [[2024]](https://arxiv.org/abs/2401.01984)
 
@@ -556,6 +557,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Toward Multi-class Anomaly Detection: Exploring Class-aware Unified Model against Inter-class Interference [[2024]](https://arxiv.org/abs/2403.14213)
  + Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection [[2024]](https://arxiv.org/abs/2403.13349)
  + Long-Tailed Anomaly Detection with Learnable Class Names [[CVPR 2024]](https://arxiv.org/abs/2403.20236)[[data split]](https://zenodo.org/records/10854201)
+ + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[2024]](https://lewandofskee.github.io/projects/MambaAD/)[[code]](https://github.com/lewandofskee/MambaAD)
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
