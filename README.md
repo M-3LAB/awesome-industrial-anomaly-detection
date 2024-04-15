@@ -69,6 +69,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Long-Tailed Anomaly Detection with Learnable Class Names [[CVPR 2024]](https://arxiv.org/abs/2403.20236)[[data split]](https://zenodo.org/records/10854201)
 + PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2404.05231)[[code]](https://github.com/FuNz-0/PromptAD)
 + Supervised Anomaly Detection for Complex Industrial Images [[CVPR 2024 comming]]()
++ CVPRW: VAND 2.0: Visual Anomaly and Novelty Detection - 2nd Edition [[Challenge and Call for Papers]](https://sites.google.com/view/vand-2-0-cvpr-2024/home)
 <!-- + PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [[CVPR 2024]]()
 + Prompt-enhanced Multiple Instance Learning for Weakly Supervised Anomaly Detection [[CVPR 2024]]()
 + Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
@@ -657,6 +658,14 @@ If you find this paper and repository useful, please cite our paper☺️.
   pages={104--135},
   year={2024},
   publisher={Springer}
+}
+
+@article{xie2024iad,
+  title={Im-iad: Industrial image anomaly detection benchmark in manufacturing},
+  author={Xie, Guoyang and Wang, Jinbao and Liu, Jiaqi and Lyu, Jiayi and Liu, Yong and Wang, Chengjie and Zheng, Feng and Jin, Yaochu},
+  journal={IEEE Transactions on Cybernetics},
+  year={2024},
+  publisher={IEEE}
 }
 
 @article{jiang2022survey,
