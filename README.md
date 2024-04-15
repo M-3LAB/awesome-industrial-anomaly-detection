@@ -199,6 +199,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + BMAD: Benchmarks for Medical Anomaly Detection [[2023]](https://arxiv.org/abs/2306.11876)
 + Unsupervised Pathology Detection: A Deep Dive Into the State of the Art [[2023]](https://arxiv.org/abs/2303.00609)
 + Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images [[CVPR 2024]](https://arxiv.org/abs/2403.12570)
++ Multi-Image Visual Question Answering for Unsupervised Anomaly Detection [[2024]](http://arxiv.org/abs/2404.07622v1)
 
 # Paper Tree (Classification of representative methods)
 ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
