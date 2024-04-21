@@ -563,6 +563,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection [[2024]](https://arxiv.org/abs/2403.13349)
  + Long-Tailed Anomaly Detection with Learnable Class Names [[CVPR 2024]](https://arxiv.org/abs/2403.20236)[[data split]](https://zenodo.org/records/10854201)
  + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2404.06564)[[code]](https://github.com/lewandofskee/MambaAD)
+ + Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark [[2024]](https://arxiv.org/abs/2404.10760)[[code]](https://github.com/zhangzjn/ader)
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
