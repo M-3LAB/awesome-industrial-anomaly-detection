@@ -448,6 +448,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Decision Fusion Network with Perception Fine-tuning for Defect Classification [[2023]](https://arxiv.org/abs/2309.12630)
 + Global Context Aggregation Network for Lightweight Saliency Detection of Surface Defects [[2023]](https://arxiv.org/abs/2309.12641)
 + Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation [[2023]](https://arxiv.org/abs/2312.14053)[[code]](https://github.com/RashaAlshawi/Dual-Attention-U-Net-with-Feature-Infusion-Pushing-the-Boundaries-of-Multiclass-Defect-Segmentation)
++ MemoryMamba: Memory-Augmented State Space Model for Defect Recognition [[2024]](https://arxiv.org/abs/2405.03673)
 
 # 3 Other Research Direction
 
