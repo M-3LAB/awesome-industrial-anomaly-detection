@@ -449,6 +449,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Global Context Aggregation Network for Lightweight Saliency Detection of Surface Defects [[2023]](https://arxiv.org/abs/2309.12641)
 + Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation [[2023]](https://arxiv.org/abs/2312.14053)[[code]](https://github.com/RashaAlshawi/Dual-Attention-U-Net-with-Feature-Infusion-Pushing-the-Boundaries-of-Multiclass-Defect-Segmentation)
 + MemoryMamba: Memory-Augmented State Space Model for Defect Recognition [[2024]](https://arxiv.org/abs/2405.03673)
++ Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[code]](https://github.com/abc-125/segad)
 
 # 3 Other Research Direction
 
@@ -584,6 +585,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/27910)
  + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
  + AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
+ + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[code]](https://github.com/abc-125/segad)
 
 ## Other settings
 ### TTT binary segmentation
@@ -661,6 +663,7 @@ Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.or
  + Catenary Insulator Defects Detection: A Dataset and an Unsupervised Baseline [[TIM 2024]](https://ieeexplore.ieee.org/abstract/document/10504848)[[code]](https://github.com/LightZH/Insulator-Defect-Detection)
  + IPAD: Industrial Process Anomaly Detection Dataset [[2024]](https://arxiv.org/abs/2404.15033)[[data]](https://ljf1113.github.io/IPAD_VAD/)
  + MVTec-Caption: AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
+ + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[data coming]](https://github.com/abc-125/segad)
 
 ## BibTex Citation
 
