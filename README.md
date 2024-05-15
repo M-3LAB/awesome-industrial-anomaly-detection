@@ -494,6 +494,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2404.09654)
  + FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization [[2024]](https://arxiv.org/abs/2404.13671)
  + Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2405.04782)
+ + Investigating the Semantic Robustness of CLIP-based Zero-Shot Anomaly Segmentation [[2024]](https://arxiv.org/abs/2405.07969)
 
 
 ## 3.2 Noisy AD
