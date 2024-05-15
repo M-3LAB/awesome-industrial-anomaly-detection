@@ -509,6 +509,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## 3.3 Anomaly Synthetic
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
  + Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[(Reconstruction AE)ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
+ + DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
+ + Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization [[ECCV 2022]](https://arxiv.org/pdf/2109.15222.pdf)[[code]](https://github.com/hmsch/natural-synthetic-anomalies)
  + MemSeg: A semi-supervised method for image surface defect detection using differences and commonalities [[(OCC)2022]](https://arxiv.org/pdf/2205.00908.pdf)[[unofficial code]](https://github.com/TooTouch/MemSeg)
  + A High-Efficiency Fully Convolutional Networks for Pixel-Wise Surface Defect Detection [[IEEE Access 2019]](https://ieeexplore.ieee.org/abstract/document/8624360)
  + Multistage GAN for fabric defect detection [[2019]](https://pubmed.ncbi.nlm.nih.gov/31870985/)
@@ -521,6 +523,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Defect-GAN: High-fidelity defect synthesis for automated defect inspection [[2021]](https://dr.ntu.edu.sg/bitstream/10356/146285/2/WACV_2021_Defect_GAN__Camera_Ready_.pdf)
  + EID-GAN: Generative Adversarial Nets for Extremely Imbalanced Data Augmentation[[TII 2022]](https://ieeexplore.ieee.org/document/9795891)
  + Multilevel Saliency-Guided Self-Supervised Learning for Image Anomaly Detection [[2023]](http://arxiv.org/pdf/2311.18332v1)
+ + DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection [[CVPR 2023]](https://arxiv.org/abs/2211.11317)[[code]](https://github.com/apple/ml-destseg)
  + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
  + RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.05897)[[code]](https://github.com/cnulab/RealNet)
  + Dual-path Frequency Discriminators for Few-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2403.04151)
@@ -528,6 +531,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + A Comprehensive Augmentation Framework for Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28720)
  + CAGEN: Controllable Anomaly Generator using Diffusion Model [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10447663)
  + AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
+ + Few-shot defect image generation via defect-aware feature manipulation [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
  
 ## 3.4 3D AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
