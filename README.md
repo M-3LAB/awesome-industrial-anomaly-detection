@@ -470,6 +470,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[CVPR 2024]](https://arxiv.org/abs/2312.04521)
  + Dual-path Frequency Discriminators for Few-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2403.04151)
  + Few-shot Online Anomaly Detection and Segmentation [[2024]](https://arxiv.org/abs/2403.18201)
+ + FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks [[CVPRW 2023]](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf)[[code]](https://github.com/niamhbelton/FewSOME)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
