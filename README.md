@@ -249,6 +249,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + AEKD: Unsupervised auto-encoder knowledge distillation for industrial anomaly detection [[JMS 2024]](https://www.sciencedirect.com/science/article/pii/S0278612524000244)
 + Masked feature regeneration based asymmetric student–teacher network for anomaly detection [[Multimedia Tools and Applications 2024]](https://link.springer.com/article/10.1007/s11042-024-18512-5)
 + Feature-Constrained and Attention-Conditioned Distillation Learning for Visual Anomaly Detection [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10448432)
++ MiniMaxAD: A Lightweight Autoencoder for Feature-Rich Anomaly Detection [[2024]](https://arxiv.org/abs/2405.09933)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
