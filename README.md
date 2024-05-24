@@ -473,6 +473,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Dual-path Frequency Discriminators for Few-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2403.04151)
  + Few-shot Online Anomaly Detection and Segmentation [[2024]](https://arxiv.org/abs/2403.18201)
  + FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks [[CVPRW 2023]](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf)[[code]](https://github.com/niamhbelton/FewSOME)
+ + AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2 [[2024]](https://arxiv.org/abs/2405.14529)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
@@ -581,6 +582,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Long-Tailed Anomaly Detection with Learnable Class Names [[CVPR 2024]](https://arxiv.org/abs/2403.20236)[[data split]](https://zenodo.org/records/10854201)
  + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2404.06564)[[code]](https://github.com/lewandofskee/MambaAD)
  + Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark [[2024]](https://arxiv.org/abs/2404.10760)[[code]](https://github.com/zhangzjn/ader)
+ + Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2405.14325)
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
