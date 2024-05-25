@@ -555,6 +555,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Rethinking Reverse Distillation for Multi-Modal Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28687)
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[CVPR 2024]](https://arxiv.org/abs/2312.04521)
  + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
+ + Cross-Modal Distillation in Industrial Anomaly Detection: Exploring Efficient Multi-Modal IAD [[2024]](https://arxiv.org/abs/2405.13571)[[code]](https://github.com/evenrose/CMDIAD)
  
 ## 3.5 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
