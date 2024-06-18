@@ -397,6 +397,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Masked Transformer for image Anomaly Localization [[TII 2022]](http://arxiv.org/pdf/2210.15540)
  + Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yao_Focus_the_Discrepancy_Intra-_and_Inter-Correlation_Learning_for_Image_Anomaly_ICCV_2023_paper.pdf)[[code]](https://github.com/xcyao00/FOD)
  + AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization [[TASE 2024]](https://ieeexplore.ieee.org/abstract/document/10445116)
+ + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
 
 ### 2.2.4 Diffusion Model
  + AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[CVPR Workshop 2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
@@ -590,6 +591,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2404.06564)[[code]](https://github.com/lewandofskee/MambaAD)
  + Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark [[2024]](https://arxiv.org/abs/2404.10760)[[code]](https://github.com/zhangzjn/ader)
  + Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2405.14325)
+ + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
