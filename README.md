@@ -45,6 +45,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ader.svg?style=social&label=Star) <br> [**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**](http://arxiv.org/pdf/2406.03262v1) <br> | arxiv | 2024 | [Github](https://github.com/zhangzjn/ader) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/hq-deng/AnoVL.svg?style=social&label=Star) <br> [**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**](https://arxiv.org/abs/2308.15939) <br> | arxiv | 2023 | [Github](https://github.com/hq-deng/AnoVL) | Zero Shot |
 | ![Star](https://img.shields.io/github/stars/caoyunkang/GroundedSAM-zero-shot-anomaly-detection.svg?style=social&label=Star) <br> [**Segment Any Anomaly without Training via Hybrid Prompt Regularization**](https://arxiv.org/abs/2305.10724) <br> | arxiv | 2023 | [Github](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection) | Zero Shot |
+| ![Star](https://img.shields.io/github/stars/oopil/PSAD_logical_anomaly_detection.svg?style=social&label=Star) <br> [**PASD: Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/28703)[[code]](https://github.com/oopil/PSAD_logical_anomaly_detection) <br> | AAAI | 2024 | [Github](https://github.com/oopil/PSAD_logical_anomaly_detection) | Logical/Few Shot |
 | ![Star](https://img.shields.io/github/stars/YoojLee/Uniformaly.svg?style=social&label=Star) <br> [**UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection**](https://arxiv.org/abs/2307.12540) <br> | arxiv | 2023 | [Github](https://github.com/YoojLee/Uniformaly) | Multi-class unified |
 <!-- | ![Star](https://img.shields.io/github/stars/mala-lab/AHL.svg?style=social&label=Star) <br> [**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**](https://arxiv.org/abs/2310.12790) <br> | CVPR | 2024 | [Github](https://github.com/mala-lab/AHL) | Few abnormal samples | -->
 
@@ -84,7 +85,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## AAAI 2024
 + Rethinking Reverse Distillation for Multi-Modal Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28687)
 + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28153)[[code]](https://github.com/shirowalker/UCAD)
-+ Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28703)
++ Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28703)[[code]](https://github.com/oopil/PSAD_logical_anomaly_detection)
 + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28690)[[code]](https://lewandofskee.github.io/projects/diad)
 + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/27910)
 + AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28696)[[code]](https://github.com/sjtuplayer/anomalydiffusion)
@@ -602,7 +603,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code]](https://github.com/ShuaiLYU/REB)
  + Learning Global-Local Correspondence with Semantic Bottleneck for Logical Anomaly Detection [[TCSVT 2023]](https://arxiv.org/abs/2303.05768)[[code]](https://github.com/hmyao22/GLCF)
  + Template-guided Hierarchical Feature Restoration for Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Template-guided_Hierarchical_Feature_Restoration_for_Anomaly_Detection_ICCV_2023_paper.pdf)
- + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28703)
+ + Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28703)[[code]](https://github.com/oopil/PSAD_logical_anomaly_detection)
  + Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/27910)
  + PUAD: Frustratingly Simple Method for Robust Anomaly Detection [[2024]](https://arxiv.org/abs/2402.15143)
  + AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
