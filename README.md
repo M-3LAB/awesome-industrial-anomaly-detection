@@ -656,6 +656,8 @@ Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.or
  + (NanoTwice)Defect detection in SEM images of nanofibrous materials [[TII 2016]](https://re.public.polimi.it/bitstream/11311/1024586/1/anomaly_detection_sem.pdf) [[data]](http://web.mi.imati.cnr.it/ettore/NanoTwice)
  + (GDXray)GDXray: The database of X-ray images for nondestructive testing [[2015]](http://dmery.sitios.ing.uc.cl/Prints/ISI-Journals/2015-JNDE-GDXray.pdf) [[data]](https://domingomery.ing.puc.cl/material/gdxray/)
  + (DEEP PCB)Online PCB defect detector on a new PCB defect dataset [[2019]](https://arxiv.org/pdf/1902.06197.pdf) [[data]](https://github.com/tangsanli5201/DeepPCB)
+ + (PCBA-defect) A PCB Dataset for Defects Detection and Classification [[2019]](https://arxiv.org/abs/1901.08204)[[data]](https://www.kaggle.com/datasets/akhatova/pcb-defects)
+ + (CPLID) Insulator Data Set - Chinese Power Line Insulator Dataset [[data]](https://github.com/InsulatorData/InsulatorDataSet)
  + (Fabric dataset)Fabric inspection based on the Elo rating method [[PR 2016]](http://hub.hku.hk/bitstream/10722/229176/1/content.pdf)
  + (KolektorSDD)Segmentation-based deep-learning approach for surface-defect detection [[Journal of Intelligent Manufacturing]](http://arxiv.org/pdf/1903.08536) [[data]](https://www.vicos.si/resources/kolektorsdd/)
  + (KolektorSDD2)Mixed supervision for surface-defect detection: From weakly to fully supervised learning [[Computers in Industry 2021]](https://arxiv.org/pdf/2104.06064.pdf) [[data]](https://www.vicos.si/resources/kolektorsdd2/)
