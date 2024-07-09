@@ -51,6 +51,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 
 # Recent research
+## ECCV 2024
++ An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
 
 ## ICASSP 2024
 + Implicit Foreground-Guided Network for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446952)
@@ -594,6 +596,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark [[2024]](https://arxiv.org/abs/2404.10760)[[code]](https://github.com/zhangzjn/ader)
  + Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2405.14325)
  + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
+ + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
  
 ## 3.7 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
