@@ -53,6 +53,11 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 # Recent research
 ## ECCV 2024
 + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
++ Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2403.11561)
++ Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2401.03145)
++ Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [[ECCV 2024]]
++ Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]]
++ AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]]
 
 ## ICASSP 2024
 + Implicit Foreground-Guided Network for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446952)
