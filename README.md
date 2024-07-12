@@ -58,6 +58,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [[ECCV 2024]]
 + Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]]
 + AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]]
++ GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
 
 ## ICASSP 2024
 + Implicit Foreground-Guided Network for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446952)
@@ -418,12 +419,12 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection [[2023]](https://arxiv.org/abs/2307.08059)
  + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28690)[[code]](https://lewandofskee.github.io/projects/diad)
  + D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection [[2024]](https://arxiv.org/abs/2401.04463)
-+ GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
++ GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
 
-# 2.4 Supervised AD
+# 2.3 Supervised AD
 ## More Normal samples With (Less Abnormal Samples or Weak Labels)
 + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
 + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
