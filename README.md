@@ -58,6 +58,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [[ECCV 2024]]
 + Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]]
 + AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]]
++ GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
 
 ## ICASSP 2024
 + Implicit Foreground-Guided Network for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446952)
@@ -418,12 +419,12 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection [[2023]](https://arxiv.org/abs/2307.08059)
  + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28690)[[code]](https://lewandofskee.github.io/projects/diad)
  + D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection [[2024]](https://arxiv.org/abs/2401.04463)
-+ GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
++ GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
 
-# 2.4 Supervised AD
+# 2.3 Supervised AD
 ## More Normal samples With (Less Abnormal Samples or Weak Labels)
 + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
 + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
@@ -693,7 +694,7 @@ Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.or
  + Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[2023]](https://openreview.net/forum?id=RLhS1TrjK3)[[data]](https://defect-spectrum-authors.github.io/defect-spectrum/)
  + (DTD-Synthetic) Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection [[WACV 2023]](https://ieeexplore.ieee.org/document/10030870)[[data]](https://drive.google.com/drive/folders/10OyPzvI3H6llCZBxKxFlKWt1Pw1tkMK1)
  + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[CVPR 2024]](https://arxiv.org/abs/2311.14897)[[data]](https://github.com/Chopper-233/Anomaly-ShapeNet)
- + Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.12580)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection_Real-IAD)[[data]](https://realiad4ad.github.io/Real-IAD/)
+ + Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.12580)[[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)[[data]](https://realiad4ad.github.io/Real-IAD/)
  + Catenary Insulator Defects Detection: A Dataset and an Unsupervised Baseline [[TIM 2024]](https://ieeexplore.ieee.org/abstract/document/10504848)[[code]](https://github.com/LightZH/Insulator-Defect-Detection)
  + IPAD: Industrial Process Anomaly Detection Dataset [[2024]](https://arxiv.org/abs/2404.15033)[[data]](https://ljf1113.github.io/IPAD_VAD/)
  + MVTec-Caption: AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
