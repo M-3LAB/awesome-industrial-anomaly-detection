@@ -208,6 +208,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection [[TIP2024]](http://arxiv.org/abs/2402.18998)
 + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
 + Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection [[2024]](https://arxiv.org/abs/2403.11561)
++ RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[2024]](https://arxiv.org/abs/2406.07176)
 
 ## Medical (related)
 + Towards Universal Unsupervised Anomaly Detection in Medical Imaging [[2024]](http://arxiv.org/pdf/2401.10637v1)
@@ -240,6 +241,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[2024]](https://arxiv.org/pdf/2401.16402.pdf)
 + AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance [[2024]](https://arxiv.org/abs/2401.01984)
 + Explainable Anomaly Detection in Images and Videos: A Survey [[2024]](https://arxiv.org/pdf/2302.06670)[[repo]](https://github.com/wyzjack/Awesome-XAD)
++ RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[2024]](https://arxiv.org/abs/2406.07176)
 
 # 2 Unsupervised AD
 
@@ -670,6 +672,7 @@ Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.or
 | [Steel defect detection](https://www.kaggle.com/code/ekhtiar/resunet-a-baseline-on-tensorflow/notebook) | 1     | -      | -        | 18076  | Image             | RGB real         | 2019         |
 | [Steel tube dataset](https://github.com/huangyebiaoke/steel-pipe-weld-defect-detection)     | 1     | 0      | 3408     | 3408   | Bounding box      | RGB real         | 2021         |
 | [VisA](https://github.com/amazon-science/spot-diff)                   | 12    | 9621   | 1200     | 10821  | Segmentation mask | RGB real         | ECCV,2022    |
+| [RAD](https://github.com/hustCYQ/RAD-dataset)                   | 4    | 213   | 1224     | 1224  | Segmentation mask | RGB real         | CASE,2024    |
 
 
  + (NEU surface defect dataset)A noise robust method based on completed local binary patterns for hot-rolled steel strip surface defects [[2013]](https://www.sciencedirect.com/science/article/pii/S0169433213016437/pdfft?md5=478bf7f07bbf551a5d991048f9bc16e4&pid=1-s2.0-S0169433213016437-main.pdf) [[data]](http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/index.htm)
