@@ -58,7 +58,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2401.03145)
 + Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [[ECCV 2024]]
 + Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]]
-+ AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]]
++ AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.15795)[[code]](https://github.com/caoyunkang/AdaCLIP)
 + GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
 + GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features [[ECCV 2024]](https://arxiv.org/abs/2407.12427)[[code]](https://github.com/LucStrater/GeneralAD)
 + VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation [[ECCV 2024]](https://arxiv.org/abs/2407.12276)[[code]](https://github.com/xiaozhen228/VCP-CLIP)
@@ -86,14 +86,14 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2404.05231)[[code]](https://github.com/FuNz-0/PromptAD)
 + Supervised Anomaly Detection for Complex Industrial Images [[CVPR 2024 comming]]()
 + CVPRW: VAND 2.0: Visual Anomaly and Novelty Detection - 2nd Edition [[Challenge and Call for Papers]](https://sites.google.com/view/vand-2-0-cvpr-2024/home)
++ Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
 <!-- + PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [[CVPR 2024]]()
 + Prompt-enhanced Multiple Instance Learning for Weakly Supervised Anomaly Detection [[CVPR 2024]]()
-+ Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
 + Looking 3D: Anomaly Detection with 2D-3D Alignment [[CVPR 2024]]() -->
 
 ## ICLR 2024
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
-+ MuSc: Zero-Shot Anomaly Classification and Segmentation by Mutual Scoring of the Unlabeled Images[[ICLR 2024]](https://openreview.net/forum?id=AHgc5SMdtd)[[code]](https://github.com/xrli-U/MuSc)
++ MuSc: Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images[[ICLR 2024]](https://openreview.net/forum?id=AHgc5SMdtd)[[code]](https://github.com/xrli-U/MuSc)
 
 
 ## AAAI 2024
@@ -513,7 +513,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + PromptAD: Zero-shot Anomaly Detection using Text Prompts [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Li_PromptAD_Zero-Shot_Anomaly_Detection_Using_Text_Prompts_WACV_2024_paper.pdf)
  + High-Fidelity Zero-Shot Texture Anomaly Localization Using Feature Correspondence Analysis [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/html/Ardelean_High-Fidelity_Zero-Shot_Texture_Anomaly_Localization_Using_Feature_Correspondence_Analysis_WACV_2024_paper.html)
  + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
- + MuSc: Zero-Shot Anomaly Classification and Segmentation by Mutual Scoring of the Unlabeled Images[[ICLR 2024]](https://openreview.net/forum?id=AHgc5SMdtd)[[code]](https://github.com/xrli-U/MuSc)
+ + MuSc: Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images[[ICLR 2024]](https://openreview.net/forum?id=AHgc5SMdtd)[[code]](https://github.com/xrli-U/MuSc)
  + ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [[2023]](https://arxiv.org/pdf/2401.12665)
  + APRIL-GAN: A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD [[2023]](https://arxiv.org/abs/2305.17382)
  + Model Selection of Zero-shot Anomaly Detectors in the Absence of Labeled Validation Data [[2024]](https://arxiv.org/abs/2310.10461)
@@ -525,6 +525,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Investigating the Semantic Robustness of CLIP-based Zero-Shot Anomaly Segmentation [[2024]](https://arxiv.org/abs/2405.07969)
  + SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection [[2024]](https://arxiv.org/abs/2406.00625)
  + VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation [[ECCV 2024]](https://arxiv.org/abs/2407.12276)[[code]](https://github.com/xiaozhen228/VCP-CLIP)
+ + AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.15795)[[code]](https://github.com/caoyunkang/AdaCLIP)
 
 
 ## 3.2 Noisy AD
@@ -620,6 +621,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2405.14325)
  + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
  + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
+ + Learning Multi-view Anomaly Detection [[2024]](https://arxiv.org/abs/2407.11935)
  
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
