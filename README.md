@@ -65,6 +65,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
 + Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2403.13349)[[code]](https://github.com/xcyao00/HGAD)
 + TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2311.09999)[[code]](https://github.com/MaticFuc/ECCV_TransFusion)
++ Continuous Memory Representation for Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2402.18293)[[homepage]](https://tae-mo.github.io/crad/)[[code]](https://github.com/tae-mo/CRAD)
 
 ## ICASSP 2024
 + Implicit Foreground-Guided Network for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446952)
@@ -84,12 +85,13 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Real-IAD: A Real-World Multi-view Dataset for Benchmarking Versatile Industrial Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2403.12580)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection_Real-IAD)[[data]](https://realiad4ad.github.io/Real-IAD/)
 + Long-Tailed Anomaly Detection with Learnable Class Names [[CVPR 2024]](https://arxiv.org/abs/2403.20236)[[data split]](https://zenodo.org/records/10854201)
 + PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2404.05231)[[code]](https://github.com/FuNz-0/PromptAD)
-+ Supervised Anomaly Detection for Complex Industrial Images [[CVPR 2024 comming]]()
-+ CVPRW: VAND 2.0: Visual Anomaly and Novelty Detection - 2nd Edition [[Challenge and Call for Papers]](https://sites.google.com/view/vand-2-0-cvpr-2024/home)
++ Supervised Anomaly Detection for Complex Industrial Images [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/html/Baitieva_Supervised_Anomaly_Detection_for_Complex_Industrial_Images_CVPR_2024_paper.html)[[code]](https://github.com/abc-125/segad)
 + Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection [[CVPR 2024]](https://arxiv.org/abs/2310.12790)[[code]](https://github.com/mala-lab/AHL)
-<!-- + PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection [[CVPR 2024]]()
-+ Prompt-enhanced Multiple Instance Learning for Weakly Supervised Anomaly Detection [[CVPR 2024]]()
-+ Looking 3D: Anomaly Detection with 2D-3D Alignment [[CVPR 2024]]() -->
++ Prompt-enhanced Multiple Instance Learning for Weakly Supervised Anomaly Detection [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.html)[[code]](https://github.
+com/Junxi-Chen/PE-MIL)
++ Looking 3D: Anomaly Detection with 2D-3D Alignment [[CVPR 2024]](https://openaccess.thecvf.com/content/CVPR2024/html/Bhunia_Looking_3D_Anomaly_Detection_with_2D-3D_Alignment_CVPR_2024_paper.html)[[homepage]](https://groups.inf.ed.ac.uk/vico/research/Looking3D)[[code]](https://github.com/VICO-UoE/Looking3D)
++ CVPRW: VAND 2.0: Visual Anomaly and Novelty Detection - 2nd Edition [[Challenge and Call for Papers]](https://sites.google.com/view/vand-2-0-cvpr-2024/home)
++ Divide and Conquer: High-Resolution Industrial Anomaly Detection via Memory Efficient Tiled Ensemble [[CVPR 24 Visual Anomaly Detection Workshop]](https://arxiv.org/abs/2403.04932)[[homepage]](https://summerofcode.withgoogle.com/archive/2023/projects/WUSjdxGl)
 
 ## ICLR 2024
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
@@ -117,6 +119,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + High-Fidelity Zero-Shot Texture Anomaly Localization Using Feature Correspondence Analysis [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/html/Ardelean_High-Fidelity_Zero-Shot_Texture_Anomaly_Localization_Using_Feature_Correspondence_Analysis_WACV_2024_paper.html)
 + Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Zavrtanik_Cheating_Depth_Enhancing_3D_Surface_Anomaly_Detection_via_Depth_Simulation_WACV_2024_paper.pdf)[[code]](https://github.com/VitjanZ/3DSR)
 
+## ACM MM 2024
++ FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization [[ACM MM 2024]](https://arxiv.org/abs/2404.13671)[[code]](https://github.com/CASIA-IVA-Lab/FiLo)
 
 ## NeurIPS 2023
 + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://openreview.net/pdf?id=zGthDp4yYe)[[code]](https://github.com/M-3LAB/Real3D-AD)[[中文]](https://blog.csdn.net/m0_63828250/article/details/136667168)
@@ -181,7 +185,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Segment Anything in Defect Detection [[2023]](https://arxiv.org/abs/2311.10245)
 + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28153)[[code]](https://github.com/shirowalker/UCAD)
 + ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [[2023]](https://arxiv.org/pdf/2401.12665)
-+ A SAM-guided Two-stream Lightweight Model for Anomaly Detection [[2024]](https://arxiv.org/abs/2402.19145)
++ A SAM-guided Two-stream Lightweight Model for Anomaly Detection [[2024]](https://arxiv.org/abs/2402.19145)[[code]](https://github.com/StitchKoala/STLM)
 
 ## ICLR 2023
 + Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore [[ICLR 2023]](https://openreview.net/pdf?id=xzmqxHdZAwO)
@@ -210,7 +214,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection [[TIP2024]](http://arxiv.org/abs/2402.18998)
 + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
 + Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection [[2024]](https://arxiv.org/abs/2403.11561)
-+ RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[2024]](https://arxiv.org/abs/2406.07176)
++ RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[CASE 2024]](https://arxiv.org/abs/2406.07176)[[github page]](https://github.com/hustCYQ/RAD-dataset)
 
 ## Medical (related)
 + Towards Universal Unsupervised Anomaly Detection in Medical Imaging [[2024]](http://arxiv.org/pdf/2401.10637v1)
@@ -243,7 +247,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[2024]](https://arxiv.org/pdf/2401.16402.pdf)
 + AUPIMO: Redefining Visual Anomaly Detection Benchmarks with High Speed and Low Tolerance [[2024]](https://arxiv.org/abs/2401.01984)
 + Explainable Anomaly Detection in Images and Videos: A Survey [[2024]](https://arxiv.org/pdf/2302.06670)[[repo]](https://github.com/wyzjack/Awesome-XAD)
-+ RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[2024]](https://arxiv.org/abs/2406.07176)
++ RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[CASE 2024]](https://arxiv.org/abs/2406.07176)[[github page]](https://github.com/hustCYQ/RAD-dataset)
 
 # 2 Unsupervised AD
 
@@ -500,6 +504,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks [[CVPRW 2023]](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf)[[code]](https://github.com/niamhbelton/FewSOME)
  + AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2 [[2024]](https://arxiv.org/abs/2405.14529)
  + Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
+ + Few-Shot Anomaly Detection via Category-Agnostic Registration Learning [[2024]](https://arxiv.org/abs/2406.08810)[[code]](https://github.com/Haoyan-Guan/CAReg)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
