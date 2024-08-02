@@ -65,6 +65,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
 + Hierarchical Gaussian Mixture Normalizing Flow Modeling for Unified Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2403.13349)[[code]](https://github.com/xcyao00/HGAD)
 + TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2311.09999)[[code]](https://github.com/MaticFuc/ECCV_TransFusion)
++ Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]]()
 
 ## ICASSP 2024
 + Implicit Foreground-Guided Network for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446952)
@@ -477,6 +478,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Dual Attention U-Net with Feature Infusion: Pushing the Boundaries of Multiclass Defect Segmentation [[2023]](https://arxiv.org/abs/2312.14053)[[code]](https://github.com/RashaAlshawi/Dual-Attention-U-Net-with-Feature-Infusion-Pushing-the-Boundaries-of-Multiclass-Defect-Segmentation)
 + MemoryMamba: Memory-Augmented State Space Model for Defect Recognition [[2024]](https://arxiv.org/abs/2405.03673)
 + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[code]](https://github.com/abc-125/segad)
++ Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
 
 # 3 Other Research Direction
 
@@ -498,6 +500,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Few-shot Online Anomaly Detection and Segmentation [[2024]](https://arxiv.org/abs/2403.18201)
  + FewSOME: One-Class Few Shot Anomaly Detection with Siamese Networks [[CVPRW 2023]](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Belton_FewSOME_One-Class_Few_Shot_Anomaly_Detection_With_Siamese_Networks_CVPRW_2023_paper.pdf)[[code]](https://github.com/niamhbelton/FewSOME)
  + AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2 [[2024]](https://arxiv.org/abs/2405.14529)
+ + Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
