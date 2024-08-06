@@ -572,6 +572,7 @@ com/Junxi-Chen/PE-MIL)
  + AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
  + Few-shot defect image generation via defect-aware feature manipulation [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
  + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
+ + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
  
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -633,7 +634,6 @@ com/Junxi-Chen/PE-MIL)
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
- + SLSG: Industrial Image Anomaly Detection by Learning Better Feature Embeddings and One-Class Classification [[2023]](https://arxiv.org/abs/2305.00398)
  + EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Batzner_EfficientAD_Accurate_Visual_Anomaly_Detection_at_Millisecond-Level_Latencies_WACV_2024_paper.pdf)
  + Contextual Affinity Distillation for Image Anomaly Detection [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Contextual_Affinity_Distillation_for_Image_Anomaly_Detection_WACV_2024_paper.pdf)
  + REB: Reducing Biases in Representation for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2308.12577)[[code]](https://github.com/ShuaiLYU/REB)
@@ -645,6 +645,7 @@ com/Junxi-Chen/PE-MIL)
  + AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
  + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[code]](https://github.com/abc-125/segad)
  + SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection [[2024]](https://arxiv.org/abs/2406.00625)
+ + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
 
 ## Other settings
 ### TTT binary segmentation
