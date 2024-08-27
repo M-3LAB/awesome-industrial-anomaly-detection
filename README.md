@@ -360,6 +360,7 @@ com/Junxi-Chen/PE-MIL)
  + Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2404.09654)
  + FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization [[2024]](https://arxiv.org/abs/2404.13671)
  + Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2405.04782)
+ + AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples [[2024]](https://arxiv.org/abs/2408.13516)[[code]](https://github.com/YoojLee/AnoPLe)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -407,6 +408,7 @@ com/Junxi-Chen/PE-MIL)
  + Dual-Constraint Autoencoder and Adaptive Weighted Similarity Spatial Attention for Unsupervised Anomaly Detection [[TII 2024]](https://ieeexplore.ieee.org/abstract/document/10504620)
  + Multi-feature Reconstruction Network using Crossed-mask Restoration for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2404.13273)
  + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
+ + Variational Autoencoder for Anomaly Detection: A Comparative Study [[2024]](https://arxiv.org/abs/2408.13561)[[code]](https://github.com/endtheme123/VAE-compare)
  
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[TIP 2023]](https://ieeexplore.ieee.org/abstract/document/10192551/)[[code]](https://github.com/zhangzjn/ocr-gan)
@@ -509,6 +511,7 @@ com/Junxi-Chen/PE-MIL)
  + AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2 [[2024]](https://arxiv.org/abs/2405.14529)
  + Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
  + Few-Shot Anomaly Detection via Category-Agnostic Registration Learning [[2024]](https://arxiv.org/abs/2406.08810)[[code]](https://github.com/Haoyan-Guan/CAReg)
+ + AnoPLe: Few-Shot Anomaly Detection via Bi-directional Prompt Learning with Only Normal Samples [[2024]](https://arxiv.org/abs/2408.13516)[[code]](https://github.com/YoojLee/AnoPLe)
 
 ### Zero-Shot AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
