@@ -736,6 +736,9 @@ Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.or
  + IPAD: Industrial Process Anomaly Detection Dataset [[2024]](https://arxiv.org/abs/2404.15033)[[data]](https://ljf1113.github.io/IPAD_VAD/)
  + MVTec-Caption: AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
  + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[data coming]](https://github.com/abc-125/segad)
+ + PeanutAD: A Real-World Dataset for Anomaly Detection in Agricultural Product Processing Line [[2024]]([https://arxiv.org/abs/2405.04953](https://ieeexplore.ieee.org/abstract/document/10634679))[[data]]([https://github.com/hujiecpp/MVTec-Caption](https://github.com/TCV0257/PeanutAD))
+ + The Woven Fabric Defect Detection (WFDD) dataset [[2024]](https://arxiv.org/abs/2407.09359)[[data]](https://github.com/cqylunlun/GLASS?tab=readme-ov-file#1wfdd-download-link)
+
 
 ## BibTex Citation
 
