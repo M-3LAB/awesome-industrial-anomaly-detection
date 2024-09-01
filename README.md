@@ -12,8 +12,48 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 [[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD)
 
-# SOTA methods with code
+## Table of Contents
+- [SOTA methods with code](#sota-methods-with-code)
+- [Recent research](#recent-research)
+  - [ECCV 2024](#eccv-2024)
+  - [ACM MM 2024](#acm-mm-2024)
+  - [ICASSP 2024](#icassp-2024)
+  - [CVPR 2024](#cvpr-2024)
+  - [ICLR 2024](#iclr-2024)
+  - [AAAI 2024](#aaai-2024)
+  - [WACV 2024](#wacv-2024)
+  - [NeurIPS 2023](#neurips-2023)
+  - [ICML 2023](#icml-2023)
+  - [ACM MM 2023](#acm-mm-2023)
+  - [ICCV 2023](#iccv-2023)
+  - [LLM related](#llm-related)
+  - [CVPR 2023](#cvpr-2023)
+  - [SAM segment anything](#sam-segment-anything)
+  - [ICLR 2023](#iclr-2023)
+  - [Others](#others)
+  - [Medical (related)](#medical-related)
+- [Paper Tree (Classification of representative methods)](#paper-tree-classification-of-representative-methods)
+- [Time Line](#time-line)
+- [Paper list for industrial image anomaly detection](#paper-list-for-industrial-image-anomaly-detection)
+- [Related Survey, Benchmark and Framework](#related-survey-benchmark-and-framework)
+- [2 Unsupervised AD](#2-unsupervised-ad)
+  - [2.1 Feature-Embedding-based Methods](#21-feature-embedding-based-methods)
+  - [2.2 Reconstruction-Based Methods](#22-reconstruction-based-methods)
+  - [2.3 Supervised AD](#23-supervised-ad)
+- [3 Other Research Direction](#3-other-research-direction)
+  - [3.1 Few-Shot AD](#31-few-shot-ad)
+  - [3.2 Noisy AD](#32-noisy-ad)
+  - [3.3 Anomaly Synthetic](#33-anomaly-synthetic)
+  - [3.4 RGBD AD](#34-rgbd-ad)
+  - [3.5 3D AD](#35-3d-ad)
+  - [3.6 Continual AD](#36-continual-ad)
+  - [3.7 Uniform/Multi-Class AD](#37-uniformmulti-class-ad)
+  - [3.8 Logical AD](#38-logical-ad)
+  - [Other settings](#other-settings)
+- [4 Dataset](#4-dataset)
 
+
+# SOTA methods with code
 
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -444,8 +484,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
 
-# 2.3 Supervised AD
-## More Normal samples With (Less Abnormal Samples or Weak Labels)
+## 2.3 Supervised AD
+### More Normal samples With (Less Abnormal Samples or Weak Labels)
 + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
 + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
 + Attention guided anomaly localization in images [[ECCV 2020]](http://arxiv.org/pdf/1911.08616)
@@ -462,7 +502,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
 + AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection [[ECCVW 2024]](https://arxiv.org/abs/2408.15113)
 
-## More Abnormal Samples
+### More Abnormal Samples
 + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [2022]
 + An effective framework of automated visual surface defect detection for metal parts [[2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9475966)
 + Interleaved Deep Artifacts-Aware Attention Mechanism for Concrete Structural Defect Classification [[TIP 2021]](https://eprints.keele.ac.uk/10031/1/TIP24Jul2021.pdf)
