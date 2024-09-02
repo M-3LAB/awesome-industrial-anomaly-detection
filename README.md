@@ -33,7 +33,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
   - [Others](#others)
   - [Medical (related)](#medical-related)
 - [Paper Tree (Classification of representative methods)](#paper-tree-classification-of-representative-methods)
-- [Time Line](#time-line)
+- [Time Line](#timeline)
 - [Paper list for industrial image anomaly detection](#paper-list-for-industrial-image-anomaly-detection)
 - [Related Survey, Benchmark and Framework](#related-survey-benchmark-and-framework)
 - [2 Unsupervised AD](#2-unsupervised-ad)
@@ -41,7 +41,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
   - [2.2 Reconstruction-Based Methods](#22-reconstruction-based-methods)
   - [2.3 Supervised AD](#23-supervised-ad)
 - [3 Other Research Direction](#3-other-research-direction)
-  - [3.1 Few-Shot AD](#31-few-shot-ad)
+  - [3.1 Zero/Few-Shot AD](#31-zerofew-shot-ad)
   - [3.2 Noisy AD](#32-noisy-ad)
   - [3.3 Anomaly Synthetic](#33-anomaly-synthetic)
   - [3.4 RGBD AD](#34-rgbd-ad)
@@ -265,9 +265,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Multi-Image Visual Question Answering for Unsupervised Anomaly Detection [[2024]](http://arxiv.org/abs/2404.07622v1)
 
 # Paper Tree (Classification of representative methods)
-![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
+![PaperTree](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
 # Timeline
-![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/timeline.png)
+![Timeline](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/timeline.png)
 
 # Paper list for industrial image anomaly detection
 
@@ -362,7 +362,6 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ### 2.1.4 Memory Bank
  + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Hyun_ReConPatch_Contrastive_Patch_Representation_Learning_for_Industrial_Anomaly_Detection_WACV_2024_paper.pdf)
- <!-- + (eskin2002geometric) A geometric framework for unsupervised anomaly detection [[2002]](https://www.researchgate.net/publication/242620986_A_Geometric_Framework_for_Unsupervised_Anomaly_Detection_Detecting_Intrusions_in_Unlabeled_Data#read) -->
  + Sub-image anomaly detection with deep pyramid correspondences [[2020]](https://arxiv.org/pdf/2005.02357.pdf)
  + Semi-orthogonal embedding for efficient unsupervised anomaly segmentation [[2021]](https://arxiv.org/pdf/2105.14737.pdf)
  + Anomaly Detection Via Self-Organizing Map [[2021]](http://arxiv.org/pdf/2107.09903)
@@ -384,7 +383,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
  + A Reconstruction-Based Feature Adaptation for Anomaly Detection with Self-Supervised Multi-Scale Aggregation [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446766)
  + AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection [[ECCVW 2024]](https://arxiv.org/abs/2408.15113)
- 
+
  ### 2.1.5 Vison Language AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
  + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
@@ -448,7 +447,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Multi-feature Reconstruction Network using Crossed-mask Restoration for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2404.13273)
  + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
  + Variational Autoencoder for Anomaly Detection: A Comparative Study [[2024]](https://arxiv.org/abs/2408.13561)[[code]](https://github.com/endtheme123/VAE-compare)
- 
+
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[TIP 2023]](https://ieeexplore.ieee.org/abstract/document/10192551/)[[code]](https://github.com/zhangzjn/ocr-gan)
  + Learning semantic context from normal samples for unsupervised anomaly detection [[AAAI 2021]](https://ojs.aaai.org/index.php/AAAI/article/download/16420/16227)
@@ -531,7 +530,10 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 # 3 Other Research Direction
 
-## 3.1 Few-Shot AD
+## 3.1 Zero/Few-Shot AD
+
+### Few-Shot AD
+
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
  + Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)[[code]](https://github.com/MediaBrain-SJTU/RegAD)
  + Same same but differnet: Semi-supervised defect detection with normalizing flows [[(Distribution)WACV 2021]](http://arxiv.org/pdf/2008.12577)
@@ -621,7 +623,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
  + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
  + Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection [[ACM MM 2024]](https://arxiv.org/abs/2408.03888)
- 
+
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
  + Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [[2022]](https://arxiv.org/pdf/2203.05550.pdf)[[code]](https://github.com/eliahuhorwitz/3D-ADS)
@@ -680,7 +682,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
  + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
  + Learning Multi-view Anomaly Detection [[2024]](https://arxiv.org/abs/2407.11935)
- 
+
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
@@ -702,8 +704,6 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.org/abs/2404.03743)
 
 # 4 Dataset
-<!-- ![](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/datasets.png) -->
-
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
 |------------------------|-------|--------|----------|--------|-------------------|-----------------------|--------------|
 | [AITEX](https://www.cvmart.net/dataSets/detail/300)                  | 1     | 140    | 105      | 245    | Segmentation mask | RGB real         | 2019         |
