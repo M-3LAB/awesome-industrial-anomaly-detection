@@ -468,6 +468,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yao_Focus_the_Discrepancy_Intra-_and_Inter-Correlation_Learning_for_Image_Anomaly_ICCV_2023_paper.pdf)[[code]](https://github.com/xcyao00/FOD)
  + AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization [[TASE 2024]](https://ieeexplore.ieee.org/abstract/document/10445116)
  + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
+ + Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection[[2024]](https://arxiv.org/abs/2409.06285)[[code]](https://github.com/Nothingtolose9979/RAS)
 
 ### 2.2.4 Diffusion Model
  + AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[CVPR Workshop 2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
@@ -703,6 +704,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## Other settings
 ### TTT binary segmentation
 + Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.org/abs/2404.03743)
+### MoE with TTA
++ Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection[[2024]](https://arxiv.org/abs/2409.05611)[[code coming soon]]
+
 ### Adversary Attack
 + Adversarially Robust Industrial Anomaly Detection Through Diffusion Model [[2024]](https://arxiv.org/abs/2408.04839)
 
@@ -782,6 +786,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[data coming]](https://github.com/abc-125/segad)
  + PeanutAD: A Real-World Dataset for Anomaly Detection in Agricultural Product Processing Line [[2024]](https://ieeexplore.ieee.org/abstract/document/10634679)[[data]](https://github.com/TCV0257/PeanutAD)
  + The Woven Fabric Defect Detection (WFDD) dataset [[2024]](https://arxiv.org/abs/2407.09359)[[data]](https://github.com/cqylunlun/GLASS?tab=readme-ov-file#1wfdd-download-link)
+ + Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development[[2024]](https://arxiv.org/abs/2409.06367)[[The data link has not yet been released]]
 
 
 ## BibTex Citation
