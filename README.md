@@ -701,6 +701,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection [[2024]](https://arxiv.org/abs/2406.00625)
  + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
  + Unsupervised Component Segmentation for Logical Anomaly Detection [[2024]](https://arxiv.org/abs/2408.15628) [[code]](https://github.com/Tokichan/CSAD)
+ + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
 
 ## Other settings
 ### TTT binary segmentation
