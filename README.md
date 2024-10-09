@@ -820,6 +820,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development[[2024]](https://arxiv.org/abs/2409.06367)[[data]](https://huggingface.co/datasets/texture-ad/Texture-AD-Benchmark)
  + MulSen-AD: A Dataset and Benchmark for Multi-Sensor Anomaly Detection [[2024]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[data]](https://github.com/ZZZBBBZZZ/MulSen-AD)
  + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
+ + RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations [[2024]](https://arxiv.org/html/2410.00713v1)[[data]](https://github.com/kaichen-z/RAD)
 
 
 ## BibTex Citation
