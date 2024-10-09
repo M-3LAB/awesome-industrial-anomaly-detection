@@ -218,6 +218,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2404.09654)
 + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
 + FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge Queries [[ICCAD 2024]](https://arxiv.org/abs/2407.10810)
++ VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
 
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
@@ -582,6 +583,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.15795)[[code]](https://github.com/caoyunkang/AdaCLIP)
  + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)
  + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
+ + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
+
 
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
