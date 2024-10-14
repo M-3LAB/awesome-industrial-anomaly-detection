@@ -125,8 +125,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Defect Spectrum: A Granular Look of Large-Scale Defect Datasets with Rich Semantics [[ECCV 2024]](https://openreview.net/forum?id=RLhS1TrjK3)[[data]](https://github.com/EnVision-Research/Defect_Spectrum)
 + AD3: Introducing a score for Anomaly Detection Dataset Difficulty assessment using VIADUCT dataset [[ECCV 2024]](https://eccv.ecva.net/virtual/2024/poster/2287)
 + Learning Diffusion Models for Multi-View Anomaly Detection [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/1911)
-+ MoEAD: A Parameter-efficient Model for Multi-class Anomaly Detection [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2653)
-+ Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2289)
++ MoEAD: A Parameter-efficient Model for Multi-class Anomaly Detection [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2653)[[code]](https://github.com/TheStarOfMSY/MoEAD)
++ Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2289)[[code]](https://github.com/DeclanMcIntosh/Online_InReaCh)
 
 ## ACM MM 2024
 + FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization [[ACM MM 2024]](https://arxiv.org/abs/2404.13671)[[code]](https://github.com/CASIA-IVA-Lab/FiLo)
@@ -818,7 +818,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Catenary Insulator Defects Detection: A Dataset and an Unsupervised Baseline [[TIM 2024]](https://ieeexplore.ieee.org/abstract/document/10504848)[[code]](https://github.com/LightZH/Insulator-Defect-Detection)
  + IPAD: Industrial Process Anomaly Detection Dataset [[2024]](https://arxiv.org/abs/2404.15033)[[data]](https://ljf1113.github.io/IPAD_VAD/)
  + MVTec-Caption: AnomalyXFusion: Multi-modal Anomaly Synthesis with Diffusion [[2024]](https://arxiv.org/abs/2404.19444)[[data]](https://github.com/hujiecpp/MVTec-Caption)
- + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[data coming]](https://github.com/abc-125/segad)
+ + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[data]](https://github.com/abc-125/segad)
  + PeanutAD: A Real-World Dataset for Anomaly Detection in Agricultural Product Processing Line [[2024]](https://ieeexplore.ieee.org/abstract/document/10634679)[[data]](https://github.com/TCV0257/PeanutAD)
  + The Woven Fabric Defect Detection (WFDD) dataset [[2024]](https://arxiv.org/abs/2407.09359)[[data]](https://github.com/cqylunlun/GLASS?tab=readme-ov-file#1wfdd-download-link)
  + Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development[[2024]](https://arxiv.org/abs/2409.06367)[[data]](https://huggingface.co/datasets/texture-ad/Texture-AD-Benchmark)
