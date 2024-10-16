@@ -12,6 +12,13 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 [[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD)
 
+---
+
+🔥🔥🔥 Which MLLM performs best in industrial anomaly detection? Please refer to our recent research, which evaluates state-of-the-art models, including GPT-4o, Gemini-1.5, LLaVA-Next, and InternVL.
+
+[2024.10.16] We are proud to announce the launch of MMAD, the first-ever comprehensive benchmark for Multimodal Large Language Models in Industrial Anomaly Detection! 🌟 [[Paper]](https://arxiv.org/abs/2410.09453) [[Data]](https://github.com/jam-cc/MMAD)
+
+---
 ## Table of Contents
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
@@ -93,6 +100,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | ![Star](https://img.shields.io/github/stars/openvinotoolkit/anomalib.svg?style=social&label=Star) <br> [**Anomalib: A Deep Learning Library for Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/9897283/) <br> | ICIP | 2022 | [Github](https://github.com/openvinotoolkit/anomalib) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/M-3LAB/open-iad.svg?style=social&label=Star) <br> [**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**](https://arxiv.org/abs/2301.13359) <br> | TCYB | 2024 | [Github](https://github.com/M-3LAB/open-iad) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ader.svg?style=social&label=Star) <br> [**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**](http://arxiv.org/pdf/2406.03262v1) <br> | arxiv | 2024 | [Github](https://github.com/zhangzjn/ader) | Benchmark |
+| ![Star](https://img.shields.io/github/stars/jam-cc/MMAD.svg?style=social&label=Star) <br> [**MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**](https://arxiv.org/abs/2410.09453) <br> | arxiv | 2024 | [Github](https://github.com/jam-cc/MMAD) | Benchmark |
+
+
 
 + Anomaly Detection on MVTec AD [[paper with code]](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad)
 + Anomaly Detection on VisA [[paper with code]](https://paperswithcode.com/sota/anomaly-detection-on-visa)
@@ -826,6 +836,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
  + RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations [[2024]](https://arxiv.org/html/2410.00713v1)[[data]](https://github.com/kaichen-z/RAD)
  + AD3: Introducing a score for Anomaly Detection Dataset Difficulty assessment using VIADUCT dataset [[ECCV 2024]](https://eccv.ecva.net/virtual/2024/poster/2287)
+ + MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2410.09453) [[data]](https://github.com/jam-cc/MMAD)
+
 
 
 ## BibTex Citation
