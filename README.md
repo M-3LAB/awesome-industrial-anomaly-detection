@@ -12,6 +12,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 [[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD)
 
+🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers.
+
 ---
 
 🔥🔥🔥 Which MLLM performs best in industrial anomaly detection? Please refer to our recent research, which evaluates state-of-the-art models, including GPT-4o, Gemini-1.5, LLaVA-Next, and InternVL.
@@ -743,6 +745,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Unsupervised Component Segmentation for Logical Anomaly Detection [[2024]](https://arxiv.org/abs/2408.15628) [[code]](https://github.com/Tokichan/CSAD)
  + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
  + CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection [[BMVC 2024]](https://arxiv.org/abs/2408.15628)[[code]](https://github.com/Tokichan/CSAD)
+ + Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[[TMLR 2024]](https://arxiv.org/abs/2410.16255)[[code]](https://github.com/sukanyapatra1997/ULSAD-2024)
 
 ## Other settings
 ### TTT binary segmentation
