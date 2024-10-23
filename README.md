@@ -752,9 +752,10 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.org/abs/2404.03743)
 ### MoE with TTA
 + Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection[[2024]](https://arxiv.org/abs/2409.05611)[[code coming soon]]
-
 ### Adversary Attack
 + Adversarially Robust Industrial Anomaly Detection Through Diffusion Model [[2024]](https://arxiv.org/abs/2408.04839)
+### Defect Classification
++ AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[2024]](https://arxiv.org/abs/2410.14379)[[code coming soon]](https://github.com/HUST-SLOW/AnomalyNCD)
 
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
