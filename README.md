@@ -289,6 +289,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
 + Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection [[2024]](https://arxiv.org/abs/2403.11561)
 + RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[CASE 2024]](https://arxiv.org/abs/2406.07176)[[github page]](https://github.com/hustCYQ/RAD-dataset)
++ Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
 
 ## Medical (related)
 + Towards Universal Unsupervised Anomaly Detection in Medical Imaging [[2024]](http://arxiv.org/pdf/2401.10637v1)
@@ -692,7 +693,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
  + Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning [[ACM MM 2024]](https://arxiv.org/abs/2408.04604)[[code]](https://github.com/M-3LAB/Group3AD)
  + Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR 2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
- + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)
+ + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
  + MulSen-AD: A Dataset and Benchmark for Multi-Sensor Anomaly Detection [[2024]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)
  + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
 
