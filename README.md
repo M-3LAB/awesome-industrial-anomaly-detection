@@ -117,6 +117,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2404.06564)[[code]](https://lewandofskee.github.io/projects/MambaAD/)
 + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
 + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
++ ResAD: A Simple Framework for Class Generalizable Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.20047)[[code]](https://github.com/xcyao00/ResAD)
 
 ## ECCV 2024
 + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
@@ -326,6 +327,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[CASE 2024]](https://arxiv.org/abs/2406.07176)[[github page]](https://github.com/hustCYQ/RAD-dataset)
 + Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey [[2024]](https://arxiv.org/abs/2407.21794)[[github page]](https://github.com/AtsuMiyai/Awesome-OOD-VLM)
 + Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey [[2024]](https://arxiv.org/abs/2409.01980)[[github page]](https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection)
++ A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2410.21982)[[github page]](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD)
 
 # 2 Unsupervised AD
 
