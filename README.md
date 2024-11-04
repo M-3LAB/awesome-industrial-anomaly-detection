@@ -18,7 +18,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 🔥🔥🔥 Which MLLM performs best in industrial anomaly detection? Please refer to our recent research, which evaluates state-of-the-art models, including GPT-4o, Gemini-1.5, LLaVA-Next, and InternVL.
 
-[2024.10.16] We are proud to announce the launch of MMAD, the first-ever comprehensive benchmark for Multimodal Large Language Models in Industrial Anomaly Detection! 🌟 [[Paper]](https://arxiv.org/abs/2410.09453) [[Data]](https://github.com/jam-cc/MMAD)
+[2024.10.16] We are proud to announce the launch of MMAD, the first-ever comprehensive benchmark for Multimodal Large Language Models in Industrial Anomaly Detection! 🌟 [[Paper]](https://arxiv.org/abs/2410.09453) [[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
 
 ---
 ## Table of Contents
@@ -328,6 +328,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey [[2024]](https://arxiv.org/abs/2407.21794)[[github page]](https://github.com/AtsuMiyai/Awesome-OOD-VLM)
 + Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey [[2024]](https://arxiv.org/abs/2409.01980)[[github page]](https://github.com/rux001/Awesome-LLM-Anomaly-OOD-Detection)
 + A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2410.21982)[[github page]](https://github.com/Sunny5250/Awesome-Multi-Setting-UIAD)
++ OpenOOD: Benchmarking Generalized Out-of-Distribution Detection [[NeurIPS2022v1]](https://openreview.net/pdf?id=gT6j4_tskUt)[[2024v1.5]](https://arxiv.org/abs/2306.09301)[[github page]](https://github.com/Jingkang50/OpenOOD)
 
 # 2 Unsupervised AD
 
