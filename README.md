@@ -509,6 +509,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization [[TASE 2024]](https://ieeexplore.ieee.org/abstract/document/10445116)
  + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
  + Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection[[2024]](https://arxiv.org/abs/2409.06285)[[code]](https://github.com/Nothingtolose9979/RAS)
+ + Multi-scale feature reconstruction network for industrial anomaly detection [[KBS 2024]](https://www.sciencedirect.com/science/article/pii/S095070512401284X)[[code]](https://github.com/Ehteshamciitwah/MSFR)
 
 ### 2.2.4 Diffusion Model
  + AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[CVPR Workshop 2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
