@@ -766,7 +766,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
 |------------------------|-------|--------|----------|--------|-------------------|-----------------------|--------------|
 | [AITEX](https://www.cvmart.net/dataSets/detail/300)                  | 1     | 140    | 105      | 245    | Segmentation mask | RGB real         | 2019         |
-| [Anomaly-ShapeNet](https://arxiv.org/abs/2311.14897)[[data]](https://github.com/Chopper-233/Anomaly-ShapeNet)       | 40    | -      | -        | 1600   | Point-level mask  | Point-cloud synthetic | CVPR,2024    |
+| [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet)       | 40    | -      | -        | 1600   | Point-level mask  | Point-cloud synthetic | CVPR,2024    |
 | [BTAD](http://avires.dimi.uniud.it/papers/btad/btad.zip)                   | 3     | -      | -        | 2830   | Segmentation mask | RGB real         | 2021         |
 | [CID](https://github.com/LightZH/Insulator-Defect-Detection) | 1 | 4060 | 233 | 4293 | Segmentation mask | RGB real | 2024,TIM | 
 | [DAGM](https://www.kaggle.com/datasets/mhskjelvareid/dagm-2007-competition-dataset-optical-inspection)                   | 10    | -      | -        | 11500  | Segmentation mask | RGB synthetic     | 2007         |
@@ -779,7 +779,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 | [KolekrotSDD](https://www.vicos.si/resources/kolektorsdd/)            | 1     | 347    | 52       | 399    | Segmentation mask | RGB real         | JIM,2019     |
 | [KolekrotSDD2](https://www.vicos.si/resources/kolektorsdd2/)           | 1     | 2979   | 356      | 3335   | Segmentation mask | RGB real         | CiI,2021     |
 | [MIAD](https://miad-2022.github.io/)                   | 7     | 87500  | 17500    | 105000 | Segmentation mask | RGB synthetic     | 2023         |
-| [MPDD](https://vutbr-my.sharepoint.com/personal/xjezek16_vutbr_cz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxjezek16%5Fvutbr%5Fcz%2FDocuments%2FMPDD&ga=1)                   | 6     | 1064   | 282      | 1346   | Segmentation mask | RGB real         | ICUMT,2021   |
+| [MPDD](https://github.com/stepanje/MPDD)                   | 6     | 1064   | 282      | 1346   | Segmentation mask | RGB real         | ICUMT,2021   |
 | [MTD](https://github.com/abin24/Magnetic-tile-defect-datasets.) | 1 | 952 | 392 | 1344 | Segmentation mask | RGB real | CASE,2018 |
 | [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)               | 15    | 4096   | 1258     | 5354   | Segmentation mask | RGB real         | CVPR,2019    |
 | [MVTec 3D-AD](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)            | 10    | 2904   | 948      | 3852   | Segmentation mask | RGB real          | VISAPP,2021  |
@@ -812,7 +812,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + (MVTec AD)MVTec AD: A comprehensive real-world dataset for unsupervised anomaly detection [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/html/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.html) [[IJCV 2021]](https://link.springer.com/content/pdf/10.1007/s11263-020-01400-4.pdf) [[data]](https://www.mvtec.com/company/research/datasets/mvtec-ad)✨✨✨
  + (MVTec 3D-AD)The mvtec 3d-ad dataset for unsupervised 3d anomaly detection and localization [[VISAPP 2021]](https://arxiv.org/pdf/2112.09045.pdf) [[data]](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)✨✨
  + (MVTec LOCO-AD)Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf) [[data]](https://www.mvtec.com/company/research/datasets/mvtec-loco)✨✨✨
- + (MPDD)Deep learning-based defect detection of metal parts: evaluating current methods in complex conditions [[ICUMT 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9631567) [[data]](https://vutbr-my.sharepoint.com/personal/xjezek16_vutbr_cz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxjezek16%5Fvutbr%5Fcz%2FDocuments%2FMPDD&ga=1)
+ + (MPDD)Deep learning-based defect detection of metal parts: evaluating current methods in complex conditions [[ICUMT 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9631567) [[data]](https://github.com/stepanje/MPDD)
+ + (MPDD2)Anomaly detection for real-world industrial applications: benchmarking recent self-supervised and pretrained methods [[ICUMT 2022]](https://ieeexplore.ieee.org/abstract/document/9943437) [[data]](https://github.com/stepanje/MPDD2)
  + (BTAD)VT-ADL: A vision transformer network for image anomaly detection and localization [[2021]](http://arxiv.org/pdf/2104.10036) [[data]](http://avires.dimi.uniud.it/papers/btad/btad.zip)
  + (VisA)SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation [[ECCV 2022]](https://arxiv.org/pdf/2207.14315.pdf) [[data]](https://github.com/amazon-science/spot-diff)✨✨✨
  + (MTD)Surface defect saliency of magnetic tile [[2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8560423) [[data]](https://github.com/abin24/Magnetic-tile-defect-datasets.)
