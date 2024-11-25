@@ -378,6 +378,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features [[ECCV 2024]](https://arxiv.org/abs/2407.12427)[[code]](https://github.com/LucStrater/GeneralAD)
 + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
 + Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection [[ACM MM 2024]](https://arxiv.org/abs/2408.03888)
++ SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICIP 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
 
 ### 2.1.3 Distribution-Map
 + Anomaly Detection in Nanofibrous Materials by CNN-Based Self-Similarity [[Sensors 2018]](https://www.mdpi.com/1424-8220/18/1/209)
@@ -548,6 +549,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization [[TSMC 2024]](https://ieeexplore.ieee.org/abstract/document/10402554)
 + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
 + AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection [[ECCVW 2024]](https://arxiv.org/abs/2408.15113)
++ SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICIP 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
 
 ### More Abnormal Samples
 + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/document/9885240)
@@ -675,6 +677,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
  + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
  + Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection [[ACM MM 2024]](https://arxiv.org/abs/2408.03888)
+ + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICIP 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -813,6 +816,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + (Fabric dataset)Fabric inspection based on the Elo rating method [[PR 2016]](http://hub.hku.hk/bitstream/10722/229176/1/content.pdf)
  + (KolektorSDD)Segmentation-based deep-learning approach for surface-defect detection [[Journal of Intelligent Manufacturing]](http://arxiv.org/pdf/1903.08536) [[data]](https://www.vicos.si/resources/kolektorsdd/)
  + (KolektorSDD2)Mixed supervision for surface-defect detection: From weakly to fully supervised learning [[Computers in Industry 2021]](https://arxiv.org/pdf/2104.06064.pdf) [[data]](https://www.vicos.si/resources/kolektorsdd2/)
+ + SensumSODF-dataset: Detection of surface defects on pharmaceutical solid oral dosage forms with convolutional neural networks[[Neural Computing and Applications 2021]](https://link.springer.com/article/10.1007/s00521-021-06397-6)[[data]](https://www.sensum.eu/sensumsodf-dataset/)
  + (RSDD)A hierarchical extractor-based visual rail surface inspection system [[2017]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8063875)
  + (Eyecandies)The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization [[ACCV 2022]](https://arxiv.org/pdf/2210.04570.pdf) [[data]](https://eyecan-ai.github.io/eyecandies/)
  + (MVTec AD)MVTec AD: A comprehensive real-world dataset for unsupervised anomaly detection [[CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/html/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.html) [[IJCV 2021]](https://link.springer.com/content/pdf/10.1007/s11263-020-01400-4.pdf) [[data]](https://www.mvtec.com/company/research/datasets/mvtec-ad)✨✨✨
