@@ -113,6 +113,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
 + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
 + ResAD: A Simple Framework for Class Generalizable Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.20047)[[code]](https://github.com/xcyao00/ResAD)
+<!-- + MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://openreview.net/forum?id=4jegYnUMHb&referrer=%5Bthe%20profile%20of%20Bin-Bin%20Gao%5D(%2Fprofile%3Fid%3D~Bin-Bin_Gao1))[[code]](https://github.com/gaobb/MetaUAS)-->
 
 ## ECCV 2024
 + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
