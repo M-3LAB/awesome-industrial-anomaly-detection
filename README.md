@@ -136,7 +136,6 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
 + ResAD: A Simple Framework for Class Generalizable Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.20047)[[code]](https://github.com/xcyao00/ResAD)
 <!-- + MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://openreview.net/forum?id=4jegYnUMHb&referrer=%5Bthe%20profile%20of%20Bin-Bin%20Gao%5D(%2Fprofile%3Fid%3D~Bin-Bin_Gao1))[[code]](https://github.com/gaobb/MetaUAS)-->
-+ Hawk: Learning to Understand Open-World Video Anomalies [[NeurIPS 2024]](https://arxiv.org/pdf/2405.16886)[[code]](https://github.com/jqtangust/hawk)
 
 ## ECCV 2024
 + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
@@ -257,7 +256,6 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
 + FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge Queries [[ICCAD 2024]](https://arxiv.org/abs/2407.10810)
 + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
-+ Hawk: Learning to Understand Open-World Video Anomalies [[NeurIPS 2024]](https://arxiv.org/pdf/2405.16886)[[code]](https://github.com/jqtangust/hawk)
 <!--
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
