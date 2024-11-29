@@ -22,6 +22,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ---
 ## Table of Contents
+- [Awesome Industrial Anomaly Detection ](#awesome-industrial-anomaly-detection-)
+  - [Table of Contents](#table-of-contents)
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
@@ -39,15 +41,29 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
   - [Others](#others)
   - [Medical (related)](#medical-related)
 - [Paper Tree (Classification of representative methods)](#paper-tree-classification-of-representative-methods)
-- [Time Line](#timeline)
+- [Timeline](#timeline)
 - [Paper list for industrial image anomaly detection](#paper-list-for-industrial-image-anomaly-detection)
-- [Related Survey, Benchmark and Framework](#related-survey-benchmark-and-framework)
+- [Related Survey, Benchmark, and Framework](#related-survey-benchmark-and-framework)
 - [2 Unsupervised AD](#2-unsupervised-ad)
   - [2.1 Feature-Embedding-based Methods](#21-feature-embedding-based-methods)
+    - [2.1.1 Teacher-Student](#211-teacher-student)
+    - [2.1.2 One-Class Classification (OCC)](#212-one-class-classification-occ)
+    - [2.1.3 Distribution-Map](#213-distribution-map)
+    - [2.1.4 Memory Bank](#214-memory-bank)
+    - [2.1.5 Vison Language AD](#215-vison-language-ad)
   - [2.2 Reconstruction-Based Methods](#22-reconstruction-based-methods)
+    - [2.2.1 Autoencoder (AE)](#221-autoencoder-ae)
+    - [2.2.2 Generative Adversarial Networks (GANs)](#222-generative-adversarial-networks-gans)
+    - [2.2.3 Transformer](#223-transformer)
+    - [2.2.4 Diffusion Model](#224-diffusion-model)
+    - [2.2.5 Others](#225-others)
   - [2.3 Supervised AD](#23-supervised-ad)
+    - [More Normal samples With (Less Abnormal Samples or Weak Labels)](#more-normal-samples-with-less-abnormal-samples-or-weak-labels)
+    - [More Abnormal Samples](#more-abnormal-samples)
 - [3 Other Research Direction](#3-other-research-direction)
   - [3.1 Zero/Few-Shot AD](#31-zerofew-shot-ad)
+    - [Zero-Shot AD](#zero-shot-ad)
+    - [Few-Shot AD](#few-shot-ad)
   - [3.2 Noisy AD](#32-noisy-ad)
   - [3.3 Anomaly Synthetic](#33-anomaly-synthetic)
   - [3.4 RGBD AD](#34-rgbd-ad)
@@ -56,7 +72,13 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
   - [3.7 Uniform/Multi-Class AD](#37-uniformmulti-class-ad)
   - [3.8 Logical AD](#38-logical-ad)
   - [Other settings](#other-settings)
+    - [TTT binary segmentation](#ttt-binary-segmentation)
+    - [MoE with TTA](#moe-with-tta)
+    - [Adversary Attack](#adversary-attack)
+    - [Defect Classification](#defect-classification)
 - [4 Dataset](#4-dataset)
+  - [BibTex Citation](#bibtex-citation)
+  - [Star History](#star-history)
 
 
 # SOTA methods with code
@@ -114,6 +136,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
 + ResAD: A Simple Framework for Class Generalizable Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.20047)[[code]](https://github.com/xcyao00/ResAD)
 <!-- + MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://openreview.net/forum?id=4jegYnUMHb&referrer=%5Bthe%20profile%20of%20Bin-Bin%20Gao%5D(%2Fprofile%3Fid%3D~Bin-Bin_Gao1))[[code]](https://github.com/gaobb/MetaUAS)-->
++ Hawk: Learning to Understand Open-World Video Anomalies [[NeurIPS 2024]](https://arxiv.org/pdf/2405.16886)[[code]](https://github.com/jqtangust/hawk)
 
 ## ECCV 2024
 + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
@@ -234,7 +257,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
 + FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge Queries [[ICCAD 2024]](https://arxiv.org/abs/2407.10810)
 + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
-
++ Hawk: Learning to Understand Open-World Video Anomalies [[NeurIPS 2024]](https://arxiv.org/pdf/2405.16886)[[code]](https://github.com/jqtangust/hawk)
 <!--
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
