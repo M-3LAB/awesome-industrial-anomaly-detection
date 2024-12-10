@@ -157,6 +157,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Learning Diffusion Models for Multi-View Anomaly Detection [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/1911)
 + MoEAD: A Parameter-efficient Model for Multi-class Anomaly Detection [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2653)[[code]](https://github.com/TheStarOfMSY/MoEAD)
 + Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2289)[[code]](https://github.com/DeclanMcIntosh/Online_InReaCh)
++ Tackling Structural Hallucination in Image Translation with Local Diffusion [[ECCV 2024 oral]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10498.pdf)[[code]](https://github.com/edshkim98/LocalDiffusion-Hallucination)
 
 ## ACM MM 2024
 + FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization [[ACM MM 2024]](https://arxiv.org/abs/2404.13671)[[code]](https://github.com/CASIA-IVA-Lab/FiLo)
@@ -551,7 +552,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + LafitE: Latent Diffusion Model with Feature Editing for Unsupervised Multi-class Anomaly Detection [[2023]](https://arxiv.org/abs/2307.08059)
  + DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28690)[[code]](https://lewandofskee.github.io/projects/diad)
  + D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection [[2024]](https://arxiv.org/abs/2401.04463)
-+ GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
+ + GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
+ + Tackling Structural Hallucination in Image Translation with Local Diffusion [[ECCV 2024 oral]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10498.pdf)[[code]](https://github.com/edshkim98/LocalDiffusion-Hallucination)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
@@ -635,6 +637,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
  + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
  + GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2411.06071)
+ + Towards Zero-shot 3D Anomaly Localization [[WACV 2025]](https://arxiv.org/abs/2412.04304)
 
 
 ### Few-Shot AD
@@ -662,7 +665,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + FADE: Few-shot/zero-shot Anomaly Detection Engine using Large Vision-Language Model[[BMVC 2024]](https://arxiv.org/abs/2409.00556#)[[code]](https://github.com/BMVC-FADE/BMVC-FADE)
  + FOCT: Few-shot Industrial Anomaly Detection with Foreground-aware Online Conditional Transport [[ACM MM 2024]](https://dl.acm.org/doi/10.1145/3664647.3680771)
  + UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection [[2024]](https://arxiv.org/abs/2412.03342)[[code]](https://uni-vad.github.io/#)
-+ SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [[2024]](https://arxiv.org/abs/2407.03634)[[code]](https://github.com/huzongxiang/sowa)
+ + SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [[2024]](https://arxiv.org/abs/2407.03634)[[code]](https://github.com/huzongxiang/sowa)
+ + CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [[2024]](https://arxiv.org/abs/2412.03829)[[code]](https://github.com/Jay-zzcoder/clip-fsac-pp)
 
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
@@ -704,6 +708,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
  + Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection [[ACM MM 2024]](https://arxiv.org/abs/2408.03888)
  + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICIP 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
+ + AnomalyControl: Learning Cross-modal Semantic Features for Controllable Anomaly Synthesis [[2024]](https://arxiv.org/abs/2412.06510)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -724,6 +729,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[CVPR 2024]](https://arxiv.org/abs/2312.04521)
  + Cross-Modal Distillation in Industrial Anomaly Detection: Exploring Efficient Multi-Modal IAD [[2024]](https://arxiv.org/abs/2405.13571)[[code]](https://github.com/evenrose/CMDIAD)
  + M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising [[2024]](https://arxiv.org/abs/2406.02263)
+ + Towards Zero-shot 3D Anomaly Localization [[WACV 2025]](https://arxiv.org/abs/2412.04304)
 
 ## 3.5 3D AD
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[code]](https://github.com/M-3LAB/Real3D-AD)
