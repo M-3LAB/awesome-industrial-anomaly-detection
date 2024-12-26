@@ -27,6 +27,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [AAAI 2025](#aaai-2025)
   - [NeurIPS 2024](#neurips-2024)
   - [ECCV 2024](#eccv-2024)
   - [ACM MM 2024](#acm-mm-2024)
@@ -130,6 +131,13 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Anomaly Detection Datasets and Benchmarks [[paper with code]](https://paperswithcode.com/task/anomaly-detection)
 
 # Recent research
+
+## AAAI 2025
++ MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context [[AAAI 2025]](https://arxiv.org/abs/2412.16897)
++ Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[AAAI 2025]](https://arxiv.org/abs/2412.17297)
++ Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)
+
+
 ## NeurIPS 2024
 + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2404.06564)[[code]](https://lewandofskee.github.io/projects/MambaAD/)
 + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
@@ -257,6 +265,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
 + FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge Queries [[ICCAD 2024]](https://arxiv.org/abs/2407.10810)
 + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
++ Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
 <!--
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
@@ -577,6 +586,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
 + AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection [[ECCVW 2024]](https://arxiv.org/abs/2408.15113)
 + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICIP 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
++ VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[TII 2025]](https://arxiv.org/abs/2412.17263)
 
 ### More Abnormal Samples
 + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/document/9885240)
@@ -669,6 +679,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [[2024]](https://arxiv.org/abs/2407.03634)[[code]](https://github.com/huzongxiang/sowa)
  + CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [[2024]](https://arxiv.org/abs/2412.03829)[[code]](https://github.com/Jay-zzcoder/clip-fsac-pp)
  + KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
+ + Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)
 
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
@@ -743,6 +754,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
  + MulSen-AD: A Dataset and Benchmark for Multi-Sensor Anomaly Detection [[2024]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)
  + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
+ + Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[AAAI 2025]](https://arxiv.org/abs/2412.17297)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -805,6 +817,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Adversarially Robust Industrial Anomaly Detection Through Diffusion Model [[2024]](https://arxiv.org/abs/2408.04839)
 ### Defect Classification
 + AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[2024]](https://arxiv.org/abs/2410.14379)[[code coming soon]](https://github.com/HUST-SLOW/AnomalyNCD)
++ MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context [[AAAI 2025]](https://arxiv.org/abs/2412.16897)
 
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
@@ -891,7 +904,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + AD3: Introducing a score for Anomaly Detection Dataset Difficulty assessment using VIADUCT dataset [[ECCV 2024]](https://eccv.ecva.net/virtual/2024/poster/2287)
  + MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2410.09453) [[data]](https://github.com/jam-cc/MMAD)
  + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[2024]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
-
+ + Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
 
 
 ## BibTex Citation
