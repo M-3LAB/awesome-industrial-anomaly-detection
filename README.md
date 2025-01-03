@@ -135,8 +135,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ## AAAI 2025
 + MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context [[AAAI 2025]](https://arxiv.org/abs/2412.16897)
 + Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[AAAI 2025]](https://arxiv.org/abs/2412.17297)
-+ Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
-
++ KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
++ FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
++ CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [[AAAI 2025]](https://arxiv.org/abs/2412.12850)[[code]](https://github.com/Faustinaqq/CKAAD)
 
 ## NeurIPS 2024
 + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2404.06564)[[code]](https://lewandofskee.github.io/projects/MambaAD/)
@@ -537,6 +538,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Anoseg: Anomaly segmentation network using self-supervised learning [[2021]](https://arxiv.org/pdf/2110.03396.pdf)
  + A Surface Defect Detection Method Based on Positive Samples [[PRICAI 2018]](https://link.springer.com/chapter/10.1007/978-3-319-97310-4_54)
  + Few-shot defect image generation via defect-aware feature manipulation [[AAAI 2023]](https://arxiv.org/abs/2303.02389)[[code]](https://github.com/Ldhlwh/DFMGAN)
+ + CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [[AAAI 2025]](https://arxiv.org/abs/2412.12850)[[code]](https://github.com/Faustinaqq/CKAAD)
 
 ### 2.2.3 Transformer
  + VT-ADL: A vision transformer network for image anomaly detection and localization [[ISIE 2021]](http://arxiv.org/pdf/2104.10036)
@@ -570,7 +572,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
 
 ## 2.3 Supervised AD
-### More Normal samples With (Less Abnormal Samples or Weak Labels)
+### More Normal Samples With (Less Abnormal Samples or Weak Labels)
 + Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[ECCV 2020]](https://www.ri.cmu.edu/wp-content/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)
 + Explainable Deep One-Class Classification [[ICLR 2020]](https://arxiv.org/pdf/2007.01760.pdf)
 + Attention guided anomaly localization in images [[ECCV 2020]](http://arxiv.org/pdf/1911.08616)
@@ -679,8 +681,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection [[2024]](https://arxiv.org/abs/2412.03342)[[code]](https://uni-vad.github.io/#)
  + SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [[2024]](https://arxiv.org/abs/2407.03634)[[code]](https://github.com/huzongxiang/sowa)
  + CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [[2024]](https://arxiv.org/abs/2412.03829)[[code]](https://github.com/Jay-zzcoder/clip-fsac-pp)
- + KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
- + Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)
+ + KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
+
 
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
@@ -820,6 +822,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ### Defect Classification
 + AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[2024]](https://arxiv.org/abs/2410.14379)[[code coming soon]](https://github.com/HUST-SLOW/AnomalyNCD)
 + MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context [[AAAI 2025]](https://arxiv.org/abs/2412.16897)
+### Rubustness
++ FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
 
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
