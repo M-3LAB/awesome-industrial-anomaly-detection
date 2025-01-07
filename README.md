@@ -138,6 +138,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
 + FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
 + CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [[AAAI 2025]](https://arxiv.org/abs/2412.12850)[[code]](https://github.com/Faustinaqq/CKAAD)
++ CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2501.00346)[[code]](https://github.com/cvddl/CNC)
 
 ## NeurIPS 2024
 + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2404.06564)[[code]](https://lewandofskee.github.io/projects/MambaAD/)
@@ -589,7 +590,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
 + AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection [[ECCVW 2024]](https://arxiv.org/abs/2408.15113)
 + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICIP 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
-+ VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[TII 2025]](https://arxiv.org/abs/2412.17263)
++ VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[TII 2025]](https://arxiv.org/abs/2412.17263)[[code]](https://github.com/caoyunkang/VarAD)
 
 ### More Abnormal Samples
 + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/document/9885240)
@@ -693,6 +694,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NeurIPS 2022]](https://openreview.net/pdf?id=pIYYJflkhZ)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
  + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
  + M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising [[2024]](https://arxiv.org/abs/2406.02263)
+ + SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [[2024]](https://arxiv.org/abs/2412.20870)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
 
 ## 3.3 Anomaly Synthetic
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
@@ -811,6 +813,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
  + CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection [[BMVC 2024]](https://arxiv.org/abs/2408.15628)[[code]](https://github.com/Tokichan/CSAD)
  + Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[[TMLR 2024]](https://arxiv.org/abs/2410.16255)[[code]](https://github.com/sukanyapatra1997/ULSAD-2024)
+ + LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction [[2025]](https://arxiv.org/abs/2501.01767)[[code]](https://jasonjin34.github.io/logicad.github.io)
 
 ## Other settings
 ### TTT binary segmentation
