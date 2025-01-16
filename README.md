@@ -331,6 +331,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection [[2024]](https://arxiv.org/abs/2403.11561)
 + RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection [[CASE 2024]](https://arxiv.org/abs/2406.07176)[[github page]](https://github.com/hustCYQ/RAD-dataset)
 + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
++ FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [[WACV 2025]](https://arxiv.org/abs/2411.16110)[[code]](https://github.com/HY-Vision-Lab/FUNAD)
 
 ## Medical (related)
 + Towards Universal Unsupervised Anomaly Detection in Medical Imaging [[2024]](http://arxiv.org/pdf/2401.10637v1)
@@ -697,7 +698,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NeurIPS 2022]](https://openreview.net/pdf?id=pIYYJflkhZ)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
  + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
  + M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising [[2024]](https://arxiv.org/abs/2406.02263)
- + SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [[2024]](https://arxiv.org/abs/2412.20870)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
+ + SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [[PR 2025]](https://arxiv.org/abs/2412.20870)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
+ + FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [[WACV 2025]](https://arxiv.org/abs/2411.16110)[[code]](https://github.com/HY-Vision-Lab/FUNAD)
 
 ## 3.3 Anomaly Synthetic
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
