@@ -20,6 +20,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 [2024.10.16] We are proud to announce the launch of MMAD, the first-ever comprehensive benchmark for Multimodal Large Language Models in Industrial Anomaly Detection! 🌟 [[Paper]](https://arxiv.org/abs/2410.09453) [[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
 
+[2025.01.28] MMAD has been accepted by ICLR. We have updated much content, including human evaluations, additional evaluation metrics, and more examples. 
+
 ---
 ## Table of Contents
 - [Awesome Industrial Anomaly Detection ](#awesome-industrial-anomaly-detection-)
@@ -131,6 +133,14 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Anomaly Detection Datasets and Benchmarks [[paper with code]](https://paperswithcode.com/task/anomaly-detection)
 
 # Recent research
+
+## ICLR 2025
++ MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
++ One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning [[ICLR 2025]](https://openreview.net/forum?id=Zzs3JwknAY) 
++ Language-Assisted Feature Transformation for Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=2p03KljxE9)
++ SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICLR 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
++ Adversarially Robust Anomaly Detection through Spurious Negative Pair Mitigation [[ICLR 2025]](https://openreview.net/forum?id=t8fu5m8R5m)
+
 
 ## AAAI 2025
 + MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context [[AAAI 2025]](https://arxiv.org/abs/2412.16897)
@@ -271,6 +281,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge Queries [[ICCAD 2024]](https://arxiv.org/abs/2407.10810)
 + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
 + Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
++ MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
+
 <!--
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
@@ -687,8 +699,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection [[2024]](https://arxiv.org/abs/2407.03634)[[code]](https://github.com/huzongxiang/sowa)
  + CLIP-FSAC++: Few-Shot Anomaly Classification with Anomaly Descriptor Based on CLIP [[2024]](https://arxiv.org/abs/2412.03829)[[code]](https://github.com/Jay-zzcoder/clip-fsac-pp)
  + KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
-
-
+ + One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning [[ICLR 2025]](https://openreview.net/forum?id=Zzs3JwknAY) 
+ + SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICLR 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
+  
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
  + Self-Supervise, Refine, Repeat: Improving Unsupervised Anomaly Detection [[TMLR 2021]](https://arxiv.org/pdf/2106.06115.pdf)
@@ -828,6 +841,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection[[2024]](https://arxiv.org/abs/2409.05611)[[code coming soon]]
 ### Adversary Attack
 + Adversarially Robust Industrial Anomaly Detection Through Diffusion Model [[2024]](https://arxiv.org/abs/2408.04839)
++ Adversarially Robust Anomaly Detection through Spurious Negative Pair Mitigation [[ICLR 2025]](https://openreview.net/forum?id=t8fu5m8R5m)
 ### Defect Classification
 + AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[2024]](https://arxiv.org/abs/2410.14379)[[code coming soon]](https://github.com/HUST-SLOW/AnomalyNCD)
 + MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context [[AAAI 2025]](https://arxiv.org/abs/2412.16897)
