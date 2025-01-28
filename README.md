@@ -29,6 +29,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [ICLR 2025](#iclr-2025)
   - [AAAI 2025](#aaai-2025)
   - [NeurIPS 2024](#neurips-2024)
   - [ECCV 2024](#eccv-2024)
@@ -282,7 +283,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
 + Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
-
++ Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection? [[2025]](https://arxiv.org/abs/2501.15795)
 <!--
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
