@@ -16,11 +16,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ---
 
-🔥🔥🔥 Which MLLM performs best in industrial anomaly detection? Please refer to our recent research, which evaluates state-of-the-art models, including GPT-4o, Gemini-1.5, LLaVA-Next, and InternVL.
-
-[2024.10.16] We are proud to announce the launch of MMAD, the first-ever comprehensive benchmark for Multimodal Large Language Models in Industrial Anomaly Detection! 🌟 [[Paper]](https://arxiv.org/abs/2410.09453) [[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
-
-[2025.01.28] MMAD has been accepted by ICLR. We have updated much content, including human evaluations, additional evaluation metrics, and more examples. 
+🔥🔥🔥 We discuss different types of anomaly synthesis methods in detail, welcome to make comments. [[awesome-anomaly-synthesis]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
 
 ---
 ## Table of Contents
@@ -718,7 +714,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [[PR 2025]](https://arxiv.org/abs/2412.20870)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
  + FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [[WACV 2025]](https://arxiv.org/abs/2411.16110)[[code]](https://github.com/HY-Vision-Lab/FUNAD)
 
-## 3.3 Anomaly Synthetic
+## 3.3 Anomaly Synthetic [[awesome-anomaly-synthesis]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
  + Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[(Reconstruction AE)ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
  + DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
