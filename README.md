@@ -148,7 +148,8 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2501.00346)[[code]](https://github.com/cvddl/CNC)
 + Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)
 + Unlocking the Potential of Reverse Distillation for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.07579)[[code]](https://github.com/hito2448/URD)
-+ Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning [[AAAI 2025]](https://arxiv.org/abs/2411.17217) [[code]](https://github.com/THU-MIG/SAM-SPT)
++ Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning [[AAAI 2025]](https://arxiv.org/abs/2411.17217)[[code]](https://github.com/THU-MIG/SAM-SPT)
++ 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[code]](https://github.com/EnquanYang2022/3CAD)
 
 ## NeurIPS 2024
 + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2404.06564)[[code]](https://lewandofskee.github.io/projects/MambaAD/)
@@ -851,6 +852,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
 |------------------------|-------|--------|----------|--------|-------------------|-----------------------|--------------|
+| [3CAD](https://github.com/EnquanYang2022/3CAD)                  | 8     | 5084    | 11462      | 16546    | Segmentation mask | RGB real         | AAAI, 2025         |
 | [AITEX](https://www.cvmart.net/dataSets/detail/300)                  | 1     | 140    | 105      | 245    | Segmentation mask | RGB real         | 2019         |
 | [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet)       | 40    | -      | -        | 1600   | Point-level mask  | Point-cloud synthetic | CVPR,2024    |
 | [BTAD](http://avires.dimi.uniud.it/papers/btad/btad.zip)                   | 3     | -      | -        | 2830   | Segmentation mask | RGB real         | 2021         |
@@ -934,6 +936,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2410.09453) [[data]](https://github.com/jam-cc/MMAD)
  + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[2024]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
  + Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
+ + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[data]](https://github.com/EnquanYang2022/3CAD)
 
 
 ## BibTex Citation
