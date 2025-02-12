@@ -499,6 +499,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2411.06071)
  + UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection [[2024]](https://arxiv.org/abs/2412.03342)[[code]](https://uni-vad.github.io/#)
  + One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection [[NeurIPS 2024]](https://openreview.net/pdf?id=tIzW3l2uaN)
+ + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -669,6 +670,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection [[2024]](https://arxiv.org/abs/2409.20146)
  + GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2411.06071)
  + Towards Zero-shot 3D Anomaly Localization [[WACV 2025]](https://arxiv.org/abs/2412.04304)
+ + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
 
 
 ### Few-Shot AD
@@ -839,7 +841,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 ### TTT binary segmentation
 + Test Time Training for Industrial Anomaly Segmentation [[2024]](https://arxiv.org/abs/2404.03743)
 ### MoE with TTA
-+ Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection[[2024]](https://arxiv.org/abs/2409.05611)[[code coming soon]]
++ Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection[[2024]](https://arxiv.org/abs/2409.05611)[[code coming soon]]()
 ### Adversary Attack
 + Adversarially Robust Industrial Anomaly Detection Through Diffusion Model [[2024]](https://arxiv.org/abs/2408.04839)
 + Adversarially Robust Anomaly Detection through Spurious Negative Pair Mitigation [[ICLR 2025]](https://openreview.net/forum?id=t8fu5m8R5m)
@@ -937,6 +939,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[2024]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
  + Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
  + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[data]](https://github.com/EnquanYang2022/3CAD)
+ + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[data]](https://xujiacong.github.io/Anomaly-OV/)
 
 
 ## BibTex Citation
