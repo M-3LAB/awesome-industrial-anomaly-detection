@@ -854,7 +854,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
 |------------------------|-------|--------|----------|--------|-------------------|-----------------------|--------------|
-| [3CAD](https://github.com/EnquanYang2022/3CAD)                  | 8     | 15577    | 11462      | 16546    | Segmentation mask | RGB real         | AAAI, 2025         |
+| [3CAD](https://github.com/EnquanYang2022/3CAD)                  | 8     | 15577    | 11462      | 27039    | Segmentation mask | RGB real         | AAAI, 2025         |
 | [AITEX](https://www.cvmart.net/dataSets/detail/300)                  | 1     | 140    | 105      | 245    | Segmentation mask | RGB real         | 2019         |
 | [Anomaly-ShapeNet](https://github.com/Chopper-233/Anomaly-ShapeNet)       | 40    | -      | -        | 1600   | Point-level mask  | Point-cloud synthetic | CVPR,2024    |
 | [BTAD](http://avires.dimi.uniud.it/papers/btad/btad.zip)                   | 3     | -      | -        | 2830   | Segmentation mask | RGB real         | 2021         |
