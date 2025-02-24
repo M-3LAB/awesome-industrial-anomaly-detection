@@ -495,6 +495,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
  + UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection [[2024]](https://arxiv.org/abs/2412.03342)[[code]](https://uni-vad.github.io/#)
  + One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection [[NeurIPS 2024]](https://openreview.net/pdf?id=tIzW3l2uaN)
  + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
+ + SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [[2025]](https://arxiv.org/abs/2502.14884)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -630,6 +631,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 + MemoryMamba: Memory-Augmented State Space Model for Defect Recognition [[2024]](https://arxiv.org/abs/2405.03673)
 + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[code]](https://github.com/abc-125/segad)
 + Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
++ SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [[2025]](https://arxiv.org/abs/2502.14884)
 
 # 3 Other Research Direction
 
