@@ -16,7 +16,9 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ---
 
-🔥🔥🔥 We discuss different types of anomaly synthesis methods in detail, welcome to make comments. [[awesome-anomaly-synthesis]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
+🔥🔥🔥 We discuss different types of anomaly synthesis methods in detail, welcome to make comments. 
+
+A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.16412)[[github]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
 
 ---
 ## Table of Contents
