@@ -16,9 +16,13 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ---
 
-🔥🔥🔥 We discuss different types of anomaly synthesis methods in detail, welcome to make comments. 
+🔥🔥🔥 We discuss different types of anomaly synthesis methods in detail. Welcome to make comments. 
 
 A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.16412)[[github]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
+
+---
+
+🔥🔥🔥 How well are current MLLMs performing as industrial quality inspectors? Which MLLM performs best in industrial anomaly detection? Please refer to our recent research in ICLR. [[ICLR 2025]](https://arxiv.org/abs/2410.09453)[[Github]](https://github.com/jam-cc/MMAD)
 
 ---
 ## Table of Contents
@@ -33,12 +37,12 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
   - [NeurIPS 2024](#neurips-2024)
   - [ECCV 2024](#eccv-2024)
   - [ACM MM 2024](#acm-mm-2024)
-  - [ICASSP 2024](#icassp-2024)
+  <!--- - [ICASSP 2024](#icassp-2024)-->
   - [CVPR 2024](#cvpr-2024)
-  - [ICLR 2024](#iclr-2024)
+  <!--- - [ICLR 2024](#iclr-2024)
   - [AAAI 2024](#aaai-2024)
   - [WACV 2024](#wacv-2024)
-  - [NeurIPS 2023](#neurips-2023)
+  - [NeurIPS 2023](#neurips-2023)-->
   - [LLM related](#llm-related)
   - [SAM segment anything](#sam-segment-anything)
   - [Others](#others)
@@ -373,6 +377,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + OpenOOD: Benchmarking Generalized Out-of-Distribution Detection [[NeurIPS2022v1]](https://openreview.net/pdf?id=gT6j4_tskUt)[[2024v1.5]](https://arxiv.org/abs/2306.09301)[[github page]](https://github.com/Jingkang50/OpenOOD)
 + Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection [[CVIU 2025]](https://www.sciencedirect.com/science/article/abs/pii/S1077314225000311?via%3Dihub)[[code]](https://zhangzjn.github.io/projects/ViTAD/)
 + A Survey on Foundation-Model-Based Industrial Defect Detection [[2025]](https://arxiv.org/abs/2502.19106)
++ Foundation Models for Anomaly Detection: Vision and Challenges [[2025]](https://arxiv.org/abs/2502.06911)
 
 # 2 Unsupervised AD
 
