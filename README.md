@@ -502,6 +502,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection [[NeurIPS 2024]](https://openreview.net/pdf?id=tIzW3l2uaN)
  + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
  + SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [[2025]](https://arxiv.org/abs/2502.14884)
+ + PA-CLIP: Enhancing Zero-Shot Anomaly Detection through Pseudo-Anomaly Awareness [[2025]](https://arxiv.org/abs/2503.01292)
+ + Language-Assisted Feature Transformation for Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=2p03KljxE9)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -676,6 +678,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection [[2024]](https://arxiv.org/abs/2411.06071)
  + Towards Zero-shot 3D Anomaly Localization [[WACV 2025]](https://arxiv.org/abs/2412.04304)
  + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
+ + PA-CLIP: Enhancing Zero-Shot Anomaly Detection through Pseudo-Anomaly Awareness [[2025]](https://arxiv.org/abs/2503.01292)
 
 
 ### Few-Shot AD
@@ -720,6 +723,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + SoftPatch: Unsupervised Anomaly Detection with Noisy Data [[NeurIPS 2022]](https://openreview.net/pdf?id=pIYYJflkhZ)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
  + Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/McIntosh_Inter-Realization_Channels_Unsupervised_Anomaly_Detection_Beyond_One-Class_Classification_ICCV_2023_paper.pdf)[[code]](https://github.com/DeclanMcIntosh/InReaCh)
  + M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising [[2024]](https://arxiv.org/abs/2406.02263)
+ + Meta Learning-Driven Iterative Refinement for Robust Anomaly Detection in Industrial Inspection [[ECCVW 2024]](https://arxiv.org/abs/2503.01569)
  + SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [[PR 2025]](https://arxiv.org/abs/2412.20870)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
  + FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [[WACV 2025]](https://arxiv.org/abs/2411.16110)[[code]](https://github.com/HY-Vision-Lab/FUNAD)
 
@@ -793,6 +797,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
  + Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)
  + Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11307)
+ + Fence Theorem: Preprocessing is Dual-Objective Semantic Structure Isolator in 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2503.01100)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
