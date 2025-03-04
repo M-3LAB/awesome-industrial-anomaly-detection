@@ -140,6 +140,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 ## CVPR 2025
 + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
++ Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)
++ One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
 
 ## ICLR 2025
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
@@ -451,6 +453,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + FRAnomaly: flow-based rapid anomaly detection from images [[Applied Intelligence 2024]](https://link.springer.com/article/10.1007/s10489-024-05332-1)
 + Image alignment-based patch distribution framework for anomaly detection [[ICCVDM 2024]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13063/130630O/Image-alignment-based-patch-distribution-framework-for-anomaly-detection/10.1117/12.3021499.full)
 + MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2308.15300)[[code]](https://github.com/cool-xuan/msflow)
++ Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)
 
 ### 2.1.4 Memory Bank
  + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Hyun_ReConPatch_Contrastive_Patch_Representation_Learning_for_Industrial_Anomaly_Detection_WACV_2024_paper.pdf)
@@ -585,6 +588,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
  + Tackling Structural Hallucination in Image Translation with Local Diffusion [[ECCV 2024 oral]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10498.pdf)[[code]](https://github.com/edshkim98/LocalDiffusion-Hallucination)
  + HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection [[2025]](https://arxiv.org/abs/2502.19200)
+ + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
@@ -608,6 +612,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection [[ECCVW 2024]](https://arxiv.org/abs/2408.15113)
 + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
 + VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[TII 2025]](https://arxiv.org/abs/2412.17263)[[code]](https://github.com/caoyunkang/VarAD)
++ Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)
 
 ### More Abnormal Samples
 + Logit Inducing With Abnormality Capturing for Semi-Supervised Image Anomaly Detection [[2022]](https://ieeexplore.ieee.org/document/9885240)
@@ -792,8 +797,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
- + An Incremental Unified Framework for Small Defect Inspection [[2023]](https://arxiv.org/abs/2312.08917)[[code]](https://github.com/jqtangust/IUF)
+ + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
  + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28153)[[code]](https://github.com/shirowalker/UCAD)
+ + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
 
 ## 3.7 Uniform/Multi-Class AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
