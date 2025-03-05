@@ -142,7 +142,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)
 + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
-+ Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.02424)[[code]](https://github.com/luow23/INP-Former)
++ Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.02424)[[code coming soon]](https://github.com/luow23/INP-Former)
++ UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2412.03342)[[code coming soon]](https://uni-vad.github.io/#)
 
 ## ICLR 2025
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
