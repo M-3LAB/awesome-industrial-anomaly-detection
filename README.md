@@ -804,9 +804,10 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
- + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
  + Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28153)[[code]](https://github.com/shirowalker/UCAD)
+ + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
  + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
+ + Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2503.02691)[[code]](https://bitbucket.org/papers_vad_group/clad_paste/src/master/)
 
 ## 3.7 Uniform/Multi-Class AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
