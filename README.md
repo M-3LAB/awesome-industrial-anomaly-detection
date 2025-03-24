@@ -826,7 +826,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
  + Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR 2025]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)
  + PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.00320)[[code]](https://github.com/zqhang/PointAD)
- + Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)
+ + Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)[[code]](https://github.com/M-3LAB/Look-Inside-for-More)
  + Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11307)
  + Fence Theorem: Preprocessing is Dual-Objective Semantic Structure Isolator in 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2503.01100)
  + Odd-One-Out: Anomaly Detection by Comparing with Neighbors [[CVPR 2025]](https://arxiv.org/abs/2406.20099)
