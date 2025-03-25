@@ -153,7 +153,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[CVPR 2025]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
 + AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP [[CVPR 2025]](https://arxiv.org/pdf/2503.06661)[[code coming soon]](https://github.com/Mwxinnn/AA-CLIP)
 + AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[CVPR 2025]](https://arxiv.org/abs/2410.14379)[[code coming soon]](https://github.com/HUST-SLOW/AnomalyNCD)
-+ Towards Training-free Anomaly Detection with Vision and Language Foundation Models [[CVPR 2025]]()[[code]](https://github.com/zhang0jhon/LogSAD)
++ Towards Training-free Anomaly Detection with Vision and Language Foundation Models [[CVPR 2025]](https://arxiv.org/abs/2503.18325)[[code]](https://github.com/zhang0jhon/LogSAD)
 + TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection [[CVPR 2025]](https://jungyg.github.io/TailedCore_site/)[[code]](https://github.com/jungyg/TailedCore)
 + DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation [[CVPR 2025]](https://arxiv.org/abs/2408.13509)[[code]](https://github.com/yinyjin/DualAnoDiff)
 + PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2412.12617)
