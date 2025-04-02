@@ -188,7 +188,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
 + CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [[AAAI 2025]](https://arxiv.org/abs/2412.12850)[[code]](https://github.com/Faustinaqq/CKAAD)
 + CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2501.00346)[[code]](https://github.com/cvddl/CNC)
-+ Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)
++ Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)[[code]](https://github.com/M-3LAB/Look-Inside-for-More)
 + Unlocking the Potential of Reverse Distillation for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.07579)[[code]](https://github.com/hito2448/URD)
 + Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning [[AAAI 2025]](https://arxiv.org/abs/2411.17217)[[code]](https://github.com/THU-MIG/SAM-SPT)
 + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[code]](https://github.com/EnquanYang2022/3CAD)
@@ -412,6 +412,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection [[CVIU 2025]](https://www.sciencedirect.com/science/article/abs/pii/S1077314225000311?via%3Dihub)[[code]](https://zhangzjn.github.io/projects/ViTAD/)
 + A Survey on Foundation-Model-Based Industrial Defect Detection [[2025]](https://arxiv.org/abs/2502.19106)
 + Foundation Models for Anomaly Detection: Vision and Challenges [[2025]](https://arxiv.org/abs/2502.06911)
++ Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2503.23451)[[code]](https://github.com/abc-125/viad-benchmark)
 
 # 2 Unsupervised AD
 
@@ -437,6 +438,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Masked feature regeneration based asymmetric student–teacher network for anomaly detection [[Multimedia Tools and Applications 2024]](https://link.springer.com/article/10.1007/s11042-024-18512-5)
 + Feature-Constrained and Attention-Conditioned Distillation Learning for Visual Anomaly Detection [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10448432)
 + MiniMaxAD: A Lightweight Autoencoder for Feature-Rich Anomaly Detection [[2024]](https://arxiv.org/abs/2405.09933)
++ Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
@@ -794,6 +796,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Component-aware Unsupervised Logical Anomaly Generation for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11712)
  + "Stones from Other Hills can Polish Jade": Zero-shot Anomaly Image Synthesis via Cross-domain Anomaly Injection [[2025]](https://arxiv.org/abs/2501.15211)
  + Fully-Synthetic Training for Visual Quality Inspection in Automotive Production [[CIRP 2025]](https://arxiv.org/abs/2503.09354)
+ + Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
+ + Open-Set Fabric Defect Detection With Defect Generation and Transfer [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10909357)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
