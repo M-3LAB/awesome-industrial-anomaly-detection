@@ -381,6 +381,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Unsupervised Pathology Detection: A Deep Dive Into the State of the Art [[2023]](https://arxiv.org/abs/2303.00609)
 + Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images [[CVPR 2024]](https://arxiv.org/abs/2403.12570)
 + Multi-Image Visual Question Answering for Unsupervised Anomaly Detection [[2024]](http://arxiv.org/abs/2404.07622v1)
++ Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection [[ISBI 2025]](https://arxiv.org/abs/2411.07546v2)  
 
 # Paper Tree (Classification of representative methods)
 ![PaperTree](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
