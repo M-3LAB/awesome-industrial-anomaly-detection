@@ -582,11 +582,13 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Neural Network Training Strategy To Enhance Anomaly Detection Performance: A Perspective On Reconstruction Loss Amplification [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446942)
  + Patch-Wise Augmentation for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446994)
  + A Reconstruction-Based Feature Adaptation for Anomaly Detection with Self-Supervised Multi-Scale Aggregation [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446766)
+ + Neural Network Training Strategy To Enhance Anomaly Detection Performance: A Perspective On Reconstruction Loss Amplification [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446942)
  + Mixed-Attention Auto Encoder for Multi-Class Industrial Anomaly Detection [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446794)
  + Dual-Constraint Autoencoder and Adaptive Weighted Similarity Spatial Attention for Unsupervised Anomaly Detection [[TII 2024]](https://ieeexplore.ieee.org/abstract/document/10504620)
  + Multi-feature Reconstruction Network using Crossed-mask Restoration for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2404.13273)
  + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
  + Variational Autoencoder for Anomaly Detection: A Comparative Study [[2024]](https://arxiv.org/abs/2408.13561)[[code]](https://github.com/endtheme123/VAE-compare)
+ + Visual defect obfuscation based self-supervised anomaly detection [[2024]](https://www.nature.com/articles/s41598-024-69698-5)
  + Revitalizing Reconstruction Models for Multi-class Anomaly Detection via Class-Aware Contrastive Learning [[2024]](https://arxiv.org/abs/2412.04769)[[code]](https://github.com/LGC-AD/AD-LGC)
 
 ### 2.2.2 Generative Adversarial Networks (GANs)
