@@ -20,7 +20,7 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.16412)[[github]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
 
-🔥🔥🔥 MVTec AD 2 is coming [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)
+🔥🔥 MVTec AD 2 is coming [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)
 
 ---
 
@@ -143,16 +143,16 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ## CVPR 2025
 + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)[[code]](https://github.com/fuyunwang/DPDL)
-+ One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
++ One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)[[code]](https://github.com/FuNz-0/One-for-More)
 + Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.02424)[[code]](https://github.com/luow23/INP-Former)
-+ UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2412.03342)[[code coming soon]](https://uni-vad.github.io/#)
++ UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2412.03342)[[code]](https://uni-vad.github.io/#)
 + Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)[[code]](https://github.com/Chopper-233/Physics-AD)
-+ Odd-One-Out: Anomaly Detection by Comparing with Neighbors [[CVPR 2025]](https://arxiv.org/abs/2406.20099)
-+ UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [[CVPR 2025]](https://pangdatangtt.github.io/)[[code coming soon]](https://github.com/pangdatangtt/UniNet)
++ Odd-One-Out: Anomaly Detection by Comparing with Neighbors [[CVPR 2025]](https://arxiv.org/abs/2406.20099)[[code]](https://github.com/VICO-UoE/OddOneOutAD)
++ UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [[CVPR 2025]](https://pangdatangtt.github.io/)[[code]](https://github.com/pangdatangtt/UniNet)
 + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[CVPR 2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
 + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[CVPR 2025]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
 + AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP [[CVPR 2025]](https://arxiv.org/pdf/2503.06661)[[code coming soon]](https://github.com/Mwxinnn/AA-CLIP)
-+ AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[CVPR 2025]](https://arxiv.org/abs/2410.14379)[[code coming soon]](https://github.com/HUST-SLOW/AnomalyNCD)
++ AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[CVPR 2025]](https://arxiv.org/abs/2410.14379)[[code]](https://github.com/HUST-SLOW/AnomalyNCD)
 + Towards Training-free Anomaly Detection with Vision and Language Foundation Models [[CVPR 2025]](https://arxiv.org/abs/2503.18325)[[code]](https://github.com/zhang0jhon/LogSAD)
 + TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection [[CVPR 2025]](https://jungyg.github.io/TailedCore_site/)[[code]](https://github.com/jungyg/TailedCore)
 + DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation [[CVPR 2025]](https://arxiv.org/abs/2408.13509)[[code]](https://github.com/yinyjin/DualAnoDiff)
@@ -160,7 +160,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR 2025]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)
 + Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.10080)[[code coming soon]](https://github.com/xiaozhen228/Bayes-PFL)
 + DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection [[CVPR 2025]](https://arxiv.org/abs/2503.13985)
++ Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.19357)[[code]](https://github.com/farzad-bz/DeCo-Diff)
 + VAND 3.0: Visual Anomaly and Novelty Detection - 3rd Edition [[CVPR 2025W]](https://sites.google.com/view/vand30cvpr2025)
++ Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2407.04597)  
 
 <!-- 
 + A Unified Latent Schrödinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization
@@ -187,7 +189,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
 + CKAAD: Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning [[AAAI 2025]](https://arxiv.org/abs/2412.12850)[[code]](https://github.com/Faustinaqq/CKAAD)
 + CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2501.00346)[[code]](https://github.com/cvddl/CNC)
-+ Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)
++ Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)[[code]](https://github.com/M-3LAB/Look-Inside-for-More)
 + Unlocking the Potential of Reverse Distillation for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.07579)[[code]](https://github.com/hito2448/URD)
 + Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning [[AAAI 2025]](https://arxiv.org/abs/2411.17217)[[code]](https://github.com/THU-MIG/SAM-SPT)
 + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[code]](https://github.com/EnquanYang2022/3CAD)
@@ -379,6 +381,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Unsupervised Pathology Detection: A Deep Dive Into the State of the Art [[2023]](https://arxiv.org/abs/2303.00609)
 + Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images [[CVPR 2024]](https://arxiv.org/abs/2403.12570)
 + Multi-Image Visual Question Answering for Unsupervised Anomaly Detection [[2024]](http://arxiv.org/abs/2404.07622v1)
++ Contrastive Language Prompting to Ease False Positives in Medical Anomaly Detection [[ISBI 2025]](https://arxiv.org/abs/2411.07546v2)  
 
 # Paper Tree (Classification of representative methods)
 ![PaperTree](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/paper_tree.png)
@@ -411,6 +414,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection [[CVIU 2025]](https://www.sciencedirect.com/science/article/abs/pii/S1077314225000311?via%3Dihub)[[code]](https://zhangzjn.github.io/projects/ViTAD/)
 + A Survey on Foundation-Model-Based Industrial Defect Detection [[2025]](https://arxiv.org/abs/2502.19106)
 + Foundation Models for Anomaly Detection: Vision and Challenges [[2025]](https://arxiv.org/abs/2502.06911)
++ Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2503.23451)[[code]](https://github.com/abc-125/viad-benchmark)
 
 # 2 Unsupervised AD
 
@@ -436,6 +440,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Masked feature regeneration based asymmetric student–teacher network for anomaly detection [[Multimedia Tools and Applications 2024]](https://link.springer.com/article/10.1007/s11042-024-18512-5)
 + Feature-Constrained and Attention-Conditioned Distillation Learning for Visual Anomaly Detection [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10448432)
 + MiniMaxAD: A Lightweight Autoencoder for Feature-Rich Anomaly Detection [[2024]](https://arxiv.org/abs/2405.09933)
++ Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
@@ -577,11 +582,13 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Neural Network Training Strategy To Enhance Anomaly Detection Performance: A Perspective On Reconstruction Loss Amplification [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446942)
  + Patch-Wise Augmentation for Anomaly Detection and Localization [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446994)
  + A Reconstruction-Based Feature Adaptation for Anomaly Detection with Self-Supervised Multi-Scale Aggregation [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446766)
+ + Neural Network Training Strategy To Enhance Anomaly Detection Performance: A Perspective On Reconstruction Loss Amplification [[ICASSP 2024]](https://ieeexplore.ieee.org/abstract/document/10446942)
  + Mixed-Attention Auto Encoder for Multi-Class Industrial Anomaly Detection [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10446794)
  + Dual-Constraint Autoencoder and Adaptive Weighted Similarity Spatial Attention for Unsupervised Anomaly Detection [[TII 2024]](https://ieeexplore.ieee.org/abstract/document/10504620)
  + Multi-feature Reconstruction Network using Crossed-mask Restoration for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2404.13273)
  + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
  + Variational Autoencoder for Anomaly Detection: A Comparative Study [[2024]](https://arxiv.org/abs/2408.13561)[[code]](https://github.com/endtheme123/VAE-compare)
+ + Visual defect obfuscation based self-supervised anomaly detection [[2024]](https://www.nature.com/articles/s41598-024-69698-5)
  + Revitalizing Reconstruction Models for Multi-class Anomaly Detection via Class-Aware Contrastive Learning [[2024]](https://arxiv.org/abs/2412.04769)[[code]](https://github.com/LGC-AD/AD-LGC)
 
 ### 2.2.2 Generative Adversarial Networks (GANs)
@@ -793,6 +800,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Component-aware Unsupervised Logical Anomaly Generation for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11712)
  + "Stones from Other Hills can Polish Jade": Zero-shot Anomaly Image Synthesis via Cross-domain Anomaly Injection [[2025]](https://arxiv.org/abs/2501.15211)
  + Fully-Synthetic Training for Visual Quality Inspection in Automotive Production [[CIRP 2025]](https://arxiv.org/abs/2503.09354)
+ + Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
+ + Open-Set Fabric Defect Detection With Defect Generation and Transfer [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10909357)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -995,7 +1004,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[data]](https://github.com/EnquanYang2022/3CAD)
  + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[data]](https://xujiacong.github.io/Anomaly-OV/)
  + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
- + MVTec AD 2 [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)
+ + The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)
  + Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)
 
 ## BibTex Citation
