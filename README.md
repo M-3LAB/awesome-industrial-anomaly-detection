@@ -24,7 +24,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 ---
 
-🔥🔥🔥 How well are current MLLMs performing as industrial quality inspectors? Which MLLM performs best in industrial anomaly detection? Please refer to our recent research in ICLR. [[ICLR 2025]](https://arxiv.org/abs/2410.09453)[[Github]](https://github.com/jam-cc/MMAD)
+🔥🔥🔥 How well are current MLLMs performing as industrial quality inspectors? Which MLLM performs best in industrial anomaly detection? Please refer to our recent research. [[ICLR 2025]](https://arxiv.org/abs/2410.09453)[[Github]](https://github.com/jam-cc/MMAD)
 
 ---
 ## Table of Contents
@@ -313,7 +313,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 -->
 
-## LLM related
+## MLLM related
 + Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection [[2023]](https://arxiv.org/abs/2310.19070)[[code]](https://github.com/tzjtatata/Myriad)
 + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
 + The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[2023 Section 9.2]](https://arxiv.org/abs/2309.17421)
@@ -328,6 +328,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
 + Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection? [[2025]](https://arxiv.org/abs/2501.15795)
 + EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2503.14162v1)
++ AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2504.11914)
   
 <!--
 ## CVPR 2023
