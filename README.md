@@ -612,6 +612,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
  + Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection[[2024]](https://arxiv.org/abs/2409.06285)[[code]](https://github.com/Nothingtolose9979/RAS)
  + Multi-scale feature reconstruction network for industrial anomaly detection [[KBS 2024]](https://www.sciencedirect.com/science/article/pii/S095070512401284X)[[code]](https://github.com/Ehteshamciitwah/MSFR)
+ + Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics [[2025]](https://arxiv.org/html/2504.10021v1)
 
 ### 2.2.4 Diffusion Model
  + AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[CVPR Workshop 2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
@@ -717,6 +718,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
  + PA-CLIP: Enhancing Zero-Shot Anomaly Detection through Pseudo-Anomaly Awareness [[2025]](https://arxiv.org/abs/2503.01292)
  + EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2503.14162v1)
+ + Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [[2025]](https://arxiv.org/abs/2504.11055)[[code]](https://github.com/AlirezaSalehy/Crane)
 
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
