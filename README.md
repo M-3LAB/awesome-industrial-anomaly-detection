@@ -161,6 +161,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.10080)[[code coming soon]](https://github.com/xiaozhen228/Bayes-PFL)
 + DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection [[CVPR 2025]](https://arxiv.org/abs/2503.13985)
 + Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.19357)[[code]](https://github.com/farzad-bz/DeCo-Diff)
++ Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection[[CVPR 2025]](https://arxiv.org/abs/2405.14325)[[code]](https://github.com/guojiajeremy/Dinomaly)
 + VAND 3.0: Visual Anomaly and Novelty Detection - 3rd Edition [[CVPR 2025W]](https://sites.google.com/view/vand30cvpr2025)
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2407.04597)  
 
@@ -169,7 +170,6 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + DFM: Differentiable Feature Matching for Anomaly Detection
 + Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection
 + Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization
-+ Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection
 + PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies
 + Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection
 -->
@@ -873,7 +873,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Long-Tailed Anomaly Detection with Learnable Class Names [[CVPR 2024]](https://arxiv.org/abs/2403.20236)[[data split]](https://zenodo.org/records/10854201)
  + MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2404.06564)[[code]](https://lewandofskee.github.io/projects/MambaAD/)
  + Learning Feature Inversion for Multi-class Anomaly Detection under General-purpose COCO-AD Benchmark [[2024]](https://arxiv.org/abs/2404.10760)[[code]](https://github.com/zhangzjn/ader)
- + Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2405.14325)
+ + Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2405.14325)[[code]](https://github.com/guojiajeremy/Dinomaly)
  + Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection [[TII 2024]](https://arxiv.org/abs/2406.11507)
  + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
  + Learning Multi-view Anomaly Detection [[2024]](https://arxiv.org/abs/2407.11935)
