@@ -12,15 +12,13 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 [[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD)
 
-🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers.
+🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and [pull requests](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/pulls).
 
 ---
 
 🔥🔥🔥 We discuss different types of anomaly synthesis methods in detail. Welcome to make comments. 
 
 A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.16412)[[github]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
-
-🔥🔥 MVTec AD 2 is coming [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)
 
 ---
 
@@ -614,6 +612,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection[[2024]](https://arxiv.org/abs/2409.06285)[[code]](https://github.com/Nothingtolose9979/RAS)
  + Multi-scale feature reconstruction network for industrial anomaly detection [[KBS 2024]](https://www.sciencedirect.com/science/article/pii/S095070512401284X)[[code]](https://github.com/Ehteshamciitwah/MSFR)
  + Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics [[2025]](https://arxiv.org/html/2504.10021v1)
+ + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
 
 ### 2.2.4 Diffusion Model
  + AnoDDPM: Anomaly Detection With Denoising Diffusion Probabilistic Models Using Simplex Noise [[CVPR Workshop 2022]](http://dro.dur.ac.uk/36134/1/36134.pdf)
@@ -845,6 +844,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Fence Theorem: Preprocessing is Dual-Objective Semantic Structure Isolator in 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2503.01100)
  + Odd-One-Out: Anomaly Detection by Comparing with Neighbors [[CVPR 2025]](https://arxiv.org/abs/2406.20099)
  + PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2412.12617)
+ + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -882,6 +882,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11307)
  + UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [[CVPR 2025]](https://pangdatangtt.github.io/)[[code coming soon]](https://github.com/pangdatangtt/UniNet)
  + Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [[TASE 2025]](https://ieeexplore.ieee.org/abstract/document/10898004) [code](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)
+ + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
+ 
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
@@ -1009,7 +1011,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[data]](https://github.com/EnquanYang2022/3CAD)
  + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[data]](https://xujiacong.github.io/Anomaly-OV/)
  + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
- + The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)
+ + The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)[[data]](https://www.mvtec.com/company/research/datasets/mvtec-ad-2)
  + Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)
 
 ## BibTex Citation
