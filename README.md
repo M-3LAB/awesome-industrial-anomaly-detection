@@ -807,7 +807,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Fully-Synthetic Training for Visual Quality Inspection in Automotive Production [[CIRP 2025]](https://arxiv.org/abs/2503.09354)
  + Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
  + Open-Set Fabric Defect Detection With Defect Generation and Transfer [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10909357)
- + Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map [[CVPRW 2025]](https://arxiv.org/abs/2505.03623)
+ + Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map [[CVPRW 2025]](https://arxiv.org/abs/2505.03623)[[code]](https://github.com/covisionlab/diffusion_labeling)
  + Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control [[2025]](https://arxiv.org/abs/2505.03134)
 
 ## 3.4 RGBD AD
