@@ -538,6 +538,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [[2025]](https://arxiv.org/abs/2502.14884)
  + PA-CLIP: Enhancing Zero-Shot Anomaly Detection through Pseudo-Anomaly Awareness [[2025]](https://arxiv.org/abs/2503.01292)
  + Language-Assisted Feature Transformation for Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=2p03KljxE9)
+ + Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2505.02626)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -806,6 +807,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Fully-Synthetic Training for Visual Quality Inspection in Automotive Production [[CIRP 2025]](https://arxiv.org/abs/2503.09354)
  + Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
  + Open-Set Fabric Defect Detection With Defect Generation and Transfer [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10909357)
+ + Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map [[CVPRW 2025]](https://arxiv.org/abs/2505.03623)
+ + Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control [[2025]](https://arxiv.org/abs/2505.03134)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -1013,6 +1016,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
  + The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)[[data]](https://www.mvtec.com/company/research/datasets/mvtec-ad-2)
  + Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)
+ + CXR-AD: Component X-ray Image Dataset for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2505.03412)
 
 ## BibTex Citation
 
