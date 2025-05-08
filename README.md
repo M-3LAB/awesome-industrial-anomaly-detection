@@ -327,6 +327,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection? [[2025]](https://arxiv.org/abs/2501.15795)
 + EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2503.14162v1)
 + AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2504.11914)
++ Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2505.02626)
++ Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [[2025]](https://arxiv.org/abs/2503.13184)
++ LR-IAD:Mask-Free Industrial Anomaly Detection with Logical Reasoning [[2025]](https://arxiv.org/abs/2504.19524)
   
 <!--
 ## CVPR 2023
