@@ -31,6 +31,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [IJCAI 2025](#ijcai-2025)
   - [CVPR 2025](#cvpr-2025)
   - [ICLR 2025](#iclr-2025)
   - [AAAI 2025](#aaai-2025)
@@ -138,8 +139,12 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 # Recent research
 
+## IJCAI 2025
++ MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
++ ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.06603)[[code]](https://github.com/HULEI7/ReplayCAD)
+
 ## CVPR 2025
-+ Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
++ Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2504.14221)
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)[[code]](https://github.com/fuyunwang/DPDL)
 + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)[[code]](https://github.com/FuNz-0/One-for-More)
 + Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.02424)[[code]](https://github.com/luow23/INP-Former)
@@ -863,6 +868,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + An Incremental Unified Framework for Small Defect Inspection [[ECCV2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
  + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
  + Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2503.02691)[[code]](https://bitbucket.org/papers_vad_group/clad_paste/src/master/)
+ + ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.06603)[[code]](https://github.com/HULEI7/ReplayCAD)
 
 ## 3.7 Uniform/Multi-Class AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
