@@ -203,14 +203,14 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
 + ResAD: A Simple Framework for Class Generalizable Anomaly Detection [[NeurIPS 2024]](https://arxiv.org/abs/2410.20047)[[code]](https://github.com/xcyao00/ResAD)
 + One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection [[NeurIPS 2024]](https://openreview.net/pdf?id=tIzW3l2uaN)
-<!-- + MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://openreview.net/forum?id=4jegYnUMHb&referrer=%5Bthe%20profile%20of%20Bin-Bin%20Gao%5D(%2Fprofile%3Fid%3D~Bin-Bin_Gao1))[[code]](https://github.com/gaobb/MetaUAS)-->
++ MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://arxiv.org/abs/2505.09265)[[code]](https://github.com/gaobb/MetaUAS)
 
 ## ECCV 2024
 + R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.10862)[[homepage]](https://zhouzheyuan.github.io/r3d-ad)
 + An Incremental Unified Framework for Small Defect Inspection [[ECCV 2024]](https://arxiv.org/abs/2312.08917v2)[[code]](https://github.com/jqtangust/IUF)
 + Learning Unified Reference Representation for Unsupervised Multi-class Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2403.11561)[[code]](https://github.com/hlr7999/RLR)
 + Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2401.03145)
-+ Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [[ECCV 2024]](https://csgaobb.github.io/Pub_files/ECCV2024_OneNIP_CR_Full_0725_Mobile.pdf)[[code]](https://github.com/gaobb/OneNIP)
++ Learning to Detect Multi-class Anomalies with Just One Normal Image Prompt [[ECCV 2024]](https://arxiv.org/abs/2505.09264)[[code]](https://github.com/gaobb/OneNIP)
 + Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]](https://csgaobb.github.io/Pub_files/ECCV2024_AnoGen_CR_0730_Mobile.pdf)[[code]](https://github.com/gaobb/AnoGen)
 + AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2407.15795)[[code]](https://github.com/caoyunkang/AdaCLIP)
 + GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection [[ECCV 2024]](https://arxiv.org/abs/2406.07487)[[code]](https://github.com/hyao1/GLAD)
@@ -730,6 +730,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MFP-CLIP: Exploring the Efficacy of Multi-Form Prompts for Zero-Shot Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2503.12910)
  + EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2503.14162v1)
  + Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [[2025]](https://arxiv.org/abs/2504.11055)[[code]](https://github.com/AlirezaSalehy/Crane)
+ + AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2505.09926)[[code]](https://github.com/gaobb/AdaptCLIP)
 
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
@@ -763,6 +764,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + KAG-prompt: Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.17619)[[code]](https://github.com/CVL-hub/KAG-prompt)
  + One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning [[ICLR 2025]](https://openreview.net/forum?id=Zzs3JwknAY) 
  + SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICLR 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
+ + MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://arxiv.org/abs/2505.09265)[[code]](https://github.com/gaobb/MetaUAS)
  + One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection [[NeurIPS 2024]](https://openreview.net/pdf?id=tIzW3l2uaN)
  + Search is All You Need for Few-shot Anomaly Detection [[2025]](https://arxiv.org/abs/2504.11895)
   
