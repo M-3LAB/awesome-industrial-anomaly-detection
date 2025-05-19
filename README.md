@@ -1032,6 +1032,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)[[data]](https://www.mvtec.com/company/research/datasets/mvtec-ad-2)
  + Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)
  + CXR-AD: Component X-ray Image Dataset for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2505.03412)
+ + Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark [[2025]](https://arxiv.org/abs/2505.10996)[[data]](https://hustcyq.github.io/M2AD/#dataset)
 
 ## BibTex Citation
 
