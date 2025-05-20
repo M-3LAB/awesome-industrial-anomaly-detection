@@ -31,6 +31,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [ICML 2025](#icml-2025)
   - [IJCAI 2025](#ijcai-2025)
   - [CVPR 2025](#cvpr-2025)
   - [ICLR 2025](#iclr-2025)
@@ -138,6 +139,11 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Anomaly Detection Datasets and Benchmarks [[paper with code]](https://paperswithcode.com/task/anomaly-detection)
 
 # Recent research
+
+## ICML 2025
++ CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
++ OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation [[ICML2025]](https://icml.cc/virtual/2025/poster/46291)
++ Demeaned Sparse: Efficient Anomaly Detection by Residual Estimate [[ICML2025]](https://icml.cc/virtual/2025/poster/45914)
 
 ## IJCAI 2025
 + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
