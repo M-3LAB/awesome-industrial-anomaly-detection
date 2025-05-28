@@ -150,6 +150,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.06603)[[code]](https://github.com/HULEI7/ReplayCAD)
 
 ## CVPR 2025
++ Anomaly Anything: Promptable Unseen Visual Anomaly Generation [[CVPR 2025]](https://arxiv.org/abs/2406.01078)[[code]](https://github.com/EPFL-IMOS/AnomalyAny)
 + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2504.14221)
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)[[code]](https://github.com/fuyunwang/DPDL)
 + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)[[code]](https://github.com/FuNz-0/One-for-More)
@@ -1030,7 +1031,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
  + RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations [[IJCV 2024]](https://arxiv.org/html/2410.00713v1)[[data]](https://github.com/kaichen-z/RAD)
  + AD3: Introducing a score for Anomaly Detection Dataset Difficulty assessment using VIADUCT dataset [[ECCV 2024]](https://eccv.ecva.net/virtual/2024/poster/2287)[[data]](https://fordatis.fraunhofer.de/handle/fordatis/363.2)
- + MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[2024]](https://arxiv.org/abs/2410.09453) [[data]](https://github.com/jam-cc/MMAD)
+ + MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://arxiv.org/abs/2410.09453) [[data]](https://github.com/jam-cc/MMAD)
  + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[2024]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
  + Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
  + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[data]](https://github.com/EnquanYang2022/3CAD)
