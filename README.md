@@ -1029,20 +1029,21 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + PeanutAD: A Real-World Dataset for Anomaly Detection in Agricultural Product Processing Line [[2024]](https://ieeexplore.ieee.org/abstract/document/10634679)[[data]](https://github.com/TCV0257/PeanutAD)
  + The Woven Fabric Defect Detection (WFDD) dataset [[2024]](https://arxiv.org/abs/2407.09359)[[data]](https://github.com/cqylunlun/GLASS?tab=readme-ov-file#1wfdd-download-link)
  + Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development[[2024]](https://arxiv.org/abs/2409.06367)[[data]](https://huggingface.co/datasets/texture-ad/Texture-AD-Benchmark)
- + Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR 2025]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)
+ + Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR 2025]](https://zzzbbbzzz.github.io/MulSen_AD/index.html)[[code]](https://github.com/ZZZBBBZZZ/MulSen-AD)✨✨
  + CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset [[NeurIPS 2024]](https://arxiv.org/abs/2409.20353)[[data]](https://mila-iqia.github.io/cableinspect-ad/)
  + RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations [[IJCV 2024]](https://arxiv.org/html/2410.00713v1)[[data]](https://github.com/kaichen-z/RAD)
  + AD3: Introducing a score for Anomaly Detection Dataset Difficulty assessment using VIADUCT dataset [[ECCV 2024]](https://eccv.ecva.net/virtual/2024/poster/2287)[[data]](https://fordatis.fraunhofer.de/handle/fordatis/363.2)
- + MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://arxiv.org/abs/2410.09453) [[data]](https://github.com/jam-cc/MMAD)
- + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[2024]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
+ + MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://arxiv.org/abs/2410.09453) [[data]](https://github.com/jam-cc/MMAD)✨✨✨
+ + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[2024]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)✨✨
  + Are Anomaly Scores Telling the Whole Story? A Benchmark for Multilevel Anomaly Detection [[2024]](https://arxiv.org/abs/2411.14515)
- + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[data]](https://github.com/EnquanYang2022/3CAD)
+ + 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[data]](https://github.com/EnquanYang2022/3CAD)✨✨
  + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[2025]](https://arxiv.org/abs/2502.07601)[[data]](https://xujiacong.github.io/Anomaly-OV/)
- + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]]()
- + The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)[[data]](https://www.mvtec.com/company/research/datasets/mvtec-ad-2)
- + Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)
+ + Real-IAD D<sup>3</sup>: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2504.14221)✨✨
+ + The MVTec AD 2 Dataset: Advanced Scenarios for Unsupervised Anomaly Detection [[CVPR2025W Challenge]](https://sites.google.com/view/vand30cvpr2025/challenge)[[paper]](https://arxiv.org/abs/2503.21622)[[data]](https://www.mvtec.com/company/research/datasets/mvtec-ad-2)✨✨
+ + Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)✨✨
  + CXR-AD: Component X-ray Image Dataset for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2505.03412)
- + Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark [[2025]](https://arxiv.org/abs/2505.10996)[[data]](https://hustcyq.github.io/M2AD/#dataset)
+ + Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark [[2025]](https://arxiv.org/abs/2505.10996)[[data]](https://hustcyq.github.io/M2AD/#dataset)✨✨
+ + Unsupervised Anomaly Segmentation at High Resolution with Patch-Divide-and-Conquer and Self-ensembling [[ECCVW 2025]](https://link.springer.com/chapter/10.1007/978-3-031-91856-8_4)[[data]](https://www.kaggle.com/datasets/hendrikmeininger/bp-bearings-and-plates-dataset)
 
 ## BibTex Citation
 
