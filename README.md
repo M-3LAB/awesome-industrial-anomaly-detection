@@ -342,7 +342,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2505.02626)
 + Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [[2025]](https://arxiv.org/abs/2503.13184)
 + LR-IAD:Mask-Free Industrial Anomaly Detection with Logical Reasoning [[2025]](https://arxiv.org/abs/2504.19524)
-  
++ OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning[[2025]](https://arxiv.org/abs/2505.22039)
+
 <!--
 ## CVPR 2023
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023(mainly on video anomaly detection)]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
