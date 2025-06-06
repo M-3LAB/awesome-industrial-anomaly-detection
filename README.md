@@ -1046,6 +1046,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + CXR-AD: Component X-ray Image Dataset for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2505.03412)
  + Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark [[2025]](https://arxiv.org/abs/2505.10996)[[data]](https://hustcyq.github.io/M2AD/#dataset)✨✨
  + Unsupervised Anomaly Segmentation at High Resolution with Patch-Divide-and-Conquer and Self-ensembling [[ECCVW 2025]](https://link.springer.com/chapter/10.1007/978-3-031-91856-8_4)[[data]](https://www.kaggle.com/datasets/hendrikmeininger/bp-bearings-and-plates-dataset)
+ + HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset [[ICME 2025]](https://arxiv.org/abs/2504.12689)[[data]](https://github.com/Qiqigeww/HSS-IAD-Dataset)
 
 ## BibTex Citation
 
