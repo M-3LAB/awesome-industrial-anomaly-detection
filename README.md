@@ -26,7 +26,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 ---
 ## Table of Contents
-- [Awesome Industrial Anomaly Detection ](#awesome-industrial-anomaly-detection-)
+- [Awesome Industrial Anomaly Detection](#awesome-industrial-anomaly-detection-)
   - [Table of Contents](#table-of-contents)
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
@@ -59,7 +59,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
     - [2.1.2 One-Class Classification (OCC)](#212-one-class-classification-occ)
     - [2.1.3 Distribution-Map](#213-distribution-map)
     - [2.1.4 Memory Bank](#214-memory-bank)
-    - [2.1.5 Vison Language AD](#215-vison-language-ad)
+    - [2.1.5 Vision Language AD](#215-vision-language-ad)
   - [2.2 Reconstruction-Based Methods](#22-reconstruction-based-methods)
     - [2.2.1 Autoencoder (AE)](#221-autoencoder-ae)
     - [2.2.2 Generative Adversarial Networks (GANs)](#222-generative-adversarial-networks-gans)
@@ -69,12 +69,12 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
   - [2.3 Supervised AD](#23-supervised-ad)
     - [More Normal samples With (Less Abnormal Samples or Weak Labels)](#more-normal-samples-with-less-abnormal-samples-or-weak-labels)
     - [More Abnormal Samples](#more-abnormal-samples)
-- [3 Other Research Direction](#3-other-research-direction)
+- [3 Other Research Directions](#3-other-research-directions)
   - [3.1 Zero/Few-Shot AD](#31-zerofew-shot-ad)
     - [Zero-Shot AD](#zero-shot-ad)
     - [Few-Shot AD](#few-shot-ad)
   - [3.2 Noisy AD](#32-noisy-ad)
-  - [3.3 Anomaly Synthetic](#33-anomaly-synthetic)
+  - [3.3 Anomaly Synthesis](#33-anomaly-synthesis)
   - [3.4 RGBD AD](#34-rgbd-ad)
   - [3.5 3D AD](#35-3d-ad)
   - [3.6 Continual AD](#36-continual-ad)
@@ -141,7 +141,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 # Recent research
 
 ## ICML 2025
-+ CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
++ CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](#)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
 + OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation [[ICML2025]](https://icml.cc/virtual/2025/poster/46291)
 + Demeaned Sparse: Efficient Anomaly Detection by Residual Estimate [[ICML2025]](https://icml.cc/virtual/2025/poster/45914)
 
@@ -171,7 +171,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.10080)[[code coming soon]](https://github.com/xiaozhen228/Bayes-PFL)
 + DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection [[CVPR 2025]](https://arxiv.org/abs/2503.13985)
 + Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.19357)[[code]](https://github.com/farzad-bz/DeCo-Diff)
-+ Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection[[CVPR 2025]](https://arxiv.org/abs/2405.14325)[[code]](https://github.com/guojiajeremy/Dinomaly)
++ Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2405.14325)[[code]](https://github.com/guojiajeremy/Dinomaly)
 + VAND 3.0: Visual Anomaly and Novelty Detection - 3rd Edition [[CVPR 2025W]](https://sites.google.com/view/vand30cvpr2025)
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2407.04597)  
 
