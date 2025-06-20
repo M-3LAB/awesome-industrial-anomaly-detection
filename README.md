@@ -161,7 +161,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [[CVPR 2025]](https://pangdatangtt.github.io/)[[code]](https://github.com/pangdatangtt/UniNet)
 + Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[CVPR 2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
 + MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects [[CVPR 2025]](https://arxiv.org/abs/2412.04867)[[data]](https://grainnet.github.io/MANTA)
-+ AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP [[CVPR 2025]](https://arxiv.org/pdf/2503.06661)[[code coming soon]](https://github.com/Mwxinnn/AA-CLIP)
++ AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP [[CVPR 2025]](https://arxiv.org/pdf/2503.06661)[[code]](https://github.com/Mwxinnn/AA-CLIP)
 + AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios [[CVPR 2025]](https://arxiv.org/abs/2410.14379)[[code]](https://github.com/HUST-SLOW/AnomalyNCD)
 + Towards Training-free Anomaly Detection with Vision and Language Foundation Models [[CVPR 2025]](https://arxiv.org/abs/2503.18325)[[code]](https://github.com/zhang0jhon/LogSAD)
 + TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection [[CVPR 2025]](https://jungyg.github.io/TailedCore_site/)[[code]](https://github.com/jungyg/TailedCore)
@@ -172,17 +172,15 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection [[CVPR 2025]](https://arxiv.org/abs/2503.13985)
 + Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.19357)[[code]](https://github.com/farzad-bz/DeCo-Diff)
 + Dinomaly: The Less is More Philosophy in Multi-Class Unsupervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2405.14325)[[code]](https://github.com/guojiajeremy/Dinomaly)
++ A Unified Latent Schrödinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Akshay_A_Unified_Latent_Schrodinger_Bridge_Diffusion_Model_for_Unsupervised_Anomaly_CVPR_2025_paper.html)[[code]](https://github.com/ShilhoraAkshayPatel/LASB)
++ DFM: Differentiable Feature Matching for Anomaly Detection[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DFM_Differentiable_Feature_Matching_for_Anomaly_Detection_CVPR_2025_paper.html)
++ Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Beizaee_Correcting_Deviations_from_Normality_A_Reformulated_Diffusion_Model_for_Multi-Class_CVPR_2025_paper.html)[[code]](https://github.com/farzad-bz/DeCo-Diff)
++ Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Mao_Beyond_Single-Modal_Boundary_Cross-Modal_Anomaly_Detection_through_Visual_Prototype_and_CVPR_2025_paper.html)[[code]](https://github.com/Kerio99/CMAD)
++ PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Nafez_PatchGuard_Adversarially_Robust_Anomaly_Detection_and_Localization_through_Vision_Transformers_CVPR_2025_paper.html)[[code]](https://github.com/rohban-lab/PatchGuard)
++ Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection[[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_Wavelet_and_Prototype_Augmented_Query-based_Transformer_for_Pixel-level_Surface_Defect_CVPR_2025_paper.html)[[code]](https://github.com/yfhdm/WPFormer)
 + VAND 3.0: Visual Anomaly and Novelty Detection - 3rd Edition [[CVPR 2025W]](https://sites.google.com/view/vand30cvpr2025)
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2407.04597)  
-
-<!-- 
-+ A Unified Latent Schrödinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization
-+ DFM: Differentiable Feature Matching for Anomaly Detection
-+ Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection
-+ Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization
-+ PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies
-+ Wavelet and Prototype Augmented Query-based Transformer for Pixel-level Surface Defect Detection
--->
++ RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2505.21152)[[code]](https://github.com/xrli-U/RoBiS)
 
 ## ICLR 2025
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
@@ -775,7 +773,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://arxiv.org/abs/2505.09265)[[code]](https://github.com/gaobb/MetaUAS)
  + One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection [[NeurIPS 2024]](https://openreview.net/pdf?id=tIzW3l2uaN)
  + Search is All You Need for Few-shot Anomaly Detection [[2025]](https://arxiv.org/abs/2504.11895)
-  
+
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
  + Self-Supervise, Refine, Repeat: Improving Unsupervised Anomaly Detection [[TMLR 2021]](https://arxiv.org/pdf/2106.06115.pdf)
@@ -913,7 +911,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [[TASE 2025]](https://ieeexplore.ieee.org/abstract/document/10898004) [[code]](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
  + Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection [[TII 2025]](https://arxiv.org/abs/2505.17551v1)[[code]](https://github.com/cqylunlun/CRAS)
- 
+
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
  + Set Features for Fine-grained Anomaly Detection[[2023]](https://arxiv.org/abs/2302.12245) [[code]](https://github.com/NivC/SINBAD)
