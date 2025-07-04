@@ -915,7 +915,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11307)
  + UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection [[CVPR 2025]](https://pangdatangtt.github.io/)[[code coming soon]](https://github.com/pangdatangtt/UniNet)
  + Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [[TASE 2025]](https://ieeexplore.ieee.org/abstract/document/10898004) [[code]](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)
- + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
+ + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)[[code]](https://github.com/jiayi-art/MC3D-AD)
  + Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection [[TII 2025]](https://arxiv.org/abs/2505.17551v1)[[code]](https://github.com/cqylunlun/CRAS)
 
 ## 3.8 Logical AD
