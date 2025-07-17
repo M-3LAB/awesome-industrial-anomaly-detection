@@ -186,6 +186,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + VAND 3.0: Visual Anomaly and Novelty Detection - 3rd Edition [[CVPR 2025W]](https://sites.google.com/view/vand30cvpr2025)
 + Feature Attenuation of Defective Representation Can Resolve Incomplete Masking on Anomaly Detection [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2407.04597)  
 + RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2505.21152)[[code]](https://github.com/xrli-U/RoBiS)
++ AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)  
 
 ## ICLR 2025
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
@@ -836,6 +837,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation [[2025]](https://arxiv.org/abs/2505.06117)
  + Anomaly Anything: Promptable Unseen Visual Anomaly Generation [[CVPR 2025]](https://arxiv.org/abs/2406.01078)[[code]](https://github.com/EPFL-IMOS/AnomalyAny)
  + Anodapter: A Unified Framework for Generating Aligned Anomaly Images and Masks Using Diffusion Models[[2025]](https://ieeexplore.ieee.org/document/11000123)
+ + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf) 
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -859,6 +861,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Towards Zero-shot 3D Anomaly Localization [[WACV 2025]](https://arxiv.org/abs/2412.04304)
  + Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[AAAI 2025]](https://arxiv.org/abs/2412.17297)
  + Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning [[2025]](https://arxiv.org/abs/2505.21420)
+ + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf) 
 
 ## 3.5 3D AD
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[code]](https://github.com/M-3LAB/Real3D-AD)
