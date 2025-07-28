@@ -433,6 +433,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + A Survey on Foundation-Model-Based Industrial Defect Detection [[2025]](https://arxiv.org/abs/2502.19106)
 + Foundation Models for Anomaly Detection: Vision and Challenges [[2025]](https://arxiv.org/abs/2502.06911)
 + Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2503.23451)[[code]](https://github.com/abc-125/viad-benchmark)
++ A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects [[2025]](https://www.arxiv.org/abs/2507.13378)
 
 # 2 Unsupervised AD
 
@@ -882,6 +883,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2505.05901v2)[[code]](https://github.com/hzzzzzhappy/MC4AD)
  + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[2025]](https://arxiv.org/pdf/2505.24431v1
  + Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[MM 2025]](https://arxiv.org/abs/2507.03903v1)
+ + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
+ + 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[2025]](https://arxiv.org/abs/2507.13110)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -1056,6 +1059,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark [[2025]](https://arxiv.org/abs/2505.10996)[[data]](https://hustcyq.github.io/M2AD/#dataset)✨✨
  + Unsupervised Anomaly Segmentation at High Resolution with Patch-Divide-and-Conquer and Self-ensembling [[ECCVW 2025]](https://link.springer.com/chapter/10.1007/978-3-031-91856-8_4)[[data]](https://www.kaggle.com/datasets/hendrikmeininger/bp-bearings-and-plates-dataset)
  + HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset [[ICME 2025]](https://arxiv.org/abs/2504.12689)[[data]](https://github.com/Qiqigeww/HSS-IAD-Dataset)
+ + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
 
 ## BibTex Citation
 
