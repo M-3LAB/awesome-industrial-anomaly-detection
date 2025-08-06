@@ -902,7 +902,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
  + Memory Efficient Continual Learning for Edge-Based Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2503.02691)[[code]](https://bitbucket.org/papers_vad_group/clad_paste/src/master/)
  + ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.06603)[[code]](https://github.com/HULEI7/ReplayCAD)
-
+ + C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [[2025]](https://arxiv.org/abs/2508.01311)[[code]](https://github.com/hzzzzzhappy/CL3AD)
+   
 ## 3.7 Uniform/Multi-Class AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
  + OmniAL A unifiled CNN framework for unsupervised anomaly localization [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_OmniAL_A_Unified_CNN_Framework_for_Unsupervised_Anomaly_Localization_CVPR_2023_paper.pdf)
