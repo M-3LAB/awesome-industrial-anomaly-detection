@@ -440,6 +440,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Foundation Models for Anomaly Detection: Vision and Challenges [[2025]](https://arxiv.org/abs/2502.06911)
 + Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2503.23451)[[code]](https://github.com/abc-125/viad-benchmark)
 + A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects [[2025]](https://www.arxiv.org/abs/2507.13378)
++ Towards High-Resolution Industrial Image Anomaly Detection [[2025]](https://arxiv.org/abs/2508.12931)[[code]](https://github.com/cnulab/HiAD)
 
 # 2 Unsupervised AD
 
