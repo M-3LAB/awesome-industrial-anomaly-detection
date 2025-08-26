@@ -853,7 +853,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation [[2025]](https://arxiv.org/abs/2505.06117)
  + Anomaly Anything: Promptable Unseen Visual Anomaly Generation [[CVPR 2025]](https://arxiv.org/abs/2406.01078)[[code]](https://github.com/EPFL-IMOS/AnomalyAny)
  + Anodapter: A Unified Framework for Generating Aligned Anomaly Images and Masks Using Diffusion Models[[2025]](https://ieeexplore.ieee.org/document/11000123)
- + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf) 
+ + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)
+ + SynSpill: Improved Industrial Spill Detection With Synthetic Data [[ICCVW 2025 oral]](https://arxiv.org/abs/2508.10171)[[code]](https://github.com/eternal-f1ame/SynSpill)[[homepage]](https://synspill.vercel.app/)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
