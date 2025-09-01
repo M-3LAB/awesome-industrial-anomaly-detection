@@ -468,6 +468,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Feature-Constrained and Attention-Conditioned Distillation Learning for Visual Anomaly Detection [[ICASSP 2024]](https://ieeexplore.ieee.org/document/10448432)
 + MiniMaxAD: A Lightweight Autoencoder for Feature-Rich Anomaly Detection [[2024]](https://arxiv.org/abs/2405.09933)
 + Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
++ Anomaly Detection and Localization via Reverse Distillation with Latent Anomaly Suppression [[TCSVT 2025]](https://ieeexplore.ieee.org/abstract/document/10969994)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
