@@ -146,6 +146,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICCV 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
 + MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [[ICCV 2025]](https://arxiv.org/abs/2504.06740)[[code]](https://github.com/boschresearch/MultiADS)
 + Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning [[ICCV 2025]](https://arxiv.org/abs/2508.02293)
++ DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [[ICCV 2025]](https://www.arxiv.org/abs/2508.13560)[[code]](https://github.com/xiaozhen228/DictAS)
   
 ## ICML 2025
 + CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](#)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
@@ -855,6 +856,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Anodapter: A Unified Framework for Generating Aligned Anomaly Images and Masks Using Diffusion Models[[2025]](https://ieeexplore.ieee.org/document/11000123)
  + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)
  + SynSpill: Improved Industrial Spill Detection With Synthetic Data [[ICCVW 2025 oral]](https://arxiv.org/abs/2508.10171)[[code]](https://github.com/eternal-f1ame/SynSpill)[[homepage]](https://synspill.vercel.app/)
+ + DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [[ICCV 2025]](https://www.arxiv.org/abs/2508.13560)[[code]](https://github.com/xiaozhen228/DictAS)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
