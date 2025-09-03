@@ -122,6 +122,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 | ![Star](https://img.shields.io/github/stars/hq-deng/AnoVL.svg?style=social&label=Star) <br> [**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**](https://arxiv.org/abs/2308.15939) <br> | arxiv | 2023 | [Github](https://github.com/hq-deng/AnoVL) | Zero Shot |
 | ![Star](https://img.shields.io/github/stars/caoyunkang/GroundedSAM-zero-shot-anomaly-detection.svg?style=social&label=Star) <br> [**Segment Any Anomaly without Training via Hybrid Prompt Regularization**](https://arxiv.org/abs/2305.10724) <br> | arxiv | 2023 | [Github](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection) | Zero Shot |
 | ![Star](https://img.shields.io/github/stars/oopil/PSAD_logical_anomaly_detection.svg?style=social&label=Star) <br> [**PSAD: Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/28703) <br> | AAAI | 2024 | [Github](https://github.com/oopil/PSAD_logical_anomaly_detection) | Logical/Few Shot |
+| ![Star](https://img.shields.io/github/stars/MaticFuc/SALAD.svg?style=social&label=Star) <br> [**SALAD -- Semantics-Aware Logical Anomaly Detection**](https://arxiv.org/abs/2509.02101) <br> | ICCV | 2025 | [Github](https://github.com/MaticFuc/SALAD) | Logical |
 | ![Star](https://img.shields.io/github/stars/YoojLee/Uniformaly.svg?style=social&label=Star) <br> [**UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection**](https://arxiv.org/abs/2307.12540) <br> | arxiv | 2023 | [Github](https://github.com/YoojLee/Uniformaly) | Multi-class unified |
 
 # Recommended Benchmarks
@@ -147,6 +148,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [[ICCV 2025]](https://arxiv.org/abs/2504.06740)[[code]](https://github.com/boschresearch/MultiADS)
 + Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning [[ICCV 2025]](https://arxiv.org/abs/2508.02293)
 + DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [[ICCV 2025]](https://www.arxiv.org/abs/2508.13560)[[code]](https://github.com/xiaozhen228/DictAS)
++ SALAD -- Semantics-Aware Logical Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2509.02101)[[code]](https://github.com/MaticFuc/SALAD)
   
 ## ICML 2025
 + CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](#)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
@@ -969,6 +971,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction [[2025]](https://arxiv.org/abs/2501.01767)[[code]](https://jasonjin34.github.io/logicad.github.io)
  + Component-aware Unsupervised Logical Anomaly Generation for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11712)
  + Towards Training-free Anomaly Detection with Vision and Language Foundation Models [[CVPR 2025]]()[[code]](https://github.com/zhang0jhon/LogSAD)
+ + SALAD -- Semantics-Aware Logical Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2509.02101)[[code]](https://github.com/MaticFuc/SALAD)
 
 ## Other settings
 ### TTT binary segmentation
