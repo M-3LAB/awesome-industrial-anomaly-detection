@@ -348,6 +348,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
 + Can Multimodal Large Language Models be Guided to Improve Industrial Anomaly Detection? [[2025]](https://arxiv.org/abs/2501.15795)
 + EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2503.14162v1)
++ Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models [[CVPR 2025]](https://arxiv.org/abs/2502.07601)[[code]](https://xujiacong.github.io/Anomaly-OV/)
 + AnomalyR1: A GRPO-based End-to-end MLLM for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2504.11914)
 + Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2505.02626)
 + Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [[2025]](https://arxiv.org/abs/2503.13184)
@@ -355,6 +356,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning[[2025]](https://arxiv.org/abs/2505.22039)
 + EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [[2025]](https://arxiv.org/abs/2507.21619)[[code]](https://github.com/guanwei49/EMIT)
 + IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2508.09178)[[code]](https://github.com/Yanhui-Lee/IAD-R1)
++ AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[2025]](https://arxiv.org/abs/2508.04175)
 
 <!--
 ## CVPR 2023
