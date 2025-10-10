@@ -153,6 +153,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning [[ICCV 2025]](https://arxiv.org/abs/2508.02293)
 + DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [[ICCV 2025]](https://www.arxiv.org/abs/2508.13560)[[code]](https://github.com/xiaozhen228/DictAS)
 + SALAD -- Semantics-Aware Logical Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2509.02101)[[code]](https://github.com/MaticFuc/SALAD)
++ Kaputt: A Large-Scale Dataset for Visual Defect Detection [[ICCV 2025]](https://arxiv.org/abs/2510.05903)[[data]](https://www.kaputt-dataset.com/)
   
 ## ICML 2025
 + CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](#)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
@@ -1098,6 +1099,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Unsupervised Anomaly Segmentation at High Resolution with Patch-Divide-and-Conquer and Self-ensembling [[ECCVW 2025]](https://link.springer.com/chapter/10.1007/978-3-031-91856-8_4)[[data]](https://www.kaggle.com/datasets/hendrikmeininger/bp-bearings-and-plates-dataset)
  + HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset [[ICME 2025]](https://arxiv.org/abs/2504.12689)[[data]](https://github.com/Qiqigeww/HSS-IAD-Dataset)
  + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
+ + Kaputt: A Large-Scale Dataset for Visual Defect Detection [[ICCV 2025]](https://arxiv.org/abs/2510.05903)[[data]](https://www.kaputt-dataset.com/)
 
 ## BibTex Citation
 
