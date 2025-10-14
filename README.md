@@ -16,11 +16,11 @@ Keywords: anomaly detection, anomaly segmentation, industrial image, defect dete
 
 ---
 
-🔥🔥🔥 We discuss different types of anomaly synthesis methods in detail. Welcome to make comments. 
+🔥🔥🔥 We compare different types of anomaly synthesis methods in detail. Welcome to make comments. 
+
+ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[paper]](https://arxiv.org/abs/2510.07927)
 
 A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.16412)[[github]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
-
----
 
 🔥🔥🔥 How well are current MLLMs performing as industrial quality inspectors? Which MLLM performs best in industrial anomaly detection? Please refer to our recent research. [[ICLR 2025]](https://arxiv.org/abs/2410.09453)[[Github]](https://github.com/jam-cc/MMAD)
 
@@ -146,6 +146,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 ## NeurIPS 2025
 + FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis [[NeurIPS 2025]](https://arxiv.org/abs/2509.20295)[[code]](https://anonymous.4open.science/r/NeurIPS-938/README1.md)
++ Normal-Abnormal Guided Generalist Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.00495)[[code]](https://github.com/JasonKyng/NAGL)
 
 ## ICCV 2025
 + SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICCV 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
@@ -156,7 +157,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Kaputt: A Large-Scale Dataset for Visual Defect Detection [[ICCV 2025]](https://arxiv.org/abs/2510.05903)[[data]](https://www.kaputt-dataset.com/)
   
 ## ICML 2025
-+ CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](#)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
++ CostFilter-AD: Enhancing Anomaly Detection through Matching Cost Filtering [[ICML2025]](https://openreview.net/pdf?id=6p2wsBeYSs)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
 + OmiAD: One-Step Adaptive Masked Diffusion Model for Multi-class Anomaly Detection via Adversarial Distillation [[ICML2025]](https://icml.cc/virtual/2025/poster/46291)
 + Demeaned Sparse: Efficient Anomaly Detection by Residual Estimate [[ICML2025]](https://icml.cc/virtual/2025/poster/45914)
 
@@ -450,6 +451,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Beyond Academic Benchmarks: Critical Analysis and Best Practices for Visual Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2503.23451)[[code]](https://github.com/abc-125/viad-benchmark)
 + A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects [[2025]](https://www.arxiv.org/abs/2507.13378)
 + Towards High-Resolution Industrial Image Anomaly Detection [[2025]](https://arxiv.org/abs/2508.12931)[[code]](https://github.com/cnulab/HiAD)
++ ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[2025]](https://arxiv.org/abs/2510.07927)
 
 # 2 Unsupervised AD
 
@@ -556,6 +558,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + FOCT: Few-shot Industrial Anomaly Detection with Foreground-aware Online Conditional Transport [[ACM MM 2024]](https://dl.acm.org/doi/10.1145/3664647.3680771)
  + Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2289)[[code]]
  + Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval [[TIP 2024]](https://arxiv.org/abs/2308.06748)[[code]](https://github.com/flyinghu123/CPR)
+ + Tailored Transformation Invariance for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2509.17670)[[code]](https://github.com/marietteschonfeld/LWinNN)
 
  ### 2.1.5 Vison Language AD
  + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
@@ -809,6 +812,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning [[NeurIPS 2024]](https://arxiv.org/abs/2505.09265)[[code]](https://github.com/gaobb/MetaUAS)
  + One-to-Normal: Anomaly Personalization for Few-shot Anomaly Detection [[NeurIPS 2024]](https://openreview.net/pdf?id=tIzW3l2uaN)
  + Search is All You Need for Few-shot Anomaly Detection [[2025]](https://arxiv.org/abs/2504.11895)
+ + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[2025]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
 
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
@@ -870,6 +874,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)
  + SynSpill: Improved Industrial Spill Detection With Synthetic Data [[ICCVW 2025 oral]](https://arxiv.org/abs/2508.10171)[[code]](https://github.com/eternal-f1ame/SynSpill)[[homepage]](https://synspill.vercel.app/)
  + DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [[ICCV 2025]](https://www.arxiv.org/abs/2508.13560)[[code]](https://github.com/xiaozhen228/DictAS)
+ + ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[2025]](https://arxiv.org/abs/2510.07927)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -1002,6 +1007,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
 ### Universal Task
  + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2508.06203)
+ + UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [2025](https://arxiv.org/abs/2509.25934)[[code]](https://github.com/yuanzhao-CVLAB/UniMMAD)
+ + Unified Unsupervised Anomaly Detection via Matching Cost Filtering [[2025]](https://arxiv.org/abs/2510.03363)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
 
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
