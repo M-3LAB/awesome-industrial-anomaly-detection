@@ -147,6 +147,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ## NeurIPS 2025
 + FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis [[NeurIPS 2025]](https://arxiv.org/abs/2509.20295)[[code]](https://anonymous.4open.science/r/NeurIPS-938/README1.md)
 + Normal-Abnormal Guided Generalist Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.00495)[[code]](https://github.com/JasonKyng/NAGL)
++ Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.16865)
 
 ## ICCV 2025
 + SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICCV 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
@@ -587,6 +588,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning[[2025]](https://arxiv.org/abs/2505.22039)
  + EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [[2025]](https://arxiv.org/abs/2507.21619)[[code]](https://github.com/guanwei49/EMIT)
  + CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [[2025]](https://arxiv.org/abs/2508.03447)[[code]](https://github.com/cqylunlun/CoPS)
+ + IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2510.16036)[[code]](https://github.com/LiZeWen1225/IAD-GPT)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -923,6 +925,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
  + 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[2025]](https://arxiv.org/abs/2507.13110)
  + Multi-View Reconstruction with Global Context for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2507.21555)[[code]](https://github.com/hustSYH/MVR)
+ + Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.16865)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -1009,6 +1012,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2508.06203)
  + UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [2025](https://arxiv.org/abs/2509.25934)[[code]](https://github.com/yuanzhao-CVLAB/UniMMAD)
  + Unified Unsupervised Anomaly Detection via Matching Cost Filtering [[2025]](https://arxiv.org/abs/2510.03363)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
+ + One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [2025](https://arxiv.org/abs/2510.17611)
 
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
