@@ -147,7 +147,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 ## AAAI 2025
 + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
-+ AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2508.06203)[[code is comming]](https://github.com/FantasticGNU/AnomalyMoE)
++ AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2505.09926)[[code]](https://github.com/gaobb/AdaptCLIP)
++ AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2508.06203)[[code is comming]](https://github.com/FantasticGNU/AnomalyMoE)
 
 ## NeurIPS 2025
 + FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis [[NeurIPS 2025]](https://arxiv.org/abs/2509.20295)[[code]](https://anonymous.4open.science/r/NeurIPS-938/README1.md)
@@ -778,7 +779,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MFP-CLIP: Exploring the Efficacy of Multi-Form Prompts for Zero-Shot Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2503.12910)
  + EIAD: Explainable Industrial Anomaly Detection Via Multi-Modal Large Language Models [[2025]](https://arxiv.org/abs/2503.14162v1)
  + Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections [[2025]](https://arxiv.org/abs/2504.11055)[[code]](https://github.com/AlirezaSalehy/Crane)
- + AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2505.09926)[[code]](https://github.com/gaobb/AdaptCLIP)
+ + AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2505.09926)[[code]](https://github.com/gaobb/AdaptCLIP)
  + MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning [[ICCV 2025]](https://arxiv.org/abs/2504.06740)[[code]](https://github.com/boschresearch/MultiADS)
  + AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation [[ACM MM 2025]](https://arxiv.org/abs/2507.19949)[[code]](https://github.com/Faustinaqq/AF-CLIP)
  + CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [[2025]](https://arxiv.org/abs/2508.03447)[[code]](https://github.com/cqylunlun/CoPS)
