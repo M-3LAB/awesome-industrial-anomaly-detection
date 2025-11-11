@@ -31,6 +31,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [AAAI 2025](#aaai-2025)
   - [NeurIPS 2025](#neurips-2025)
   - [ICCV 2025](#iccv-2025)
   - [ICML 2025](#icml-2025)
@@ -144,10 +145,15 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 # Recent research
 
+## AAAI 2025
++ Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
++ AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2508.06203)[[code is comming]](https://github.com/FantasticGNU/AnomalyMoE)
+
 ## NeurIPS 2025
 + FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis [[NeurIPS 2025]](https://arxiv.org/abs/2509.20295)[[code]](https://anonymous.4open.science/r/NeurIPS-938/README1.md)
 + Normal-Abnormal Guided Generalist Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.00495)[[code]](https://github.com/JasonKyng/NAGL)
 + Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.16865)
++ ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining [[NeurIPS 2025]](https://arxiv.org/abs/2511.05245)[[code is comming]](https://github.com/xcyao00/ADPretrain)
 
 ## ICCV 2025
 + SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICCV 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
@@ -927,6 +933,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[2025]](https://arxiv.org/abs/2507.13110)
  + Multi-View Reconstruction with Global Context for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2507.21555)[[code]](https://github.com/hustSYH/MVR)
  + Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.16865)
+ + IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[2025]](https://arxiv.org/abs/2511.03267)
+ + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -1010,7 +1018,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ### Rubustness
 + FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
 ### Universal Task
- + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[2025]](https://arxiv.org/abs/2508.06203)
+ + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2508.06203)[[code is comming]](https://github.com/FantasticGNU/AnomalyMoE)
  + UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [2025](https://arxiv.org/abs/2509.25934)[[code]](https://github.com/yuanzhao-CVLAB/UniMMAD)
  + Unified Unsupervised Anomaly Detection via Matching Cost Filtering [[2025]](https://arxiv.org/abs/2510.03363)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
  + One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [2025](https://arxiv.org/abs/2510.17611)
@@ -1113,6 +1121,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + HSS-IAD: A Heterogeneous Same-Sort Industrial Anomaly Detection Dataset [[ICME 2025]](https://arxiv.org/abs/2504.12689)[[data]](https://github.com/Qiqigeww/HSS-IAD-Dataset)
  + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
  + Kaputt: A Large-Scale Dataset for Visual Defect Detection [[ICCV 2025]](https://arxiv.org/abs/2510.05903)[[data]](https://www.kaputt-dataset.com/)
+ + Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era [[2025]](https://arxiv.org/abs/2511.00540)[[data is comming]](https://realiad4ad.github.io/Real-IAD-Variety)
+ + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[data]](https://hustcyq.github.io/MiniShift-Simple3D/)
+
 
 ## BibTex Citation
 
