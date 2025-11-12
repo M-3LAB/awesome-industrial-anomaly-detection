@@ -149,6 +149,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
 + AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2505.09926)[[code]](https://github.com/gaobb/AdaptCLIP)
 + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2508.06203)[[code is comming]](https://github.com/FantasticGNU/AnomalyMoE)
++ AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [[AAAI 2026]](https://arxiv.org/abs/2511.06687)[[code]](https://github.com/yulimso/AnoStyler)
 
 ## NeurIPS 2025
 + FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis [[NeurIPS 2025]](https://arxiv.org/abs/2509.20295)[[code]](https://anonymous.4open.science/r/NeurIPS-938/README1.md)
@@ -597,6 +598,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [[2025]](https://arxiv.org/abs/2507.21619)[[code]](https://github.com/guanwei49/EMIT)
  + CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection [[2025]](https://arxiv.org/abs/2508.03447)[[code]](https://github.com/cqylunlun/CoPS)
  + IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2510.16036)[[code]](https://github.com/LiZeWen1225/IAD-GPT)
+ + VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [[2025]](https://arxiv.org/abs/2511.08173)[[code]](https://github.com/giddyyupp/VLMDiff)
 
 ## 2.2 Reconstruction-Based Methods
 
@@ -885,6 +887,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + SynSpill: Improved Industrial Spill Detection With Synthetic Data [[ICCVW 2025 oral]](https://arxiv.org/abs/2508.10171)[[code]](https://github.com/eternal-f1ame/SynSpill)[[homepage]](https://synspill.vercel.app/)
  + DictAS: A Framework for Class-Generalizable Few-Shot Anomaly Segmentation via Dictionary Lookup [[ICCV 2025]](https://www.arxiv.org/abs/2508.13560)[[code]](https://github.com/xiaozhen228/DictAS)
  + ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[2025]](https://arxiv.org/abs/2510.07927)
+ + AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [[AAAI 2026]](https://arxiv.org/abs/2511.06687)[[code]](https://github.com/yulimso/AnoStyler)
+ + UniADC: A Unified Framework for Anomaly Detection and Classification [[2025]](https://arxiv.org/abs/2511.06644)[[code is comming]](https://github.com/cnulab/UniADC)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -936,6 +940,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.16865)
  + IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[2025]](https://arxiv.org/abs/2511.03267)
  + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
+ + Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[2025]](https://arxiv.org/abs/2511.05853)[[code is comming]](https://github.com/Bingyang0410/CPS3D-Seg)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -980,6 +985,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [[TASE 2025]](https://ieeexplore.ieee.org/abstract/document/10898004) [[code]](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)[[code]](https://github.com/jiayi-art/MC3D-AD)
  + Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection [[TII 2025]](https://arxiv.org/abs/2505.17551v1)[[code]](https://github.com/cqylunlun/CRAS)
+ + VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [[2025]](https://arxiv.org/abs/2511.08173)[[code]](https://github.com/giddyyupp/VLMDiff)
 
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
@@ -1023,6 +1029,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [2025](https://arxiv.org/abs/2509.25934)[[code]](https://github.com/yuanzhao-CVLAB/UniMMAD)
  + Unified Unsupervised Anomaly Detection via Matching Cost Filtering [[2025]](https://arxiv.org/abs/2510.03363)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
  + One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [2025](https://arxiv.org/abs/2510.17611)
+ + UniADC: A Unified Framework for Anomaly Detection and Classification [[2025]](https://arxiv.org/abs/2511.06644)[[code is comming]](https://github.com/cnulab/UniADC)
 
 # 4 Dataset
 | Dataset                | Class | Normal | Abnormal | Total  | Annotation level  | Source                | Time         |
