@@ -148,7 +148,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ## AAAI 2026
 + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
 + AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2505.09926)[[code]](https://github.com/gaobb/AdaptCLIP)
-+ AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2508.06203)[[code is comming]](https://github.com/FantasticGNU/AnomalyMoE)
++ AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2508.06203)[[code]](https://github.com/CASIA-LMC-Lab/AnomalyMoE)
 + AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [[AAAI 2026]](https://arxiv.org/abs/2511.06687)[[code]](https://github.com/yulimso/AnoStyler)
 
 ## NeurIPS 2025
@@ -1025,7 +1025,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ### Rubustness
 + FiCo: Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.10115)[[code]](https://github.com/znchen666/FiCo)
 ### Universal Task
- + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2508.06203)[[code is comming]](https://github.com/FantasticGNU/AnomalyMoE)
+ + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2508.06203)[[code]](https://github.com/CASIA-LMC-Lab/AnomalyMoE)
  + UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression [2025](https://arxiv.org/abs/2509.25934)[[code]](https://github.com/yuanzhao-CVLAB/UniMMAD)
  + Unified Unsupervised Anomaly Detection via Matching Cost Filtering [[2025]](https://arxiv.org/abs/2510.03363)[[code]](https://github.com/ZHE-SAPI/CostFilter-AD)
  + One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection [2025](https://arxiv.org/abs/2510.17611)
