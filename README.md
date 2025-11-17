@@ -512,7 +512,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + GeneralAD: Anomaly Detection Across Domains by Attending to Distorted Features [[ECCV 2024]](https://arxiv.org/abs/2407.12427)[[code]](https://github.com/LucStrater/GeneralAD)
 + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
 + Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection [[ACM MM 2024]](https://arxiv.org/abs/2408.03888)
-+ SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
++ SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[JIMS 2025]](https://link.springer.com/article/10.1007/s10845-025-02680-8)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
 + Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [[TCSVT 2024]](https://ieeexplore.ieee.org/document/10716437)[[code]](https://github.com/cqylunlun/PBAS)
 
 ### 2.1.3 Distribution-Map
@@ -711,7 +711,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + BiaS: Incorporating Biased Knowledge to Boost Unsupervised Image Anomaly Localization [[TSMC 2024]](https://ieeexplore.ieee.org/abstract/document/10402554)
 + DMAD: Dual Memory Bank for Real-World Anomaly Detection [[2024]](https://arxiv.org/abs/2403.12362)
 + AnomalousPatchCore: Exploring the Use of Anomalous Samples in Industrial Anomaly Detection [[ECCVW 2024]](https://arxiv.org/abs/2408.15113)
-+ SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
++ SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[JIMS 2025]](https://link.springer.com/article/10.1007/s10845-025-02680-8)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
 + VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[TII 2025]](https://arxiv.org/abs/2412.17263)[[code]](https://github.com/caoyunkang/VarAD)
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)[[code]](https://github.com/fuyunwang/DPDL)
 
@@ -869,7 +869,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + A Unified Anomaly Synthesis Strategy with Gradient Ascent for Industrial Anomaly Detection and Localization [[ECCV 2024]](https://arxiv.org/abs/2407.09359)[[code]](https://github.com/cqylunlun/GLASS)
  + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
  + Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection [[ACM MM 2024]](https://arxiv.org/abs/2408.03888)
- + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
+ + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[JIMS 2025]](https://link.springer.com/article/10.1007/s10845-025-02680-8)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
  + AnomalyControl: Learning Cross-modal Semantic Features for Controllable Anomaly Synthesis [[2024]](https://arxiv.org/abs/2412.06510)
  + Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [[TCSVT 2024]](https://ieeexplore.ieee.org/document/10716437)[[code]](https://github.com/cqylunlun/PBAS)
  + Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation [[ECCV 2024]](https://csgaobb.github.io/Pub_files/ECCV2024_AnoGen_CR_0730_Mobile.pdf)[[code]](https://github.com/gaobb/AnoGen)
