@@ -829,6 +829,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MetaCAN: Improving Generalizability of Few-shot Anomaly Detection with Meta-learning[[CIKM 2025]](https://dl.acm.org/doi/abs/10.1145/3746252.3761253?casa_token=qG2F2WLmNhEAAAAA:9hbnovS_MTgyUyBH7GL8H3cRy68xr9HIkKxno6njzVLKtmG84gfDSFDmTgVrtClsBAQtn6xMa27tZsQ)
  + UniADC: A Unified Framework for Anomaly Detection and Classification [[2025]](https://arxiv.org/abs/2511.06644)
  + Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[2025]](https://arxiv.org/abs/2511.05966)
+ + Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection [[2025]](https://arxiv.org/abs/2510.26464)
 
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
@@ -894,6 +895,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [[AAAI 2026]](https://arxiv.org/abs/2511.06687)[[code]](https://github.com/yulimso/AnoStyler)
  + UniADC: A Unified Framework for Anomaly Detection and Classification [[2025]](https://arxiv.org/abs/2511.06644)[[code is comming]](https://github.com/cnulab/UniADC)
  + Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [[AAAI 2026]](https://arxiv.org/abs/2511.10020)[[code]](https://github.com/yuxin-jiang/Anomagic)
+ + AnomalyControl: Highly-Aligned Anomalous Image Generation with Controlled Diffusion Model [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755274)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -938,7 +940,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
  + Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2505.05901v2)[[code]](https://github.com/hzzzzzhappy/MC4AD)
  + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[2025]](https://arxiv.org/pdf/2505.24431v1
- + Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[MM 2025]](https://arxiv.org/abs/2507.03903v1)
+ + Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[ACM MM 2025]](https://arxiv.org/abs/2507.03903v1)
  + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
  + 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[2025]](https://arxiv.org/abs/2507.13110)
  + Multi-View Reconstruction with Global Context for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2507.21555)[[code]](https://github.com/hustSYH/MVR)
@@ -946,6 +948,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[2025]](https://arxiv.org/abs/2511.03267)
  + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
  + Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[2025]](https://arxiv.org/abs/2511.05853)[[code is comming]](https://github.com/Bingyang0410/CPS3D-Seg)
+ + Robust Modality-Incomplete Anomaly Detection: A Modality-Instructive Framework with Benchmark [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754766)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -957,6 +960,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.06603)[[code]](https://github.com/HULEI7/ReplayCAD)
  + C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [[2025]](https://arxiv.org/abs/2508.01311)[[code]](https://github.com/hzzzzzhappy/CL3AD)
  + CADIC: Continual Anomaly Detection Based on Incremental Coreset [[2025]](https://arxiv.org/abs/2511.08634)
+ + Exploring Multimodal Prompts For Unsupervised Continuous Anomaly Detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755219)
    
 ## 3.7 Uniform/Multi-Class AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
@@ -992,6 +996,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)[[code]](https://github.com/jiayi-art/MC3D-AD)
  + Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection [[TII 2025]](https://arxiv.org/abs/2505.17551v1)[[code]](https://github.com/cqylunlun/CRAS)
  + VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [[2025]](https://arxiv.org/abs/2511.08173)[[code]](https://github.com/giddyyupp/VLMDiff)
+ + Learning Invariant Discriminative Patterns for Unified Anomaly Detection [[ACM MM 2025]]
 
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
@@ -1016,6 +1021,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Component-aware Unsupervised Logical Anomaly Generation for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2502.11712)
  + Towards Training-free Anomaly Detection with Vision and Language Foundation Models [[CVPR 2025]]()[[code]](https://github.com/zhang0jhon/LogSAD)
  + SALAD -- Semantics-Aware Logical Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2509.02101)[[code]](https://github.com/MaticFuc/SALAD)
+ + Uniad: Integrating geometric and semantic cues for unified anomaly detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755422)
 
 ## Other settings
 ### TTT binary segmentation
