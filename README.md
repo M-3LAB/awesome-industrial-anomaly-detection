@@ -33,6 +33,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 - [Recent research](#recent-research)
   - [AAAI 2026](#aaai-2026)
   - [NeurIPS 2025](#neurips-2025)
+  - [ACM MM 2025](#acm-mm-2025)
   - [ICCV 2025](#iccv-2025)
   - [ICML 2025](#icml-2025)
   - [IJCAI 2025](#ijcai-2025)
@@ -158,6 +159,15 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Normal-Abnormal Guided Generalist Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.00495)[[code]](https://github.com/JasonKyng/NAGL)
 + Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NeurIPS 2025]](https://arxiv.org/abs/2510.16865)
 + ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining [[NeurIPS 2025]](https://arxiv.org/abs/2511.05245)[[code]](https://github.com/xcyao00/ADPretrain)
+
+## ACM MM 2025
++ AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation [[ACM MM 2025]](https://arxiv.org/abs/2507.19949)[[code]](https://github.com/Faustinaqq/AF-CLIP)
++ AnomalyControl: Highly-Aligned Anomalous Image Generation with Controlled Diffusion Model [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755274)
++ Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[ACM MM 2025]](https://arxiv.org/abs/2507.03903v1)
++ Robust Modality-Incomplete Anomaly Detection: A Modality-Instructive Framework with Benchmark [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754766)
++ Exploring Multimodal Prompts For Unsupervised Continuous Anomaly Detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755219)
++ Learning Invariant Discriminative Patterns for Unified Anomaly Detection [[ACM MM 2025]]
++ Uniad: Integrating geometric and semantic cues for unified anomaly detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755422)
 
 ## ICCV 2025
 + SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning [[ICCV 2025]](https://arxiv.org/pdf/2410.14987)[[code]](https://github.com/HUST-SLOW/SeaS)
