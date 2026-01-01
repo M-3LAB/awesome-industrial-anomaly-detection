@@ -1051,7 +1051,6 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Supervised Anomaly Detection for Complex Industrial Images [[2024]](https://arxiv.org/abs/2405.04953)[[code]](https://github.com/abc-125/segad)
  + SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection [[2024]](https://arxiv.org/abs/2406.00625)
  + SLSG: Industrial Image Anomaly Detection with Improved Feature Embeddings and One-Class Classification [[PR 2024]](https://www.sciencedirect.com/science/article/pii/S0031320324006137)
- + Unsupervised Component Segmentation for Logical Anomaly Detection [[2024]](https://arxiv.org/abs/2408.15628) [[code]](https://github.com/Tokichan/CSAD)
  + LogiCode: an LLM-Driven Framework for Logical Anomaly Detection [[2024]](https://arxiv.org/pdf/2406.04687)
  + CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection [[BMVC 2024]](https://arxiv.org/abs/2408.15628)[[code]](https://github.com/Tokichan/CSAD)
  + Revisiting Deep Feature Reconstruction for Logical and Structural Industrial Anomaly Detection[[TMLR 2024]](https://arxiv.org/abs/2410.16255)[[code]](https://github.com/sukanyapatra1997/ULSAD-2024)
