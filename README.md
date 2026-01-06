@@ -1209,6 +1209,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_Anomaly_Detection_of_Integrated_Circuits_Package_Substrates_Using_the_Large_ICCV_2025_paper.pdf)[[data]](https://github.com/Bingyang0410/CPS2D-AD)
  + SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[ICCV 2025]](https://arxiv.org/abs/2506.21549)[[data]](https://alex-costanzino.github.io/SiM3D/)
  + Toward Long-Tailed Online Anomaly Detection through Class-Agnostic Concepts [[ICCV 2025]](https://arxiv.org/abs/2507.16946)[[data]](https://zenodo.org/records/16283853)
+ + Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset [[2025]](https://arxiv.org/abs/2512.24160)
 
 ## BibTex Citation
 
