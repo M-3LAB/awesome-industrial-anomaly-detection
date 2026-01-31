@@ -722,6 +722,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Tackling Structural Hallucination in Image Translation with Local Diffusion [[ECCV 2024 oral]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10498.pdf)[[code]](https://github.com/edshkim98/LocalDiffusion-Hallucination)
  + HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection [[2025]](https://arxiv.org/abs/2502.19200)
  + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
+ + How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [[2025]](https://arxiv.org/abs/2508.05461)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
