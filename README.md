@@ -28,11 +28,12 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 ---
 ## Table of Contents
-- [Awesome Industrial Anomaly Detection](#awesome-industrial-anomaly-detection-)
+- [Awesome Industrial Anomaly Detection ](#awesome-industrial-anomaly-detection-)
   - [Table of Contents](#table-of-contents)
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [ICLR 2026](#iclr-2026)
   - [AAAI 2026](#aaai-2026)
   - [NeurIPS 2025](#neurips-2025)
   - [ACM MM 2025](#acm-mm-2025)
@@ -40,20 +41,6 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
   - [ICML 2025](#icml-2025)
   - [IJCAI 2025](#ijcai-2025)
   - [CVPR 2025](#cvpr-2025)
-  - [ICLR 2025](#iclr-2025)
-  - [AAAI 2025](#aaai-2025)
-  <!--- - [NeurIPS 2024](#neurips-2024)
-  - [ECCV 2024](#eccv-2024)
-  - [ACM MM 2024](#acm-mm-2024)
-  - [ICASSP 2024](#icassp-2024)
-  - [CVPR 2024](#cvpr-2024)
-  - [ICLR 2024](#iclr-2024)
-  - [AAAI 2024](#aaai-2024)
-  - [WACV 2024](#wacv-2024)
-  - [NeurIPS 2023](#neurips-2023)
-  - [MLLM related](#mllm-related)
-  - [SAM segment anything](#sam-segment-anything)
-  - [Others](#others)-->
   - [Medical (related)](#medical-related)
 - [Paper Tree (Classification of representative methods)](#paper-tree-classification-of-representative-methods)
 - [Timeline](#timeline)
@@ -65,7 +52,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
     - [2.1.2 One-Class Classification (OCC)](#212-one-class-classification-occ)
     - [2.1.3 Distribution-Map](#213-distribution-map)
     - [2.1.4 Memory Bank](#214-memory-bank)
-    - [2.1.5 Vision Language AD](#215-vision-language-ad)
+    - [2.1.5 Vison Language AD](#215-vison-language-ad)
   - [2.2 Reconstruction-Based Methods](#22-reconstruction-based-methods)
     - [2.2.1 Autoencoder (AE)](#221-autoencoder-ae)
     - [2.2.2 Generative Adversarial Networks (GANs)](#222-generative-adversarial-networks-gans)
@@ -73,14 +60,14 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
     - [2.2.4 Diffusion Model](#224-diffusion-model)
     - [2.2.5 Others](#225-others)
   - [2.3 Supervised AD](#23-supervised-ad)
-    - [More Normal samples With (Less Abnormal Samples or Weak Labels)](#more-normal-samples-with-less-abnormal-samples-or-weak-labels)
+    - [More Normal Samples With (Less Abnormal Samples or Weak Labels)](#more-normal-samples-with-less-abnormal-samples-or-weak-labels)
     - [More Abnormal Samples](#more-abnormal-samples)
-- [3 Other Research Directions](#3-other-research-directions)
+- [3 Other Research Direction](#3-other-research-direction)
   - [3.1 Zero/Few-Shot AD](#31-zerofew-shot-ad)
     - [Zero-Shot AD](#zero-shot-ad)
     - [Few-Shot AD](#few-shot-ad)
   - [3.2 Noisy AD](#32-noisy-ad)
-  - [3.3 Anomaly Synthesis](#33-anomaly-synthesis)
+  - [3.3 Anomaly Synthesis \[awesome-anomaly-synthesis\]](#33-anomaly-synthesis-awesome-anomaly-synthesis)
   - [3.4 RGBD AD](#34-rgbd-ad)
   - [3.5 3D AD](#35-3d-ad)
   - [3.6 Continual AD](#36-continual-ad)
@@ -92,6 +79,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
     - [MoE with TTA](#moe-with-tta)
     - [Adversary Attack](#adversary-attack)
     - [Defect Classification](#defect-classification)
+    - [Rubustness](#rubustness)
+    - [Universal Task](#universal-task)
 - [4 Dataset](#4-dataset)
   - [BibTex Citation](#bibtex-citation)
   - [Star History](#star-history)
@@ -148,6 +137,10 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Anomaly Detection Datasets and Benchmarks [[paper with code]](https://paperswithcode.com/task/anomaly-detection)
 
 # Recent research
+## ICLR 2026
++ Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
++ MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://arxiv.org/abs/2602.00522)
++ PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
 
 ## AAAI 2026
 + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
@@ -156,6 +149,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [[AAAI 2026]](https://arxiv.org/abs/2511.06687)[[code]](https://github.com/yulimso/AnoStyler)
 + Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [[AAAI 2026]](https://arxiv.org/abs/2511.10020)[[code]](https://github.com/yuxin-jiang/Anomagic)
 + Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2025]](https://arxiv.org/abs/2511.05966)[[code]](https://github.com/Sunny5250/CIF)
++ IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2508.09178)[[code]](https://github.com/Yanhui-Lee/IAD-R1)
 
 ## NeurIPS 2025
 + FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis [[NeurIPS 2025]](https://arxiv.org/abs/2509.20295)[[code]](https://anonymous.4open.science/r/NeurIPS-938/README1.md)
@@ -185,7 +179,6 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [[ICCV 2025]](https://arxiv.org/abs/2503.13184)[[code]](https://github.com/tzjtatata/Triad)
 + Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2410.10289)[[code]](https://github.com/mala-lab/FAPrompt)
 + Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_Anomaly_Detection_of_Integrated_Circuits_Package_Substrates_Using_the_Large_ICCV_2025_paper.pdf)[[data]](https://github.com/Bingyang0410/CPS2D-AD)
-+ IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2508.09178)[[code]](https://github.com/Yanhui-Lee/IAD-R1)
 + Debiasing Trace Guidance: Top-down Trace Distillation and Bottom-up Velocity Alignment for Unsupervised Anomaly Detection [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Debiasing_Trace_Guidance_Top-down_Trace_Distillation_and_Bottom-up_Velocity_Alignment_ICCV_2025_paper.pdf)
 + FIND: Few-Shot Anomaly Inspection with Normal-Only Multi-Modal Data [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FIND_Few-Shot_Anomaly_Inspection_with_Normal-Only_Multi-Modal_Data_ICCV_2025_paper.pdf)
 + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV 2025]](https://arxiv.org/abs/2505.24431)[[code]](https://github.com/ZZZBBBZZZ/PASDF)
@@ -240,7 +233,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images [[CVPR 2025 VAND 3.0 Workshop]](https://arxiv.org/abs/2505.21152)[[code]](https://github.com/xrli-U/RoBiS)
 + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)  
 
-## ICLR 2025
+<!-- ## ICLR 2025
 + MMAD: The Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=JDiER86r8v)[[Code]](https://github.com/jam-cc/MMAD)  [[Data]](https://huggingface.co/datasets/jiang-cc/MMAD)
 + One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning [[ICLR 2025]](https://openreview.net/forum?id=Zzs3JwknAY) 
 + Language-Assisted Feature Transformation for Anomaly Detection [[ICLR 2025]](https://openreview.net/forum?id=2p03KljxE9)
@@ -258,7 +251,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.13461)[[code]](https://github.com/M-3LAB/Look-Inside-for-More)
 + Unlocking the Potential of Reverse Distillation for Anomaly Detection [[AAAI 2025]](https://arxiv.org/abs/2412.07579)[[code]](https://github.com/hito2448/URD)
 + Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning [[AAAI 2025]](https://arxiv.org/abs/2411.17217)[[code]](https://github.com/THU-MIG/SAM-SPT)
-+ 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[code]](https://github.com/EnquanYang2022/3CAD)
++ 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly [[AAAI 2025]](https://arxiv.org/abs/2502.05761)[[code]](https://github.com/EnquanYang2022/3CAD) -->
 
 
 <!--- 
