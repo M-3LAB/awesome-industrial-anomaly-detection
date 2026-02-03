@@ -141,6 +141,10 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
 + MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://arxiv.org/abs/2602.00522)
 + PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
++ Dual Distillation for Few-Shot Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=tRO6G20Qba)
++ Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [[ICLR 2026]](https://openreview.net/forum?id=XW4mROtaVb)
+
+
 
 ## AAAI 2026
 + Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[AAAI 2026 oral]](https://arxiv.org/abs/2507.07435)[[code]](https://hustcyq.github.io/MiniShift-Simple3D/)
@@ -698,6 +702,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Context Enhancement with Reconstruction as Sequence for Unified Unsupervised Anomaly Detection[[2024]](https://arxiv.org/abs/2409.06285)[[code]](https://github.com/Nothingtolose9979/RAS)
  + Multi-scale feature reconstruction network for industrial anomaly detection [[KBS 2024]](https://www.sciencedirect.com/science/article/pii/S095070512401284X)[[code]](https://github.com/Ehteshamciitwah/MSFR)
  + Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics [[2025]](https://arxiv.org/html/2504.10021v1)
+ + Vague Prototype-Oriented Diffusion Model for Multi-Class Anomaly Detection [[ICML 2024]](https://openreview.net/forum?id=FvLd8Gr7xq)
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
 
 ### 2.2.4 Diffusion Model
@@ -815,6 +820,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + On the Problem of Consistent Anomalies in Zero-Shot Industrial Anomaly Detection [[TMLR 2025]](https://openreview.net/forum?id=o2MRb5QZ34)
  + FE-CLIP: Frequency Enhanced CLIP Model for Zero-Shot Anomaly Detection and Segmentation [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.pdf)
  + Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2410.10289)[[code]](https://github.com/mala-lab/FAPrompt)
+ + MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://arxiv.org/abs/2602.00522)
 
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
@@ -857,7 +863,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + UniADC: A Unified Framework for Anomaly Detection and Classification [[2025]](https://arxiv.org/abs/2511.06644)
  + Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[2025]](https://arxiv.org/abs/2511.05966)
  + Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection [[2025]](https://arxiv.org/abs/2510.26464)
-
+ + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
+ + Dual Distillation for Few-Shot Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=tRO6G20Qba)
+  
 ## 3.2 Noisy AD
  + Trustmae: A noise-resilient defect classification framework using memory-augmented auto-encoders with trust regions [[WACV 2021]](http://arxiv.org/pdf/2012.14629)
  + Self-Supervise, Refine, Repeat: Improving Unsupervised Anomaly Detection [[TMLR 2021]](https://arxiv.org/pdf/2106.06115.pdf)
@@ -979,6 +987,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Multi-View Reconstruction with Global Context for 3D Anomaly Detection [[IEEE SMC 2025]](https://arxiv.org/abs/2507.21555)[[code]](https://github.com/hustSYH/MVR)
  + Robust Modality-Incomplete Anomaly Detection: A Modality-Instructive Framework with Benchmark [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754766)
  + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV 2025]](https://arxiv.org/abs/2505.24431)[[code]](https://github.com/ZZZBBBZZZ/PASDF)
+ + PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -1077,6 +1086,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2508.09178)[[code]](https://github.com/Yanhui-Lee/IAD-R1)
 + AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[2025]](https://arxiv.org/abs/2508.04175)
 + AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2512.13671)
++ Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [[ICLR 2026]](https://openreview.net/forum?id=XW4mROtaVb)
+
 
 ## Other settings
 ### TTT binary segmentation
