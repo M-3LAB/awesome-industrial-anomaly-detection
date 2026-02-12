@@ -123,7 +123,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 # Recommended Benchmarks
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/openvinotoolkit/anomalib.svg?style=social&label=Star) <br> [**Anomalib: A Deep Learning Library for Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/9897283/) <br> | ICIP | 2022 | [Github](https://github.com/openvinotoolkit/anomalib) | Benchmark |
+| ![Star](https://img.shields.io/github/stars/open-edge-platform/anomalib.svg?style=social&label=Star) <br> [**Anomalib: A Deep Learning Library for Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/9897283/) <br> | ICIP | 2022 | [Github](https://github.com/open-edge-platform/anomalib) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/M-3LAB/open-iad.svg?style=social&label=Star) <br> [**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**](https://arxiv.org/abs/2301.13359) <br> | TCYB | 2024 | [Github](https://github.com/M-3LAB/open-iad) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ader.svg?style=social&label=Star) <br> [**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**](http://arxiv.org/pdf/2406.03262v1) <br> | arxiv | 2024 | [Github](https://github.com/zhangzjn/ader) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/jam-cc/MMAD.svg?style=social&label=Star) <br> [**MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**](https://arxiv.org/abs/2410.09453) <br> | ICLR | 2024 | [Github](https://github.com/jam-cc/MMAD) | Benchmark |
@@ -472,7 +472,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Benchmarking Unsupervised Anomaly Detection and Localization [[2022]](https://arxiv.org/abs/2205.14852)
 + IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [[TCYB 2024]](https://arxiv.org/abs/2301.13359)[[code]](https://github.com/M-3LAB/open-iad)[[中文]](https://blog.csdn.net/m0_63828250/article/details/136891730)
 + A Deep Learning-based Software for Manufacturing Defect Inspection [[TII 2017]](https://ieeexplore.ieee.org/document/9795891)[[code]](https://github.com/sundyCoder/DEye)
-+ Anomalib: A Deep Learning Library for Anomaly Detection [[ICIP 2022]](https://ieeexplore.ieee.org/abstract/document/9897283/)[[code]](https://github.com/openvinotoolkit/anomalib)
++ Anomalib: A Deep Learning Library for Anomaly Detection [[ICIP 2022]](https://ieeexplore.ieee.org/abstract/document/9897283/)[[code]](https://github.com/open-edge-platform/anomalib)
 + Ph.D. thesis of Paul Bergmann(The first author of MVTec AD series) [[2022]](https://mediatum.ub.tum.de/1662158)
 + CVPR 2023 Tutorial on "Recent Advances in Anomaly Detection" [[CVPR Workshop 2023]](https://sites.google.com/view/cvpr2023-tutorial-on-ad/)[[video]](https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be)
 + A Survey on Visual Anomaly Detection: Challenge, Approach, and Prospect [[2024]](https://arxiv.org/pdf/2401.16402.pdf)
