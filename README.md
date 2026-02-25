@@ -33,6 +33,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [CVPR 2026](#cvpr-2026)
   - [ICLR 2026](#iclr-2026)
   - [AAAI 2026](#aaai-2026)
   - [NeurIPS 2025](#neurips-2025)
@@ -137,13 +138,15 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Anomaly Detection Datasets and Benchmarks [[paper with code]](https://paperswithcode.com/task/anomaly-detection)
 
 # Recent research
+## CVPR 2026
++ Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal [[CVPR 2026]]()
+
 ## ICLR 2026
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
 + MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://arxiv.org/abs/2602.00522)
 + PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
 + Dual Distillation for Few-Shot Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=tRO6G20Qba)
 + Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [[ICLR 2026]](https://openreview.net/forum?id=XW4mROtaVb)
-
 
 
 ## AAAI 2026
@@ -597,6 +600,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Unsupervised, Online and On-The-Fly Anomaly Detection For Non-Stationary Image Distributions [[ECCV 2024]](https://eccv2024.ecva.net/virtual/2024/poster/2289)[[code]]
  + Target before Shooting: Accurate Anomaly Detection and Localization under One Millisecond via Cascade Patch Retrieval [[TIP 2024]](https://arxiv.org/abs/2308.06748)[[code]](https://github.com/flyinghu123/CPR)
  + Tailored Transformation Invariance for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2509.17670)[[code]](https://github.com/marietteschonfeld/LWinNN)
+ + EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [[2026]](https://arxiv.org/abs/2602.17419)[[code]](https://github.com/shengtun/Eagle-Anomaly-Detection)
 
 ### 2.1.5 Vison Language AD
 + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
@@ -628,6 +632,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2510.16036)[[code]](https://github.com/LiZeWen1225/IAD-GPT)
 + VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [[2025]](https://arxiv.org/abs/2511.08173)[[code]](https://github.com/giddyyupp/VLMDiff)
 + Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process [[ICCV 2025]](https://arxiv.org/abs/2503.13184)[[code]](https://github.com/tzjtatata/Triad)
++ EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [[2026]](https://arxiv.org/abs/2602.17419)[[code]](https://github.com/shengtun/Eagle-Anomaly-Detection)
 
 ## 2.2 Reconstruction-Based Methods
 
