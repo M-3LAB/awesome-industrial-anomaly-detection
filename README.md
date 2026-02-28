@@ -140,6 +140,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 # Recent research
 ## CVPR 2026
 + Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal [[CVPR 2026]]()
++ InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[CVPR 2026]](https://arxiv.org/abs/2504.05662v3)[[code]](https://github.com/SkyShunsuke/InversionAD)
 
 ## ICLR 2026
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
@@ -726,6 +727,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection [[2025]](https://arxiv.org/abs/2502.19200)
  + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
  + How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [[2025]](https://arxiv.org/abs/2508.05461)
+ + InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[CVPR 2026]](https://arxiv.org/abs/2504.05662v3)[[code]](https://github.com/SkyShunsuke/InversionAD)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
