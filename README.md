@@ -172,7 +172,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[ACM MM 2025]](https://arxiv.org/abs/2507.03903v1)
 + Robust Modality-Incomplete Anomaly Detection: A Modality-Instructive Framework with Benchmark [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754766)
 + Exploring Multimodal Prompts For Unsupervised Continuous Anomaly Detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755219)
-+ Learning Invariant Discriminative Patterns for Unified Anomaly Detection [[ACM MM 2025]]
++ Learning Invariant Discriminative Patterns for Unified Anomaly Detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755179)
 + Uniad: Integrating geometric and semantic cues for unified anomaly detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755422)
 
 ## ICCV 2025
@@ -1043,7 +1043,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)[[code]](https://github.com/jiayi-art/MC3D-AD)
  + Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection [[TII 2025]](https://arxiv.org/abs/2505.17551v1)[[code]](https://github.com/cqylunlun/CRAS)
  + VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion [[2025]](https://arxiv.org/abs/2511.08173)[[code]](https://github.com/giddyyupp/VLMDiff)
- + Learning Invariant Discriminative Patterns for Unified Anomaly Detection [[ACM MM 2025]]
+ + Learning Invariant Discriminative Patterns for Unified Anomaly Detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755179)
  + DecAD: Decoupling Anomalies in Latent Space for Multi-Class Unsupervised Anomaly Detection [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_DecAD_Decoupling_Anomalies_in_Latent_Space_for_Multi-Class_Unsupervised_Anomaly_ICCV_2025_paper.html)
  + Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [[Data Intelligence 2025]](https://arxiv.org/abs/2512.11401)[[code]](https://github.com/qiqigeww/CRR-MUAD)
 
