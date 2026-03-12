@@ -142,6 +142,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal [[CVPR 2026]](https://arxiv.org/abs/2603.02629)
 + InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[CVPR 2026]](https://arxiv.org/abs/2504.05662)[[code]](https://github.com/SkyShunsuke/InversionAD)
 + SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling [[CVPR 2026]](https://arxiv.org/abs/2602.23013)[[code]](https://github.com/CLendering/SubspaceAD)
++ VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer [[CVPR 2026]](https://arxiv.org/abs/2603.07952)[[code]](https://github.com/7HHHHH/VisualAD)
++ MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness [[CVPR 2026 Findings]](https://arxiv.org/abs/2507.02314)[[code]](https://github.com/SpatialAILab/MAGIC-Anomaly-generation)
++ Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection [[CVPR 2026 Findings]](https://arxiv.org/abs/2602.18811)
 
 ## ICLR 2026
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
@@ -1095,7 +1098,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[2025]](https://arxiv.org/abs/2508.04175)
 + AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2512.13671)
 + Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [[ICLR 2026]](https://openreview.net/forum?id=XW4mROtaVb)
-
++ Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2602.09850)[[code]](https://github.com/chenpeng052/Reason-IAD)
++ MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation [[2026]](https://arxiv.org/abs/2602.07011)
 
 ## Other settings
 ### TTT binary segmentation
