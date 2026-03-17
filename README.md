@@ -1100,6 +1100,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [[ICLR 2026]](https://openreview.net/forum?id=XW4mROtaVb)
 + Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2602.09850)[[code]](https://github.com/chenpeng052/Reason-IAD)
 + MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation [[2026]](https://arxiv.org/abs/2602.07011)
++ SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment [[2026]](https://arxiv.org/abs/2507.07939)
++ AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison [[2026]](https://arxiv.org/pdf/2603.13779)[[code]](https://github.com/jam-cc/AD-Copilot)
 
 ## Other settings
 ### TTT binary segmentation
