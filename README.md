@@ -158,8 +158,24 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + AnomalyMoE: Towards a Language-free Generalist Model for Unified Visual Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2508.06203)[[code]](https://github.com/CASIA-LMC-Lab/AnomalyMoE)
 + AnoStyler: Text-Driven Localized Anomaly Generation via Lightweight Style Transfer [[AAAI 2026]](https://arxiv.org/abs/2511.06687)[[code]](https://github.com/yulimso/AnoStyler)
 + Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [[AAAI 2026]](https://arxiv.org/abs/2511.10020)[[code]](https://github.com/yuxin-jiang/Anomagic)
-+ Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2025]](https://arxiv.org/abs/2511.05966)[[code]](https://github.com/Sunny5250/CIF)
++ Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966)[[code]](https://github.com/Sunny5250/CIF)
 + IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2508.09178)[[code]](https://github.com/Yanhui-Lee/IAD-R1)
++ CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2511.12909)[[code]](https://github.com/zyh16143998882/CASL)
++ MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/download/38573/42535)[[code]](https://github.com/liugang-xd/MaskAD)
++ CHIMERA:Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/37511)[[code]](https://github.com/cvlab-kaist/CHIMERA)
++ PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures [[AAAI 2026]](https://arxiv.org/abs/2511.18116)[[code]](https://github.com/yourusername/PromptMoE)
++ Unsupervised Multi-View Visual Anomaly Detection via Progressive Homography-Guided Alignment [[AAAI 2026]](https://arxiv.org/abs/2511.18766)
++ AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis [[AAAI 2026]](https://arxiv.org/abs/2503.07253)
++ Exploring High-order-aware Prompt Learning for Zero-shot Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/38029)
++ RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2512.11284)
++ CADiff: Context-Aware Diffusion for Controllable Anomaly Generation in Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/37917)
++ Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [[AAAI 2026]](https://arxiv.org/abs/2508.03539)[[code]](https://github.com/neymarql/QARAD)
++ MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation [[AAAI 2026]](https://arxiv.org/abs/2602.07011)
++ SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2512.05540)
++ Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966)[[code]](https://github.com/Sunny5250/CIF)
++ RPE-PAD: Relative Pose Estimation for Pose-agnostic Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/38304)
++ AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[AAAI 2026]](https://arxiv.org/abs/2508.04175)
++ FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [[AAAI 2026]](https://arxiv.org/abs/2511.12899)[[code]](https://github.com/ls1rius/MRI_FDP)
 
 ## NeurIPS 2025
 + FAST: Foreground-aware Diffusion with Accelerated Sampling Trajectory for Segmentation-oriented Anomaly Synthesis [[NeurIPS 2025]](https://arxiv.org/abs/2509.20295)[[code]](https://anonymous.4open.science/r/NeurIPS-938/README1.md)
@@ -410,7 +426,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning[[2025]](https://arxiv.org/abs/2505.22039)
 + EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [[2025]](https://arxiv.org/abs/2507.21619)[[code]](https://github.com/guanwei49/EMIT)
 + IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2508.09178)[[code]](https://github.com/Yanhui-Lee/IAD-R1)
-+ AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[2025]](https://arxiv.org/abs/2508.04175)
++ AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[AAAI 2026]](https://arxiv.org/abs/2508.04175)
 + AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2512.13671)
 
 ## CVPR 2023
@@ -692,6 +708,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Variational Autoencoder for Anomaly Detection: A Comparative Study [[2024]](https://arxiv.org/abs/2408.13561)[[code]](https://github.com/endtheme123/VAE-compare)
  + Visual defect obfuscation based self-supervised anomaly detection [[2024]](https://www.nature.com/articles/s41598-024-69698-5)
  + Revitalizing Reconstruction Models for Multi-class Anomaly Detection via Class-Aware Contrastive Learning [[2024]](https://arxiv.org/abs/2412.04769)[[code]](https://github.com/LGC-AD/AD-LGC)
+ + RcAE: Recursive Reconstruction Framework for Unsupervised Industrial Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2512.11284)
 
 ### 2.2.2 Generative Adversarial Networks (GANs)
  + Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection [[TIP 2023]](https://ieeexplore.ieee.org/abstract/document/10192551/)[[code]](https://github.com/zhangzjn/ocr-gan)
@@ -735,6 +752,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
  + How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [[2025]](https://arxiv.org/abs/2508.05461)
  + InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[CVPR 2026]](https://arxiv.org/abs/2504.05662)[[code]](https://github.com/SkyShunsuke/InversionAD)
+ + FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [[AAAI 2026]](https://arxiv.org/abs/2511.12899)[[code]](https://github.com/ls1rius/MRI_FDP)
 
 ### 2.2.5 Others
  + Anomaly Detection using Score-based Perturbation Resilience [[ICCV 2023]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shin_Anomaly_Detection_using_Score-based_Perturbation_Resilience_ICCV_2023_paper.pdf)
@@ -836,6 +854,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + FE-CLIP: Frequency Enhanced CLIP Model for Zero-Shot Anomaly Detection and Segmentation [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.pdf)
  + Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2410.10289)[[code]](https://github.com/mala-lab/FAPrompt)
  + MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://arxiv.org/abs/2602.00522)
+ + PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures [[AAAI 2026]](https://arxiv.org/abs/2511.18116)[[code]](https://github.com/yourusername/PromptMoE)
+ + Exploring High-order-aware Prompt Learning for Zero-shot Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/38029)
 
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
@@ -876,7 +896,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[2025]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
  + MetaCAN: Improving Generalizability of Few-shot Anomaly Detection with Meta-learning[[CIKM 2025]](https://dl.acm.org/doi/abs/10.1145/3746252.3761253?casa_token=qG2F2WLmNhEAAAAA:9hbnovS_MTgyUyBH7GL8H3cRy68xr9HIkKxno6njzVLKtmG84gfDSFDmTgVrtClsBAQtn6xMa27tZsQ)
  + UniADC: A Unified Framework for Anomaly Detection and Classification [[2025]](https://arxiv.org/abs/2511.06644)
- + Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[2025]](https://arxiv.org/abs/2511.05966)
+ + Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966)[[code]](https://github.com/Sunny5250/CIF)
  + Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection [[2025]](https://arxiv.org/abs/2510.26464)
  + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
  + Dual Distillation for Few-Shot Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=tRO6G20Qba)
@@ -946,6 +966,10 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + UniADC: A Unified Framework for Anomaly Detection and Classification [[2025]](https://arxiv.org/abs/2511.06644)[[code is comming]](https://github.com/cnulab/UniADC)
  + Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation [[AAAI 2026]](https://arxiv.org/abs/2511.10020)[[code]](https://github.com/yuxin-jiang/Anomagic)
  + AnomalyControl: Highly-Aligned Anomalous Image Generation with Controlled Diffusion Model [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755274)
+ + CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/37511)[[code]](https://github.com/cvlab-kaist/CHIMERA)
+ + AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis [[AAAI 2026]](https://arxiv.org/abs/2503.07253)
+ + CADiff: Context-Aware Diffusion for Controllable Anomaly Generation in Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/37917)
+ + Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [[AAAI 2026]](https://arxiv.org/abs/2508.03539)[[code]](https://github.com/neymarql/QARAD)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -971,8 +995,10 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[AAAI 2025]](https://arxiv.org/abs/2412.17297)
  + Mentor3AD: Feature Reconstruction-based 3D Anomaly Detection via Multi-modality Mentor Learning [[2025]](https://arxiv.org/abs/2505.21420)
  + AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)
- + Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2025]](https://arxiv.org/abs/2511.05966)[[code]](https://github.com/Sunny5250/CIF)
+ + Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966)[[code]](https://github.com/Sunny5250/CIF)
  + G2SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection[[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Tao_G2SF_Geometry-Guided_Score_Fusion_for_Multimodal_Industrial_Anomaly_Detection_ICCV_2025_paper.pdf)[[code]](https://github.com/ctaoaa/G2SF)
+ + Unsupervised Multi-View Visual Anomaly Detection via Progressive Homography-Guided Alignment [[AAAI 2026]](https://arxiv.org/abs/2511.18766)
+ + RPE-PAD: Relative Pose Estimation for Pose-agnostic Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/38304)
 
 ## 3.5 3D AD
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[code]](https://github.com/M-3LAB/Real3D-AD)
@@ -1003,6 +1029,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Robust Modality-Incomplete Anomaly Detection: A Modality-Instructive Framework with Benchmark [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754766)
  + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV 2025]](https://arxiv.org/abs/2505.24431)[[code]](https://github.com/ZZZBBBZZZ/PASDF)
  + PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
+ + CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2511.12909)[[code]](https://github.com/zyh16143998882/CASL)
+ + SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2512.05540)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -1053,6 +1081,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Learning Invariant Discriminative Patterns for Unified Anomaly Detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755179)
  + DecAD: Decoupling Anomalies in Latent Space for Multi-Class Unsupervised Anomaly Detection [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_DecAD_Decoupling_Anomalies_in_Latent_Space_for_Multi-Class_Unsupervised_Anomaly_ICCV_2025_paper.html)
  + Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [[Data Intelligence 2025]](https://arxiv.org/abs/2512.11401)[[code]](https://github.com/qiqigeww/CRR-MUAD)
+ + MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/download/38573/42535)[[code]](https://github.com/liugang-xd/MaskAD)
 
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
@@ -1100,11 +1129,11 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning [[2025]](https://arxiv.org/abs/2505.22039)
 + EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware [[2025]](https://arxiv.org/abs/2507.21619)[[code]](https://github.com/guanwei49/EMIT)
 + IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2508.09178)[[code]](https://github.com/Yanhui-Lee/IAD-R1)
-+ AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[2025]](https://arxiv.org/abs/2508.04175)
++ AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization [[AAAI 2026]](https://arxiv.org/abs/2508.04175)
 + AgentIAD: Tool-Augmented Single-Agent for Industrial Anomaly Detection [[2025]](https://arxiv.org/abs/2512.13671)
 + Judo: A Juxtaposed Domain-oriented Multimodal Reasoner for Industrial Anomaly QA [[ICLR 2026]](https://openreview.net/forum?id=XW4mROtaVb)
 + Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2602.09850)[[code]](https://github.com/chenpeng052/Reason-IAD)
-+ MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation [[2026]](https://arxiv.org/abs/2602.07011)
++ MAU-GPT: Enhancing Multi-type Industrial Anomaly Understanding via Anomaly-aware and Generalist Experts Adaptation [[AAAI 2026]](https://arxiv.org/abs/2602.07011)
 + SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment [[2026]](https://arxiv.org/abs/2507.07939)
 + AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison [[2026]](https://arxiv.org/pdf/2603.13779)[[code]](https://github.com/jam-cc/AD-Copilot)
 
