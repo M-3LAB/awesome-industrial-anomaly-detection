@@ -141,8 +141,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[CVPR 2026]](https://arxiv.org/abs/2504.05662)[[code]](https://github.com/SkyShunsuke/InversionAD)
 + SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling [[CVPR 2026]](https://arxiv.org/abs/2602.23013)[[code]](https://github.com/CLendering/SubspaceAD)
 + VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer [[CVPR 2026]](https://arxiv.org/abs/2603.07952)[[code]](https://github.com/7HHHHH/VisualAD)
++ Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2408.13516)[[code]](https://github.com/YoojLee/AnoPLe)
 + MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness [[CVPR 2026 Findings]](https://arxiv.org/abs/2507.02314)[[code]](https://github.com/SpatialAILab/MAGIC-Anomaly-generation)
-+ Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection [[CVPR 2026 Findings]](https://arxiv.org/abs/2602.18811)
 
 ## ICLR 2026
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
