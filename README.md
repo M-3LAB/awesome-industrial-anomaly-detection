@@ -143,6 +143,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer [[CVPR 2026]](https://arxiv.org/abs/2603.07952)[[code]](https://github.com/7HHHHH/VisualAD)
 + Bidirectional Multimodal Prompt Learning with Scale-Aware Training for Few-Shot Multi-Class Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2408.13516)[[code]](https://github.com/YoojLee/AnoPLe)
 + MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness [[CVPR 2026 Findings]](https://arxiv.org/abs/2507.02314)[[code]](https://github.com/SpatialAILab/MAGIC-Anomaly-generation)
++ AnomalyVFM - Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [[CVPR 2026]](https://arxiv.org/abs/2601.20524)[[code]](https://github.com/MaticFuc/AnomalyVFM/tree/main)
 
 ## ICLR 2026
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
@@ -856,6 +857,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://arxiv.org/abs/2602.00522)
  + PromptMoE: Generalizable Zero-Shot Anomaly Detection via Visually-Guided Prompt Mixtures [[AAAI 2026]](https://arxiv.org/abs/2511.18116)[[code]](https://github.com/yourusername/PromptMoE)
  + Exploring High-order-aware Prompt Learning for Zero-shot Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/38029)
+ + AnomalyVFM - Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors [[CVPR 2026]](https://arxiv.org/abs/2601.20524)[[code]](https://github.com/MaticFuc/AnomalyVFM/tree/main)
 
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
