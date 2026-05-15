@@ -627,7 +627,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Image alignment-based patch distribution framework for anomaly detection [[ICCVDM 2024]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13063/130630O/Image-alignment-based-patch-distribution-framework-for-anomaly-detection/10.1117/12.3021499.full)
 + MSFlow: Multi-Scale Flow-based Framework for Unsupervised Anomaly Detection [[2024]](https://arxiv.org/abs/2308.15300)[[code]](https://github.com/cool-xuan/msflow)
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)[[code]](https://github.com/fuyunwang/DPDL)
-  + Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/37868)
++ Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/37868)
 
 ### 2.1.4 Memory Bank
  + ReConPatch: Contrastive Patch Representation Learning for Industrial Anomaly Detection [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Hyun_ReConPatch_Contrastive_Patch_Representation_Learning_for_Industrial_Anomaly_Detection_WACV_2024_paper.pdf)
@@ -661,6 +661,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [[2026]](https://arxiv.org/abs/2602.17419)[[code]](https://github.com/shengtun/Eagle-Anomaly-Detection)
  + RAID: Retrieval-Augmented Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2602.19611)[[code]](https://github.com/Mingxiu-Cai/RAID)
 + Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/38295)
+
 ### 2.1.5 Vison Language AD
 + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
@@ -1066,7 +1067,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2412.12617)
  + MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI 2025]](https://arxiv.org/abs/2505.01969)
  + Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[2025]](https://arxiv.org/abs/2505.05901v2)[[code]](https://github.com/hzzzzzhappy/MC4AD)
- + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[2025]](https://arxiv.org/pdf/2505.24431v1
+ + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[2025]](https://arxiv.org/pdf/2505.24431v1)
  + Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[ACM MM 2025]](https://arxiv.org/abs/2507.03903v1)
  + 3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[2025]](https://arxiv.org/abs/2507.07838)[[data]](https://huggingface.co/datasets/pmchard/3D-ADAM)[[code]](https://github.com/PaulMcHard/3D-ADAMBench)
  + 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[2025]](https://arxiv.org/abs/2507.13110)
