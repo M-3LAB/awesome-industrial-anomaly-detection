@@ -34,6 +34,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research](#recent-research)
+  - [ICML 2026](#icml-2026)
   - [CVPR 2026](#cvpr-2026)
   - [ICLR 2026](#iclr-2026)
   - [AAAI 2026](#aaai-2026)
@@ -140,6 +141,10 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 # Recent research
 ## ICML 2026
 + Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
++ CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[ICML 2026]](https://icml.cc/virtual/2026/poster/62489)
++ Formally Exploring Visual Anomaly Detection Evaluation Metrics [[ICML 2026]](https://icml.cc/virtual/2026/poster/65518)
++ Is Training Necessary for Anomaly Detection? [[ICML 2026]](https://arxiv.org/abs/2601.22763)[[code]](https://github.com/longkukuhi/RAD)
++ Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[ICML 2026]](https://icml.cc/virtual/2026/poster/62880)
 
 ## CVPR 2026
 + Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal [[CVPR 2026]](https://arxiv.org/abs/2603.02629)
