@@ -138,6 +138,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Anomaly Detection Datasets and Benchmarks [[paper with code]](https://paperswithcode.com/task/anomaly-detection)
 
 # Recent research
+## ICML 2026
++ Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
+
 ## CVPR 2026
 + Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal [[CVPR 2026]](https://arxiv.org/abs/2603.02629)
 + InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[CVPR 2026]](https://arxiv.org/abs/2504.05662)[[code]](https://github.com/SkyShunsuke/InversionAD)
