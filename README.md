@@ -795,7 +795,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Tackling Structural Hallucination in Image Translation with Local Diffusion [[ECCV 2024 oral]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10498.pdf)[[code]](https://github.com/edshkim98/LocalDiffusion-Hallucination)
  + HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection [[2025]](https://arxiv.org/abs/2502.19200)
  + One-for-More: Continual Diffusion Model for Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.19848)
- + How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [[2025]](https://arxiv.org/abs/2508.05461)
+ + How and Why: Taming Flow Matching for Unsupervised Anomaly Detection and Localization [[2025]](https://arxiv.org/abs/2508.05461) [[code]](https://github.com/lil-wayne-0319/fmad)
  + InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models [[CVPR 2026]](https://arxiv.org/abs/2504.05662)[[code]](https://github.com/SkyShunsuke/InversionAD)
  + FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI [[AAAI 2026]](https://arxiv.org/abs/2511.12899)[[code]](https://github.com/ls1rius/MRI_FDP)
 
