@@ -587,6 +587,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MiniMaxAD: A Lightweight Autoencoder for Feature-Rich Anomaly Detection [[2024]](https://arxiv.org/abs/2405.09933)
 + Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
 + Anomaly Detection and Localization via Reverse Distillation with Latent Anomaly Suppression [[TCSVT 2025]](https://ieeexplore.ieee.org/abstract/document/10969994)
++ Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
 
 ### 2.1.2 One-Class Classification (OCC)
 + Patch svdd: Patch-level svdd for anomaly detection and segmentation [[ACCV 2020]](https://arxiv.org/pdf/2006.16067.pdf)
@@ -972,6 +973,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation [[PR 2025]](https://arxiv.org/abs/2412.20870)[[code]](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
  + FUN-AD: Fully Unsupervised Learning for Anomaly Detection with Noisy Training Data [[WACV 2025]](https://arxiv.org/abs/2411.16110)[[code]](https://github.com/HY-Vision-Lab/FUNAD)
  + Towards Real Unsupervised Anomaly Detection Via Confident Meta-Learning [[ICCV 2025]](https://arxiv.org/abs/2508.02293)
+ + Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
 
 ## 3.3 Anomaly Synthesis [[awesome-anomaly-synthesis]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
