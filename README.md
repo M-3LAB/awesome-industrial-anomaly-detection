@@ -1207,6 +1207,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional
 Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2603.00055)[[code]](https://github.com/Yanhui-Lee/M3-AD)
 + AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison [[2026]](https://arxiv.org/pdf/2603.13779)[[Code]](https://github.com/jam-cc/AD-Copilot)[[Model]](https://huggingface.co/jiang-cc/AD-Copilot)[[Demo]](https://huggingface.co/spaces/jiang-cc/AD-Copilot)
++ IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools [[2026]](https://arxiv.org/abs/2605.20682)
++ AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection [[2026]](https://arxiv.org/abs/2605.30140)[[code]](https://github.com/mala-lab/AnomalyAgent)
 
 ## Other settings
 ### TTT binary segmentation
