@@ -1095,6 +1095,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511)[[code]](https://github.com/wistful-8029/BTP-3DAD)
 + Wavelet-Driven 3D Anomaly Detection under Pose-Agnostic and Sparse-View [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/38024)
 + MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[TPAMI 2026]](https://arxiv.org/abs/2511.10047)[[code]](https://github.com/HUST-SLOW/MuSc-V2)
++ PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)[[data]](kaichen-yang.github.io/piad/)
+<!-- + DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_DropGaussian_Structural_Regularization_for_Sparse-view_Gaussian_Splatting_CVPR_2025_paper.pdf)[[code]](https://github.com/DCVL-3D/DropGaussian_release) -->
+
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
  + Towards Continual Adaptation in Industrial Anomaly Detection [[ACM MM 2022]](https://dl.acm.org/doi/abs/10.1145/3503161.3548232)
@@ -1342,13 +1345,14 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
  + SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[ICCV 2025]](https://arxiv.org/abs/2506.21549)[[data]](https://alex-costanzino.github.io/SiM3D/)
  + Toward Long-Tailed Online Anomaly Detection through Class-Agnostic Concepts [[ICCV 2025]](https://arxiv.org/abs/2507.16946)[[data]](https://zenodo.org/records/16283853)
  + Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset [[2025]](https://arxiv.org/abs/2512.24160)
++ Robust AD: A Real World Benchmark Dataset For Robustness in Industrial Anomaly Detection [[CVPRW 2025]](https://openaccess.thecvf.com/content/CVPR2025W/VAND/papers/Pemula_Robust_AD_A_Real_World_Benchmark_Dataset_For_Robustness_in_CVPRW_2025_paper.pdf)[[data]](https://huggingface.co/datasets/AmazonScience/RobustAD)
++ PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)[[data]](kaichen-yang.github.io/piad/)
 + MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models [[CVPR 2026]](https://arxiv.org/abs/2604.10971)[[code]](https://xcyao00.github.io/MMR-AD)
 + ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning [[CVPR 2026]](https://arxiv.org/abs/2508.03088)
 + Omni-AD: A Large-scale and Versatile Benchmark for Industrial Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/39148)
 + Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset [[CVPR 2026]](https://arxiv.org/abs/2512.24160)[[data]](https://ninaneon.github.io/projectpage)
 + M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional
 Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2603.00055)[[code]](https://github.com/Yanhui-Lee/M3-AD)
-
 
 ## BibTex Citation
 
