@@ -1194,6 +1194,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + SALAD -- Semantics-Aware Logical Anomaly Detection [[ICCV 2025]](https://arxiv.org/abs/2509.02101)[[code]](https://github.com/MaticFuc/SALAD)
  + Uniad: Integrating geometric and semantic cues for unified anomaly detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755422)
  + Logical Anomaly Detection with Text-based Logic via Component-Aware Contrastive Language-Image Training [[KDD 25]](https://dl.acm.org/doi/abs/10.1145/3711896.3737032)
+ + VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [[2026]](https://arxiv.org/abs/2603.13964)[[data]](https://github.com/nkthiroto/VID-AD)
 
 ## 3.9 MLLM-based AD
 + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
@@ -1369,6 +1370,7 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
 + Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset [[CVPR 2026]](https://arxiv.org/abs/2512.24160)[[data]](https://ninaneon.github.io/projectpage)
 + M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional
 Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2603.00055)[[code]](https://github.com/Yanhui-Lee/M3-AD)
++ VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [[2026]](https://arxiv.org/abs/2603.13964)[[data]](https://github.com/nkthiroto/VID-AD)
 
 ## BibTex Citation
 
