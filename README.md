@@ -924,7 +924,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://openreview.net/forum?id=TQkFiW3AEX)[[code]](https://github.com/CROVO1026/MRAD)
 + MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[TPAMI 2026]](https://arxiv.org/abs/2511.10047)[[code]](https://github.com/HUST-SLOW/MuSc-V2)
 + Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
-
++ Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[[IEEE-CYBER 2026]](https://arxiv.org/abs/2605.25407)
 
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
@@ -1113,6 +1113,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[TPAMI 2026]](https://arxiv.org/abs/2511.10047)[[code]](https://github.com/HUST-SLOW/MuSc-V2)
 + PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)[[data]](kaichen-yang.github.io/piad/)
 <!-- + DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_DropGaussian_Structural_Regularization_for_Sparse-view_Gaussian_Splatting_CVPR_2025_paper.pdf)[[code]](https://github.com/DCVL-3D/DropGaussian_release) -->
++ Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[[IEEE-CYBER 2026]](https://arxiv.org/abs/2605.25407)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
