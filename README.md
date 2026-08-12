@@ -76,6 +76,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
   - [3.7 Uniform/Multi-Class AD](#37-uniformmulti-class-ad)
   - [3.8 Logical AD](#38-logical-ad)
   - [3.9 MLLM-based AD](#39-mllm-based-ad)
+  - [3.10 Video IAD](#310-video-iad)
   - [Other settings](#other-settings)
     - [TTT binary segmentation](#ttt-binary-segmentation)
     - [MoE with TTA](#moe-with-tta)
@@ -144,6 +145,14 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 ## ECCV 2026
 + CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)[[code]](https://github.com/Junhaocai27/CMDS-AD)
 + Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
++ PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [[ECCV 2026 Oral]](https://arxiv.org/abs/2608.04210)
++ IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [[ECCV 2026]](https://arxiv.org/abs/2607.19032)[[code]](https://github.com/HULEI7/IMMoE)
++ O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning [[ECCV 2026]](https://arxiv.org/abs/2607.18142)[[code]](https://o-vad.github.io/)
++ Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.03817)
++ Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors [[ECCV 2026]](https://arxiv.org/abs/2606.29428)
++ LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.28688)[[code]](https://github.com/cnulab/LogiCo)
++ DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.26687)
++ MATCH: Flow Matching for Multi-View Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.24375)
 
 ## ICML 2026
 + Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
@@ -926,7 +935,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[TPAMI 2026]](https://arxiv.org/abs/2511.10047)[[code]](https://github.com/HUST-SLOW/MuSc-V2)
 + Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
 + Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[[IEEE-CYBER 2026]](https://arxiv.org/abs/2605.25407)
-
++ Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors [[ECCV 2026]](https://arxiv.org/abs/2606.29428)
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
  + Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)[[code]](https://github.com/MediaBrain-SJTU/RegAD)
@@ -1115,6 +1124,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)[[data]](kaichen-yang.github.io/piad/)
 <!-- + DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_DropGaussian_Structural_Regularization_for_Sparse-view_Gaussian_Splatting_CVPR_2025_paper.pdf)[[code]](https://github.com/DCVL-3D/DropGaussian_release) -->
 + Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[[IEEE-CYBER 2026]](https://arxiv.org/abs/2605.25407)
++ PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [[ECCV 2026 Oral]](https://arxiv.org/abs/2608.04210)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -1133,6 +1143,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR 2026]](https://arxiv.org/abs/2602.19206)[[code]](https://github.com/zhushengxinyue/GS-CLIP)
 + Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/36699)
 + A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159)[[code]](https://visualsciencelab-khu.github.io/SeDiR_project)
++ DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.26687)
+
+
 ## 3.7 Uniform/Multi-Class AD
  + A Unified Model for Multi-class Anomaly Detection [[NeurIPS 2022]](https://arxiv.org/pdf/2206.03687.pdf) [[code]](https://github.com/zhiyuanyou/UniAD)
  + OmniAL A unifiled CNN framework for unsupervised anomaly localization [[CVPR 2023]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_OmniAL_A_Unified_CNN_Framework_for_Unsupervised_Anomaly_Localization_CVPR_2023_paper.pdf)
@@ -1197,6 +1210,8 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + Uniad: Integrating geometric and semantic cues for unified anomaly detection [[ACM MM 2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3755422)
  + Logical Anomaly Detection with Text-based Logic via Component-Aware Contrastive Language-Image Training [[KDD 25]](https://dl.acm.org/doi/abs/10.1145/3711896.3737032)
  + VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [[2026]](https://arxiv.org/abs/2603.13964)[[data]](https://github.com/nkthiroto/VID-AD)
++ LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.28688)[[code]](https://github.com/cnulab/LogiCo)
+  
 
 ## 3.9 MLLM-based AD
 + AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models [[AAAI 2024]](https://arxiv.org/abs/2308.15366)[[code]](https://github.com/CASIA-IVA-Lab/AnomalyGPT)[[project page]](https://anomalygpt.github.io/)
@@ -1233,6 +1248,12 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
 + AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison [[2026]](https://arxiv.org/pdf/2603.13779)[[Code]](https://github.com/jam-cc/AD-Copilot)[[Model]](https://huggingface.co/jiang-cc/AD-Copilot)[[Demo]](https://huggingface.co/spaces/jiang-cc/AD-Copilot)
 + IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools [[2026]](https://arxiv.org/abs/2605.20682)
 + AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection [[2026]](https://arxiv.org/abs/2605.30140)[[code]](https://github.com/mala-lab/AnomalyAgent)
++ Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.03817)
+  
+
+## 3.10 Video IAD
++ Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2503.03562)[[code]](https://github.com/Chopper-233/Physics-AD)
++ O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning [[ECCV 2026]](https://arxiv.org/abs/2607.18142)[[code]](https://o-vad.github.io/)
 
 ## Other settings
 ### TTT binary segmentation
@@ -1363,7 +1384,6 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
  + Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yu_Anomaly_Detection_of_Integrated_Circuits_Package_Substrates_Using_the_Large_ICCV_2025_paper.pdf)[[data]](https://github.com/Bingyang0410/CPS2D-AD)
  + SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[ICCV 2025]](https://arxiv.org/abs/2506.21549)[[data]](https://alex-costanzino.github.io/SiM3D/)
  + Toward Long-Tailed Online Anomaly Detection through Class-Agnostic Concepts [[ICCV 2025]](https://arxiv.org/abs/2507.16946)[[data]](https://zenodo.org/records/16283853)
- + Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset [[2025]](https://arxiv.org/abs/2512.24160)
 + Robust AD: A Real World Benchmark Dataset For Robustness in Industrial Anomaly Detection [[CVPRW 2025]](https://openaccess.thecvf.com/content/CVPR2025W/VAND/papers/Pemula_Robust_AD_A_Real_World_Benchmark_Dataset_For_Robustness_in_CVPRW_2025_paper.pdf)[[data]](https://huggingface.co/datasets/AmazonScience/RobustAD)
 + PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)[[data]](https://kaichen-yang.github.io/piad/)
 + MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models [[CVPR 2026]](https://arxiv.org/abs/2604.10971)[[code]](https://xcyao00.github.io/MMR-AD)
