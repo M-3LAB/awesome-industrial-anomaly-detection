@@ -1428,4 +1428,4 @@ If you find this paper and repository useful, please cite our paper☺️.
 ```
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=M-3LAB/awesome-industrial-anomaly-detection&type=Date)](https://star-history.com/#M-3LAB/awesome-industrial-anomaly-detection&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=M-3LAB/awesome-industrial-anomaly-detection&type=Date)](https://star-history.dera.page/#M-3LAB/awesome-industrial-anomaly-detection&Date)
