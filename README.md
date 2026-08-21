@@ -99,15 +99,14 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 | ![Star](https://img.shields.io/github/stars/tientrandinh/Revisiting-Reverse-Distillation.svg?style=social&label=Star) <br> [**Revisiting Reverse Distillation for Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2023/html/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.html) <br> | CVPR | 2023 | [Github](https://github.com/tientrandinh/Revisiting-Reverse-Distillation) | Teacher-Student |
 | ![Star](https://img.shields.io/github/stars/DonaldRR/SimpleNet.svg?style=social&label=Star) <br> [**SimpleNet: A Simple Network for Image Anomaly Detection and Localization**](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_SimpleNet_A_Simple_Network_for_Image_Anomaly_Detection_and_Localization_CVPR_2023_paper.html) <br> | CVPR | 2023 | [Github](https://github.com/DonaldRR/SimpleNet) | One-Class-Classification |
 | ![Star](https://img.shields.io/github/stars/gudovskiy/cflow-ad.svg?style=social&label=Star) <br> [**Real-time unsupervised anomaly detection with localization via conditional normalizing flows**](https://openaccess.thecvf.com/content/WACV2022/html/Gudovskiy_CFLOW-AD_Real-Time_Unsupervised_Anomaly_Detection_With_Localization_via_Conditional_Normalizing_WACV_2022_paper.html) <br> | WACV | 2022 | [Github](https://github.com/gudovskiy/cflow-ad) | Distribution Map |
-| ![Star](https://img.shields.io/github/stars/gasharper/PyramidFlow.svg?style=social&label=Star) <br> [**PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow**](https://openaccess.thecvf.com/content/CVPR2023/html/Lei_PyramidFlow_High-Resolution_Defect_Contrastive_Localization_Using_Pyramid_Normalizing_Flow_CVPR_2023_paper.html) <br> | CVPR | 2023 | [Github](https://github.com/gasharper/PyramidFlow) | Distribution Map |
 | ![Star](https://img.shields.io/github/stars/amazon-science/patchcore-inspection.svg?style=social&label=Star) <br> [**Towards total recall in industrial anomaly detection**](https://openaccess.thecvf.com/content/CVPR2022/html/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.html) <br> | CVPR | 2022 | [Github](https://github.com/amazon-science/patchcore-inspection) | Memory-bank |
-| ![Star](https://img.shields.io/github/stars/wogur110/PNI_Anomaly_Detection.svg?style=social&label=Star) <br> [**PNI: Industrial Anomaly Detection using Position and Neighborhood Information**](https://openaccess.thecvf.com/content/ICCV2023/html/Bae_PNI__Industrial_Anomaly_Detection_using_Position_and_Neighborhood_Information_ICCV_2023_paper.html) <br> | ICCV | 2023 | [Github](https://github.com/wogur110/PNI_Anomaly_Detection) | Memory-bank |
 | ![Star](https://img.shields.io/github/stars/vitjanz/draem.svg?style=social&label=Star) <br> [**Draem-a discriminatively trained reconstruction embedding for surface anomaly detection**](https://openaccess.thecvf.com/content/ICCV2021/html/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.html) <br> | ICCV | 2021 | [Github](https://github.com/vitjanz/draem) | Reconstruction-based |
 | ![Star](https://img.shields.io/github/stars/VitjanZ/DSR_anomaly_detection.svg?style=social&label=Star) <br> [**DSR: A dual subspace re-projection network for surface anomaly detection**](https://link.springer.com/chapter/10.1007/978-3-031-19821-2_31) <br> | ECCV | 2022 | [Github](https://github.com/VitjanZ/DSR_anomaly_detection) | Reconstruction-based |
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ocr-gan.svg?style=social&label=Star) <br> [**Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/10192551/) <br> | TIP | 2023 | [Github](https://github.com/zhangzjn/ocr-gan) | Reconstruction-based |
 | ![Star](https://img.shields.io/github/stars/cnulab/RealNet.svg?style=social&label=Star) <br> [**RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection**](https://arxiv.org/abs/2403.05897) <br> | CVPR | 2024 | [Github](https://github.com/cnulab/RealNet) | Reconstruction-based |
 | ![Star](https://img.shields.io/github/stars/MediaBrain-SJTU/RegAD.svg?style=social&label=Star) <br> [**Registration based few-shot anomaly detection**](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_18) <br> | ECCV | 2022 | [Github](https://github.com/MediaBrain-SJTU/RegAD) | Few Shot |
 | ![Star](https://img.shields.io/github/stars/CASIA-IVA-Lab/AnomalyGPT.svg?style=social&label=Star) <br> [**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**](https://arxiv.org/abs/2308.15366) <br> | AAAI | 2024 | [Github](https://github.com/CASIA-IVA-Lab/AnomalyGPT) | Few Shot |
+| ![Star](https://img.shields.io/github/stars/jam-cc/AD-Copilot.svg?style=social&label=Star) <br> [**AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison**](https://arxiv.org/abs/2603.13779) <br> | arxiv | 2026 | [Github](https://github.com/jam-cc/AD-Copilot) | MLLM |
 | ![Star](https://img.shields.io/github/stars/Choubo/DRA.svg?style=social&label=Star) <br> [**Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2022/html/Ding_Catching_Both_Gray_and_Black_Swans_Open-Set_Supervised_Anomaly_Detection_CVPR_2022_paper.html) <br> | CVPR | 2022 | [Github](https://github.com/Choubo/DRA) | Few abnormal samples |
 | ![Star](https://img.shields.io/github/stars/xcyao00/BGAD.svg?style=social&label=Star) <br> [**Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2023/html/Yao_Explicit_Boundary_Guided_Semi-Push-Pull_Contrastive_Learning_for_Supervised_Anomaly_Detection_CVPR_2023_paper.html) <br> | CVPR | 2023 | [Github](https://github.com/xcyao00/BGAD) | Few abnormal samples |
 | ![Star](https://img.shields.io/github/stars/tianyu0207/IGD.svg?style=social&label=Star) <br> [**Deep one-class classification via interpolated gaussian descriptor**](https://ojs.aaai.org/index.php/AAAI/article/view/19915) <br> | AAAI | 2022 | [Github](https://github.com/tianyu0207/IGD) | Noisy AD |
@@ -124,6 +123,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 | ![Star](https://img.shields.io/github/stars/MaticFuc/SALAD.svg?style=social&label=Star) <br> [**SALAD -- Semantics-Aware Logical Anomaly Detection**](https://arxiv.org/abs/2509.02101) <br> | ICCV | 2025 | [Github](https://github.com/MaticFuc/SALAD) | Logical |
 | ![Star](https://img.shields.io/github/stars/YoojLee/Uniformaly.svg?style=social&label=Star) <br> [**UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection**](https://arxiv.org/abs/2307.12540) <br> | arxiv | 2023 | [Github](https://github.com/YoojLee/Uniformaly) | Multi-class unified |
 
+
 # Recommended Benchmarks
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -134,25 +134,23 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 | ![Star](https://img.shields.io/github/stars/en-research/RobustMAD.svg?style=social&label=Star) <br> [**RobustMAD: Evaluating Real-World Robustness of Multimodal Small Language Models for Deployable Anomaly Detection Assistants**](https://openreview.net/pdf?id=skrA9UYNIZ) <br> | TMLR | 2026 | [Github](https://github.com/en-research/RobustMAD) | Benchmark |
 
 
-
-+ Anomaly Detection on MVTec AD [[paper with code]](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad)
-+ Anomaly Detection on VisA [[paper with code]](https://paperswithcode.com/sota/anomaly-detection-on-visa)
-+ Anomaly Detection on MVTec LOCO AD [[paper with code]](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-loco-ad)
-+ Anomaly Detection on MVTec 3D-AD [[paper with code]](https://paperswithcode.com/sota/rgb-3d-anomaly-detection-and-segmentation-on)
-+ Anomaly Detection Datasets and Benchmarks [[paper with code]](https://paperswithcode.com/task/anomaly-detection)
-
 # Recent research
 ## ECCV 2026
 + CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)[[code]](https://github.com/Junhaocai27/CMDS-AD)
 + Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
++ DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [[ECCV 2026]](https://arxiv.org/abs/2608.07904)[[code]](https://github.com/HUST-SLOW/DeCo)
++ UniScale: Arbitrary-Scale Industrial Anomaly Generation [[ECCV 2026]](https://arxiv.org/abs/2608.07864)[[code]](https://github.com/HUST-SLOW/UniScale)
 + PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [[ECCV 2026 Oral]](https://arxiv.org/abs/2608.04210)
++ ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2608.01793)[[code]](https://github.com/CLendering/ReFP-AD)
 + IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [[ECCV 2026]](https://arxiv.org/abs/2607.19032)[[code]](https://github.com/HULEI7/IMMoE)
 + O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning [[ECCV 2026]](https://arxiv.org/abs/2607.18142)[[code]](https://o-vad.github.io/)
 + Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.03817)
++ ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.02252)[[code]](https://github.com/LGC-AD/ArcAD)
 + Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors [[ECCV 2026]](https://arxiv.org/abs/2606.29428)
 + LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.28688)[[code]](https://github.com/cnulab/LogiCo)
 + DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.26687)
 + MATCH: Flow Matching for Multi-View Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.24375)
++ Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [[ECCV 2026]](https://arxiv.org/abs/2605.24251)[[code]](https://github.com/Continue-Edge-AI-Lab/Rethinking-Continual-AD)
 
 ## ICML 2026
 + Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
@@ -844,6 +842,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection [[CVPR 2025]](https://arxiv.org/abs/2502.20981)[[code]](https://github.com/fuyunwang/DPDL)
 + Self-Tuning Self-Supervised Image Anomaly Detection [[KDD 2025]](https://arxiv.org/abs/2306.12033) [[code]](https://github.com/jaeminyoo/ST-SSAD)
 + Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.02438)[[code]](https://github.com/fuyunwang/MPFM-OSAD)
++ ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.02252)[[code]](https://github.com/LGC-AD/ArcAD)
 
 
 ### More Abnormal Samples
@@ -1054,9 +1053,11 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + CHIMERA: Controllable High-quality Image-Mask Extraction for Reliable Diffusion-Based Anomaly Synthesis [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/37511)[[code]](https://github.com/cvlab-kaist/CHIMERA)
  + AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis [[AAAI 2026]](https://arxiv.org/abs/2503.07253)
  + CADiff: Context-Aware Diffusion for Controllable Anomaly Generation in Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/37917)
- + Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [[AAAI 2026]](https://arxiv.org/abs/2508.03539)[[code]](https://github.com/neymarql/QARAD)
++ Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [[AAAI 2026]](https://arxiv.org/abs/2508.03539)[[code]](https://github.com/neymarql/QARAD)
 + One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [[CVPR 2026]](https://arxiv.org/abs/2603.18093)[[code]](https://github.com/echrao/O2MAG)
 + Anomaly-Preference Image Generation [[ICML 2026]](https://arxiv.org/abs/2605.02439)
++ DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [[ECCV 2026]](https://arxiv.org/abs/2608.07904)[[code]](https://github.com/HUST-SLOW/DeCo)
++ UniScale: Arbitrary-Scale Industrial Anomaly Generation [[ECCV 2026]](https://arxiv.org/abs/2608.07864)[[code]](https://github.com/HUST-SLOW/UniScale)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -1144,6 +1145,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/36699)
 + A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159)[[code]](https://visualsciencelab-khu.github.io/SeDiR_project)
 + DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.26687)
++ Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [[ECCV 2026]](https://arxiv.org/abs/2605.24251)[[code]](https://github.com/Continue-Edge-AI-Lab/Rethinking-Continual-AD)
 
 
 ## 3.7 Uniform/Multi-Class AD
@@ -1184,6 +1186,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
  + DecAD: Decoupling Anomalies in Latent Space for Multi-Class Unsupervised Anomaly Detection [[ICCV 2025]](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_DecAD_Decoupling_Anomalies_in_Latent_Space_for_Multi-Class_Unsupervised_Anomaly_ICCV_2025_paper.html)
  + Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [[Data Intelligence 2025]](https://arxiv.org/abs/2512.11401)[[code]](https://github.com/qiqigeww/CRR-MUAD)
  + MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/download/38573/42535)[[code]](https://github.com/liugang-xd/MaskAD)
+ + ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2608.01793)[[code]](https://github.com/CLendering/ReFP-AD)
 
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
