@@ -873,6 +873,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
 + SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [[2025]](https://arxiv.org/abs/2502.14884)
 + SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection [[2025]](https://arxiv.org/abs/2604.26633)
++ ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [[JIMS 2026]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[[code]](https://github.com/p4ulk/isp-ad)[[data]](https://zenodo.org/records/14911042)
 
 
 # 3 Other Research Direction
@@ -1058,6 +1059,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Anomaly-Preference Image Generation [[ICML 2026]](https://arxiv.org/abs/2605.02439)
 + DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [[ECCV 2026]](https://arxiv.org/abs/2608.07904)[[code]](https://github.com/HUST-SLOW/DeCo)
 + UniScale: Arbitrary-Scale Industrial Anomaly Generation [[ECCV 2026]](https://arxiv.org/abs/2608.07864)[[code]](https://github.com/HUST-SLOW/UniScale)
++ ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [[JIMS 2026]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[[code]](https://github.com/p4ulk/isp-ad)[[data]](https://zenodo.org/records/14911042)
 
 ## 3.4 RGBD AD
  + Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV 2022]](https://arxiv.org/pdf/2202.11660.pdf)
@@ -1397,6 +1399,7 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
 Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2603.00055)[[code]](https://github.com/Yanhui-Lee/M3-AD)
 + VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [[2026]](https://arxiv.org/abs/2603.13964)[[data]](https://github.com/nkthiroto/VID-AD)
 + Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
++ ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [[JIMS 2026]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[[code]](https://github.com/p4ulk/isp-ad)[[data]](https://zenodo.org/records/14911042)✨
 
 ## BibTex Citation
 
