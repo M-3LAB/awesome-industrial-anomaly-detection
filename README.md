@@ -4,6 +4,8 @@ We discuss public datasets and related studies in detail. Welcome to read our pa
 
 [Deep Industrial Image Anomaly Detection: A Survey (Machine Intelligence Research)](https://link.springer.com/article/10.1007/s11633-023-1459-z)
 
+[A Survey of Recent Advances in Industrial Anomaly Detection: From Normal-Only Training to Foundation-Model Priors [2026]](https://www.preprints.org/manuscript/202606.0719)
+
 [IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing [TCYB 2024]](https://arxiv.org/abs/2301.13359)[[code]](https://github.com/M-3LAB/open-iad)[[中文]](https://blog.csdn.net/m0_63828250/article/details/136891730)
 
 We will keep focusing on this field and updating relevant information.
@@ -33,7 +35,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
   - [Table of Contents](#table-of-contents)
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
-- [Recent research](#recent-research)
+- [Recent research \[survey\]](#recent-research-survey)
   - [ECCV 2026](#eccv-2026)
   - [ICML 2026](#icml-2026)
   - [CVPR 2026](#cvpr-2026)
@@ -134,7 +136,12 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 | ![Star](https://img.shields.io/github/stars/en-research/RobustMAD.svg?style=social&label=Star) <br> [**RobustMAD: Evaluating Real-World Robustness of Multimodal Small Language Models for Deployable Anomaly Detection Assistants**](https://openreview.net/pdf?id=skrA9UYNIZ) <br> | TMLR | 2026 | [Github](https://github.com/en-research/RobustMAD) | Benchmark |
 
 
-# Recent research
+# Recent research [[survey]](https://www.preprints.org/manuscript/202606.0719)
+
+<!-- Recent advances in industrial anomaly detection are organized below by five sources of generalization, highlighting emerging research trends and representative methods.  -->
+
+[![Figure 2: Representative industrial anomaly detection methods organized by five sources of generalization and the evaluation frontier](assets/fig2_taxonomy.png)](assets/fig2_taxonomy.pdf)
+
 ## ECCV 2026
 + CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)[[code]](https://github.com/Junhaocai27/CMDS-AD)
 + Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
@@ -545,6 +552,10 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 # Timeline
 ![Timeline](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/blob/main/timeline.png)
 
+Recent developments in industrial anomaly detection have reshaped method categories and research paradigms, as illustrated in the timeline below. [[paper]](https://www.preprints.org/manuscript/202606.0719)
+
+[![Figure 1: Timeline of industrial anomaly detection methods and the transition toward foundation-model priors](assets/fig1_timeline.png)](assets/fig1_timeline.pdf)
+
 # Paper list for industrial image anomaly detection
 
 # Related Survey, Benchmark, and Framework
@@ -575,6 +586,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + A Comprehensive Survey for Real-World Industrial Defect Detection: Challenges, Approaches, and Prospects [[2025]](https://www.arxiv.org/abs/2507.13378)
 + Towards High-Resolution Industrial Image Anomaly Detection [[2025]](https://arxiv.org/abs/2508.12931)[[code]](https://github.com/cnulab/HiAD)
 + ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[TAI 2026]](https://arxiv.org/abs/2510.07927)[[code]](https://github.com/M-3LAB/ASBench)
++ A Survey of Recent Advances in Industrial Anomaly Detection: From Normal-Only Training to Foundation-Model Priors [[2026]](https://www.preprints.org/manuscript/202606.0719)
 
 # 2 Unsupervised AD
 
@@ -1406,6 +1418,13 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
 If you find this paper and repository useful, please cite our paper☺️.
 
 ```
+@article{jiang2026recent,
+  title={A Survey of Recent Advances in Industrial Anomaly Detection: From Normal-Only Training to Foundation-Model Priors},
+  author={Jiang, Xi and Hu, Bingzhang and Cao, Yunkang and Wang, Jinbao and Zheng, Feng},
+  publisher={Preprints},
+  year={2026},
+}
+
 @article{liu2024deep,
   title={Deep industrial image anomaly detection: A survey},
   author={Liu, Jiaqi and Xie, Guoyang and Wang, Jinbao and Li, Shangnian and Wang, Chengjie and Zheng, Feng and Jin, Yaochu},
@@ -1415,14 +1434,6 @@ If you find this paper and repository useful, please cite our paper☺️.
   pages={104--135},
   year={2024},
   publisher={Springer}
-}
-
-@article{xie2024iad,
-  title={Im-iad: Industrial image anomaly detection benchmark in manufacturing},
-  author={Xie, Guoyang and Wang, Jinbao and Liu, Jiaqi and Lyu, Jiayi and Liu, Yong and Wang, Chengjie and Zheng, Feng and Jin, Yaochu},
-  journal={IEEE Transactions on Cybernetics},
-  year={2024},
-  publisher={IEEE}
 }
 
 @article{jiang2022survey,
