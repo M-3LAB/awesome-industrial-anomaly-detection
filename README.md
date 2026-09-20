@@ -12,7 +12,7 @@ We will keep focusing on this field and updating relevant information.
 
 Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection
 
-[[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD)
+<!-- [[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD) -->
 
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and [pull requests](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/pulls).
 
@@ -132,7 +132,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 | ![Star](https://img.shields.io/github/stars/open-edge-platform/anomalib.svg?style=social&label=Star) <br> [**Anomalib: A Deep Learning Library for Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/9897283/) <br> | ICIP | 2022 | [Github](https://github.com/open-edge-platform/anomalib) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/M-3LAB/open-iad.svg?style=social&label=Star) <br> [**IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing**](https://arxiv.org/abs/2301.13359) <br> | TCYB | 2024 | [Github](https://github.com/M-3LAB/open-iad) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/zhangzjn/ader.svg?style=social&label=Star) <br> [**ADer: A Comprehensive Benchmark for Multi-class Visual Anomaly Detection**](http://arxiv.org/pdf/2406.03262v1) <br> | arxiv | 2024 | [Github](https://github.com/zhangzjn/ader) | Benchmark |
-| ![Star](https://img.shields.io/github/stars/jam-cc/MMAD.svg?style=social&label=Star) <br> [**MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**](https://arxiv.org/abs/2410.09453) <br> | ICLR | 2024 | [Github](https://github.com/jam-cc/MMAD) | Benchmark |
+| ![Star](https://img.shields.io/github/stars/jam-cc/MMAD.svg?style=social&label=Star) <br> [**MMAD: The First-Ever Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection**](https://arxiv.org/abs/2410.09453) <br> | ICLR | 2025 | [Github](https://github.com/jam-cc/MMAD) | Benchmark |
 | ![Star](https://img.shields.io/github/stars/en-research/RobustMAD.svg?style=social&label=Star) <br> [**RobustMAD: Evaluating Real-World Robustness of Multimodal Small Language Models for Deployable Anomaly Detection Assistants**](https://openreview.net/pdf?id=skrA9UYNIZ) <br> | TMLR | 2026 | [Github](https://github.com/en-research/RobustMAD) | Benchmark |
 
 
@@ -144,9 +144,9 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 ## ECCV 2026
 + CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)[[code]](https://github.com/Junhaocai27/CMDS-AD)
-+ Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
-+ DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [[ECCV 2026]](https://arxiv.org/abs/2608.07904)[[code]](https://github.com/HUST-SLOW/DeCo)
-+ UniScale: Arbitrary-Scale Industrial Anomaly Generation [[ECCV 2026]](https://arxiv.org/abs/2608.07864)[[code]](https://github.com/HUST-SLOW/UniScale)
++ Defect-aware Hybrid Prompt Optimization for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
++ DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [[ECCV 2026]](https://arxiv.org/abs/2608.07904)[[code]](https://github.com/HUST-SLOW/DeCo)
++ UniScale: Arbitrary-Scale Anomaly Generation [[ECCV 2026]](https://arxiv.org/abs/2608.07864)[[code]](https://github.com/HUST-SLOW/UniScale)
 + PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [[ECCV 2026 Oral]](https://arxiv.org/abs/2608.04210)
 + ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2608.01793)[[code]](https://github.com/CLendering/ReFP-AD)
 + IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [[ECCV 2026]](https://arxiv.org/abs/2607.19032)[[code]](https://github.com/HULEI7/IMMoE)
@@ -158,6 +158,20 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.26687)
 + MATCH: Flow Matching for Multi-View Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.24375)
 + Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [[ECCV 2026]](https://arxiv.org/abs/2605.24251)[[code]](https://github.com/Continue-Edge-AI-Lab/Rethinking-Continual-AD)
++ FuDU: A Fuzzy Dual-dimension Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection[[ECCV 2026]](https://arxiv.org/abs/2609.02212)[[code]](https://github.com/wangzhaoyang-508/FuDU)
++ Proximity-CLIP: Text-Guided Semantic Proximity Learning for Zero-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2609.07229)[[paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8183.pdf)
++ CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.02930)[[code]](https://github.com/WenDongyp/CL-Anomaly)
++ Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.29181)[[code]](https://github.com/vpc-ccg/AF3AD)
++ GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis [[ECCV 2026]](https://arxiv.org/abs/2604.08301)
++ BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2602.13091)[[code]](https://github.com/DeclanMcIntosh/BAAF)
++ DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [[ECCV 2026]](https://arxiv.org/abs/2511.16920)[[code]](https://github.com/CROVO1026/DeltaDeno)
++ VarProtoAD: Variational Prototype-Conditioned Prompting for Zero-Shot Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3553)
++ DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3717)[[code]](https://github.com/evoLonation/DeMuS)
++ Fast Dynamic Prototypes for Unsupervised Anomaly Detection and Localization [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3350)[[code coming soon]](https://github.com/lmlpy/FDP)
++ HLRAD: High-dimensional Latent Representation for Unified Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/5190)
++ Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/4468)[[code]](https://github.com/tzjtatata/SCAN)
++ EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/4683)[[code]](https://github.com/leolin65/EGVLR-project)
++ A Comprehensive Analysis about Unsupervised Outlier Detection for Images [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/5320)[[code]](https://github.com/zhliu-uod/VUOD)
 
 ## ICML 2026
 + Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
@@ -640,6 +654,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + Dual-Modeling Decouple Distillation for Unsupervised Anomaly Detection [[ACM MM 2024]](https://arxiv.org/abs/2408.03888)
 + SuperSimpleNet: Unifying Unsupervised and Supervised Learning for Fast and Reliable Surface Defect Detection [[ICPR 2024]](https://arxiv.org/abs/2408.03143)[[JIMS 2025]](https://link.springer.com/article/10.1007/s10845-025-02680-8)[[code]](https://github.com/blaz-r/SuperSimpleNet/tree/main)
 + Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection [[TCSVT 2024]](https://ieeexplore.ieee.org/document/10716437)[[code]](https://github.com/cqylunlun/PBAS)
++ BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2602.13091)[[code]](https://github.com/DeclanMcIntosh/BAAF)
 
 ### 2.1.3 Distribution-Map
 + Anomaly Detection in Nanofibrous Materials by CNN-Based Self-Similarity [[Sensors 2018]](https://www.mdpi.com/1424-8220/18/1/209)
@@ -699,6 +714,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
  + EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models [[2026]](https://arxiv.org/abs/2602.17419)[[code]](https://github.com/shengtun/Eagle-Anomaly-Detection)
  + RAID: Retrieval-Augmented Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2602.19611)[[code]](https://github.com/Mingxiu-Cai/RAID)
 + Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/38295)
++ Fast Dynamic Prototypes for Unsupervised Anomaly Detection and Localization [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3350)[[code coming soon]](https://github.com/lmlpy/FDP)
 
 ### 2.1.5 Vison Language AD
 + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
@@ -885,6 +901,8 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
 + SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [[2025]](https://arxiv.org/abs/2502.14884)
 + SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection [[2025]](https://arxiv.org/abs/2604.26633)
++ GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis [[ECCV 2026]](https://arxiv.org/abs/2604.08301)
++ DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution [[ECCV 2026]](https://arxiv.org/abs/2511.16920)[[code]](https://github.com/CROVO1026/DeltaDeno)
 + Structured guided diffusion models for industrial defect image generation [[KBS 2025]](https://doi.org/10.1016/j.knosys.2025.114642)[[code]](https://github.com/xieyulai/Structured-DGM)
 + ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [[JIMS 2026]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[[code]](https://github.com/p4ulk/isp-ad)[[data]](https://zenodo.org/records/14911042)
 
@@ -946,9 +964,12 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + From Attraction to Equilibrium: Physics-Inspired Semantic Gravitons for Zero-Shot Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/39782)
 + MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval [[ICLR 2026]](https://openreview.net/forum?id=TQkFiW3AEX)[[code]](https://github.com/CROVO1026/MRAD)
 + MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[TPAMI 2026]](https://arxiv.org/abs/2511.10047)[[code]](https://github.com/HUST-SLOW/MuSc-V2)
-+ Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
++ Defect-aware Hybrid Prompt Optimization for Zero-Shot Multi-type Anomaly Detection and Segmentation [[ECCV 2026]](https://arxiv.org/abs/2512.09446)
 + Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[[IEEE-CYBER 2026]](https://arxiv.org/abs/2605.25407)
 + Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors [[ECCV 2026]](https://arxiv.org/abs/2606.29428)
++ Proximity-CLIP: Text-Guided Semantic Proximity Learning for Zero-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2609.07229)[[paper]](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8183.pdf)
++ VarProtoAD: Variational Prototype-Conditioned Prompting for Zero-Shot Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3553)
++ DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3717)[[code]](https://github.com/evoLonation/DeMuS)
 ### Few-Shot AD
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
  + Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)[[code]](https://github.com/MediaBrain-SJTU/RegAD)
@@ -1071,8 +1092,8 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + Quality-Aware Language-Conditioned Local Auto-Regressive Anomaly Synthesis and Detection [[AAAI 2026]](https://arxiv.org/abs/2508.03539)[[code]](https://github.com/neymarql/QARAD)
 + One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control [[CVPR 2026]](https://arxiv.org/abs/2603.18093)[[code]](https://github.com/echrao/O2MAG)
 + Anomaly-Preference Image Generation [[ICML 2026]](https://arxiv.org/abs/2605.02439)
-+ DeCo: Zero-Shot Industrial Anomaly Generation through Decoupling and Recoupling [[ECCV 2026]](https://arxiv.org/abs/2608.07904)[[code]](https://github.com/HUST-SLOW/DeCo)
-+ UniScale: Arbitrary-Scale Industrial Anomaly Generation [[ECCV 2026]](https://arxiv.org/abs/2608.07864)[[code]](https://github.com/HUST-SLOW/UniScale)
++ DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling [[ECCV 2026]](https://arxiv.org/abs/2608.07904)[[code]](https://github.com/HUST-SLOW/DeCo)
++ UniScale: Arbitrary-Scale Anomaly Generation [[ECCV 2026]](https://arxiv.org/abs/2608.07864)[[code]](https://github.com/HUST-SLOW/UniScale)
 + ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [[JIMS 2026]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[[code]](https://github.com/p4ulk/isp-ad)[[data]](https://zenodo.org/records/14911042)
 
 ## 3.4 RGBD AD
@@ -1134,6 +1155,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
  + Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV 2025]](https://arxiv.org/abs/2505.24431)[[code]](https://github.com/ZZZBBBZZZ/PASDF)
  + PIRN: Prototypical-based Intra-modal Reconstruction with Normality Communication for Multi-modal Anomaly Detection [[ICLR 2026]](https://openreview.net/forum?id=7L7kmHHfgf)
  + CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2511.12909)[[code]](https://github.com/zyh16143998882/CASL)
++ Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.29181)[[code]](https://github.com/vpc-ccg/AF3AD)
  + SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection [[AAAI 2026]](https://arxiv.org/abs/2512.05540)
  + Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511)[[code]](https://github.com/wistful-8029/BTP-3DAD)
 + Wavelet-Driven 3D Anomaly Detection under Pose-Agnostic and Sparse-View [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/38024)
@@ -1142,6 +1164,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 <!-- + DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting [[CVPR 2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Park_DropGaussian_Structural_Regularization_for_Sparse-view_Gaussian_Splatting_CVPR_2025_paper.pdf)[[code]](https://github.com/DCVL-3D/DropGaussian_release) -->
 + Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection[[IEEE-CYBER 2026]](https://arxiv.org/abs/2605.25407)
 + PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images [[ECCV 2026 Oral]](https://arxiv.org/abs/2608.04210)
++ IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion [[ECCV 2026]](https://arxiv.org/abs/2607.19032)[[code]](https://github.com/HULEI7/IMMoE)
 
 ## 3.6 Continual AD
  + Towards Total Online Unsupervised Anomaly Detection and Localization in Industrial Vision [[2023]](https://arxiv.org/abs/2305.15652)
@@ -1162,6 +1185,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159)[[code]](https://visualsciencelab-khu.github.io/SeDiR_project)
 + DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.26687)
 + Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions [[ECCV 2026]](https://arxiv.org/abs/2605.24251)[[code]](https://github.com/Continue-Edge-AI-Lab/Rethinking-Continual-AD)
++ CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.02930)[[code]](https://github.com/WenDongyp/CL-Anomaly)
 
 
 ## 3.7 Uniform/Multi-Class AD
@@ -1203,6 +1227,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
  + Collaborative Reconstruction and Repair for Multi-class Industrial Anomaly Detection [[Data Intelligence 2025]](https://arxiv.org/abs/2512.11401)[[code]](https://github.com/qiqigeww/CRR-MUAD)
  + MaskAD: Parallel Masked Autoencoder for Multi-class Unsupervised Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/download/38573/42535)[[code]](https://github.com/liugang-xd/MaskAD)
  + ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2608.01793)[[code]](https://github.com/CLendering/ReFP-AD)
+ + HLRAD: High-dimensional Latent Representation for Unified Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/5190)
 
 ## 3.8 Logical AD
  + Beyond Dents and Scratches: Logical Constraints in Unsupervised Anomaly Detection and Localization [[IJCV 2022]](https://link.springer.com/content/pdf/10.1007/s11263-022-01578-9.pdf)
@@ -1230,6 +1255,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
  + Logical Anomaly Detection with Text-based Logic via Component-Aware Contrastive Language-Image Training [[KDD 25]](https://dl.acm.org/doi/abs/10.1145/3711896.3737032)
  + VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [[2026]](https://arxiv.org/abs/2603.13964)[[data]](https://github.com/nkthiroto/VID-AD)
 + LogiCo: A Unified Framework for Logical and Structural Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.28688)[[code]](https://github.com/cnulab/LogiCo)
++ Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/4468)[[code]](https://github.com/tzjtatata/SCAN)
   
 
 ## 3.9 MLLM-based AD
@@ -1268,6 +1294,7 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
 + IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools [[2026]](https://arxiv.org/abs/2605.20682)
 + AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection [[2026]](https://arxiv.org/abs/2605.30140)[[code]](https://github.com/mala-lab/AnomalyAgent)
 + Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2607.03817)
++ EGVLR: Evidence-Grounded Vision-Language Reinforcement for Anomaly Reasoning [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/4683)[[code]](https://github.com/leolin65/EGVLR-project)
   
 
 ## 3.10 Video IAD
