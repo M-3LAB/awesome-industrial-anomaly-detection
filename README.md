@@ -885,6 +885,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + Small Object Few-shot Segmentation for Vision-based Industrial Inspection [[2024]](https://arxiv.org/abs/2407.21351)[[code]](https://github.com/zhangzilongc/SOFS)
 + SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image [[2025]](https://arxiv.org/abs/2502.14884)
 + SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection [[2025]](https://arxiv.org/abs/2604.26633)
++ Structured guided diffusion models for industrial defect image generation [[KBS 2025]](https://doi.org/10.1016/j.knosys.2025.114642)[[code]](https://github.com/xieyulai/Structured-DGM)
 + ISP-AD: a large-scale real-world dataset for advancing industrial anomaly detection with synthetic and real defects [[JIMS 2026]](https://link.springer.com/article/10.1007/s10845-025-02778-z)[[code]](https://github.com/p4ulk/isp-ad)[[data]](https://zenodo.org/records/14911042)
 
 
@@ -1051,6 +1052,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
  + Enhanced Fabric Defect Detection with Feature Contrast Interference Suppression [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10937904)
  + Open-Set Fabric Defect Detection With Defect Generation and Transfer [[TIM 2025]](https://ieeexplore.ieee.org/abstract/document/10909357)
  + Bounding Box-Guided Diffusion for Synthesizing Industrial Images and Segmentation Map [[CVPRW 2025]](https://arxiv.org/abs/2505.03623)[[code]](https://github.com/covisionlab/diffusion_labeling)
+ + Structured guided diffusion models for industrial defect image generation [[KBS 2025]](https://doi.org/10.1016/j.knosys.2025.114642)[[code]](https://github.com/xieyulai/Structured-DGM)
  + Enhancing Glass Defect Detection with Diffusion Models: Addressing Imbalanced Datasets in Manufacturing Quality Control [[2025]](https://arxiv.org/abs/2505.03134)
  + Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation [[2025]](https://arxiv.org/abs/2505.06117)
  + Anomaly Anything: Promptable Unseen Visual Anomaly Generation [[CVPR 2025]](https://arxiv.org/abs/2406.01078)[[code]](https://github.com/EPFL-IMOS/AnomalyAny)
