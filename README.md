@@ -27,7 +27,7 @@ ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[paper]](htt
 
 A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.16412)[[github]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
 
-🔥🔥🔥 3D Anomaly Detection: A Survey [[paper]](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJzcG90bGlnaHQiLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ) [[github]](https://github.com/M-3LAB/awesome-3d-anomaly-detection)
+🔥🔥🔥 3D Anomaly Detection: Approaches, Benchmark, Challenges, and Prospects for Intelligent Manufacturing [[paper]](https://www.researchsquare.com/article/rs-11314110/v1) [[github]](https://github.com/M-3LAB/awesome-3d-anomaly-detection)
 
 ---
 ## Table of Contents
