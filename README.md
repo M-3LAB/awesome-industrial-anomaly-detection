@@ -12,7 +12,7 @@ We will keep focusing on this field and updating relevant information.
 
 Keywords: anomaly detection, anomaly segmentation, industrial image, defect detection
 
-<!-- [[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD) -->
+<!-- [[Main Page]](https://github.com/M-3LAB) [[]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD) -->
 
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and [pull requests](https://github.com/M-3LAB/awesome-industrial-anomaly-detection/pulls).
 
@@ -601,6 +601,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + Towards High-Resolution Industrial Image Anomaly Detection [[2025]](https://arxiv.org/abs/2508.12931)[[code]](https://github.com/cnulab/HiAD)
 + ASBench: Image Anomalies Synthesis Benchmark for Anomaly Detection [[TAI 2026]](https://arxiv.org/abs/2510.07927)[[code]](https://github.com/M-3LAB/ASBench)
 + A Survey of Recent Advances in Industrial Anomaly Detection: From Normal-Only Training to Foundation-Model Priors [[2026]](https://www.preprints.org/manuscript/202606.0719)
++ Anomaly Detection and Generation with Diffusion Models: A Survey [[TPAMI 2026]](https://ieeexplore.ieee.org/abstract/document/11718971)
 
 # 2 Unsupervised AD
 
