@@ -36,6 +36,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 - [SOTA methods with code](#sota-methods-with-code)
 - [Recommended Benchmarks](#recommended-benchmarks)
 - [Recent research \[survey\]](#recent-research-survey)
+  - [NeurIPS 2026](#neurips-2026)
   - [ECCV 2026](#eccv-2026)
   - [ICML 2026](#icml-2026)
   - [CVPR 2026](#cvpr-2026)
@@ -141,6 +142,13 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 <!-- Recent advances in industrial anomaly detection are organized below by five sources of generalization, highlighting emerging research trends and representative methods.  -->
 
 [![Figure 2: Representative industrial anomaly detection methods organized by five sources of generalization and the evaluation frontier](assets/fig2_taxonomy.png)](assets/fig2_taxonomy.pdf)
+
+## NeurIPS 2026
+
++ UniDG: Unified Defect Generation via Defect-Context Editing [[NeurIPS 2026]](https://arxiv.org/abs/2604.08915)[[code]](https://github.com/RetoFan233/UniDG)
++ Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling [[NeurIPS 2026]](https://arxiv.org/abs/2609.35059)[[code]](https://github.com/VisualScienceLab-KHU/GRIM)
++ Beyond Normal References: Discriminative Few-Shot Anomaly Detection [[NeurIPS 2026]](https://arxiv.org/abs/2605.23231)[[code]](https://github.com/mala-lab/IDEAL)
++ TED: Text-Axis Evidence Decomposition for Prompted Anomaly Localization [[NeurIPS 2026 Poster]](https://arxiv.org/abs/2609.39033)[[code]](https://github.com/barraki72268-sketch/TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization)
 
 ## ECCV 2026
 + CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)[[code]](https://github.com/Junhaocai27/CMDS-AD)
@@ -718,6 +726,8 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + Fast Dynamic Prototypes for Unsupervised Anomaly Detection and Localization [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3350)[[code coming soon]](https://github.com/lmlpy/FDP)
 
 ### 2.1.5 Vison Language AD
+
++ TED: Text-Axis Evidence Decomposition for Prompted Anomaly Localization [[NeurIPS 2026 Poster]](https://arxiv.org/abs/2609.39033)[[code]](https://github.com/barraki72268-sketch/TED-Text-Axis-Evidence-Decomposition-for-Prompted-Anomaly-Localization)
 + Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection [[BMVC 2023]](https://arxiv.org/abs/2308.11119)
 + AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[ICLR 2024]](https://openreview.net/forum?id=buC4E91xZE)[[code]](https://github.com/zqhang/AnomalyCLIP)
 + WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation [[CVPR 2023]](https://arxiv.org/abs/2303.14814)
@@ -972,6 +982,8 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + VarProtoAD: Variational Prototype-Conditioned Prompting for Zero-Shot Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3553)
 + DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3717)[[code]](https://github.com/evoLonation/DeMuS)
 ### Few-Shot AD
+
+ + Beyond Normal References: Discriminative Few-Shot Anomaly Detection [[NeurIPS 2026]](https://arxiv.org/abs/2605.23231)[[code]](https://github.com/mala-lab/IDEAL)
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
  + Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)[[code]](https://github.com/MediaBrain-SJTU/RegAD)
  + Same same but differnet: Semi-supervised defect detection with normalizing flows [[(Distribution)WACV 2021]](http://arxiv.org/pdf/2008.12577)
@@ -1036,6 +1048,8 @@ Recent developments in industrial anomaly detection have reshaped method categor
  + Memory-Distilled Selection for Noise-Robust Anomaly Detection [[ICML 2026]](https://arxiv.org/abs/2605.26676)[[code]](https://github.com/SirojbekSafarov/MeDS)
 
 ## 3.3 Anomaly Synthesis [[awesome-anomaly-synthesis]](https://github.com/M-3LAB/awesome-anomaly-synthesis)
+
+ + UniDG: Unified Defect Generation via Defect-Context Editing [[NeurIPS 2026]](https://arxiv.org/abs/2604.08915)[[code]](https://github.com/RetoFan233/UniDG)
  + Cutpaste: Self-supervised learning for anomaly detection and localization [[(OCC)ICCV 2021]](http://arxiv.org/pdf/2104.04015)[[unofficial code]](https://github.com/Runinho/pytorch-cutpaste)
  + Draem-a discriminatively trained reconstruction embedding for surface anomaly detection [[(Reconstruction AE)ICCV 2021]](http://arxiv.org/pdf/2108.07610)[[code]](https://github.com/vitjanz/draem)
  + DSR: A dual subspace re-projection network for surface anomaly detection [[ECCV 2022]](https://arxiv.org/pdf/2208.01521.pdf)[[code]](https://github.com/VitjanZ/DSR_anomaly_detection)
@@ -1127,6 +1141,8 @@ Recent developments in industrial anomaly detection have reshaped method categor
  + RPE-PAD: Relative Pose Estimation for Pose-agnostic Anomaly Detection [[AAAI 2026]](https://ojs.aaai.org/index.php/AAAI/article/view/38304)
 
 ## 3.5 3D AD
+
+ + Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling [[NeurIPS 2026]](https://arxiv.org/abs/2609.35059)[[code]](https://github.com/VisualScienceLab-KHU/GRIM)
  + Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS 2023]](https://arxiv.org/abs/2309.13226)[[code]](https://github.com/M-3LAB/Real3D-AD)
  + PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[2024]](https://arxiv.org/abs/2403.01804)
  + Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network [[CVPR 2024]](https://arxiv.org/abs/2311.14897)[[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
