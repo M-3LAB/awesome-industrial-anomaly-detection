@@ -96,6 +96,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/sgstq0811/VerdictAD-Jev-AD.svg?style=social&label=Star) <br> [**VerdictAD: Few-Shot Anomaly Detection via Decision-Guided Refinement**](https://arxiv.org/abs/2611.02654) <br> | arXiv | 2026 | [Github](https://github.com/sgstq0811/VerdictAD-Jev-AD) | Few-Shot, Typed Decision |
 | ![Star](https://img.shields.io/github/stars/hq-deng/RD4AD.svg?style=social&label=Star) <br> [**Anomaly Detection via Reverse Distillation from One-Class Embedding**](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.html) <br> | CVPR | 2022 | [Github](https://github.com/hq-deng/RD4AD) | Teacher-Student |
 | ![Star](https://img.shields.io/github/stars/guojiajeremy/Dinomaly.svg?style=social&label=Star) <br> [**Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection**](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_Dinomaly_The_Less_Is_More_Philosophy_in_Multi-Class_Unsupervised_Anomaly_CVPR_2025_paper.html) <br> | CVPR | 2025 | [Github](https://github.com/guojiajeremy/Dinomaly) | Multi-Class Unified |
 | ![Star](https://img.shields.io/github/stars/guojiajeremy/Dinomaly2.svg?style=social&label=Star) <br> [**One Dinomaly2 Detect Them All: A Unified Framework for Full-Spectrum Unsupervised Anomaly Detection**](https://arxiv.org/abs/2510.17611) <br> | Arxiv | 2025 | [Github](https://github.com/guojiajeremy/Dinomaly2) | Multi-Class, Multi-View, Multi-Modal, Few-shot |
@@ -983,6 +984,7 @@ Recent developments in industrial anomaly detection have reshaped method categor
 + DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection [[ECCV 2026]](https://eccv.ecva.net/virtual/2026/poster/3717)[[code]](https://github.com/evoLonation/DeMuS)
 ### Few-Shot AD
 
+ + VerdictAD: Few-Shot Anomaly Detection via Decision-Guided Refinement [[arXiv 2026]](https://arxiv.org/abs/2611.02654)[[code]](https://github.com/sgstq0811/VerdictAD-Jev-AD)
  + Beyond Normal References: Discriminative Few-Shot Anomaly Detection [[NeurIPS 2026]](https://arxiv.org/abs/2605.23231)[[code]](https://github.com/mala-lab/IDEAL)
  + Learning unsupervised metaformer for anomaly detection [[ICCV 2021]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Learning_Unsupervised_Metaformer_for_Anomaly_Detection_ICCV_2021_paper.pdf)
  + Registration based few-shot anomaly detection [[ECCV 2022 oral]](https://arxiv.org/pdf/2207.07361.pdf)[[code]](https://github.com/MediaBrain-SJTU/RegAD)
